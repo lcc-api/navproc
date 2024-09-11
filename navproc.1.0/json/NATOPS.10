@@ -1,0 +1,2445 @@
+{
+  "frames" : [ {
+    "headStartToken" : 107,
+    "headTokenLength" : 1,
+    "id" : "009279c420123bf7758d2cb142ea97b9",
+    "normalizedHead" : "give",
+    "normalizedTrigger" : "give",
+    "roles" : [ {
+      "normalizedRole" : "The TYCOM",
+      "normalizedRoleHead" : "TYCOM",
+      "normalizedTrigger" : "give",
+      "roleHeadStartToken" : 105,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "fb09bdd5c27757d01e64bdca48aa976f",
+      "roleInContext" : "[[The TYCOM]] shall give Written acknowledgement of the intended operation(s) and deviations before the respective flights occur.",
+      "roleStartToken" : 104,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "009279c420123bf7758d2cb142ea97b9"
+    }, {
+      "normalizedRole" : "Written acknowledgement of the intended operation ( s ) and deviations",
+      "normalizedRoleHead" : "acknowledgement",
+      "normalizedTrigger" : "give",
+      "roleHeadStartToken" : 109,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c6ed94737ab01c22887bb3b1229c5f71",
+      "roleInContext" : "The TYCOM shall give [[Written acknowledgement of the intended operation(s) and deviations]] before the respective flights occur.",
+      "roleStartToken" : 108,
+      "roleTokenLength" : 11,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "009279c420123bf7758d2cb142ea97b9"
+    } ],
+    "triggerInContext" : "The TYCOM shall [[give]] Written acknowledgement of the intended operation(s) and deviations before the respective flights occur.",
+    "triggerStartToken" : 107,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 3,
+    "headTokenLength" : 1,
+    "id" : "7f825fb3de78a66ef4ea36d9a34a55a8",
+    "normalizedHead" : "Programs",
+    "normalizedTrigger" : "Non - Programs of Record ( POR ) Systems",
+    "roles" : [ {
+      "normalizedRole" : "Non - Programs",
+      "normalizedRoleHead" : "Non - Programs",
+      "normalizedTrigger" : "Non - Programs of Record ( POR ) Systems",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 3,
+      "roleID" : "e6a2eab5b0cede856d530631df632cb4",
+      "roleInContext" : "14.1.9 [[Non-Programs]] of Record (POR) Systems",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 3,
+      "roleType" : "POSSESSIVE#POSSESSION",
+      "triggerID" : "7f825fb3de78a66ef4ea36d9a34a55a8"
+    }, {
+      "normalizedRole" : "Record ( POR ) Systems",
+      "normalizedRoleHead" : "Systems",
+      "normalizedTrigger" : "Non - Programs of Record ( POR ) Systems",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "774f6fce0e7eefe8a3fc9544b088c269",
+      "roleInContext" : "14.1.9 Non-Programs of [[Record (POR) Systems]]",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 5,
+      "roleType" : "POSSESSIVE#POSSESSOR",
+      "triggerID" : "7f825fb3de78a66ef4ea36d9a34a55a8"
+    } ],
+    "triggerInContext" : "14.1.9 [[Non-Programs of Record (POR) Systems]]",
+    "triggerStartToken" : 1,
+    "triggerTokenLength" : 9,
+    "triggerType" : "POSSESSIVE"
+  }, {
+    "headStartToken" : 3,
+    "headTokenLength" : 1,
+    "id" : "3011880cab6ac5fe560ac155724c6b18",
+    "normalizedHead" : "Programs",
+    "normalizedTrigger" : "Programs of Record ( POR )",
+    "roles" : [ {
+      "normalizedRole" : "Programs of Record",
+      "normalizedRoleHead" : "Programs",
+      "normalizedTrigger" : "Programs of Record ( POR )",
+      "roleHeadStartToken" : 3,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "635491d727f6520a107663a7ca754522",
+      "roleInContext" : "14.1.9 Non-[[Programs of Record]] (POR) Systems",
+      "roleStartToken" : 3,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#ENTITY",
+      "triggerID" : "3011880cab6ac5fe560ac155724c6b18"
+    }, {
+      "normalizedRole" : "( POR )",
+      "normalizedRoleHead" : "POR",
+      "normalizedTrigger" : "Programs of Record ( POR )",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7c1932eb32d045abd0c939195bcb01b5",
+      "roleInContext" : "14.1.9 Non-Programs of Record [[(POR)]] Systems",
+      "roleStartToken" : 6,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#OTHER_ENTITY",
+      "triggerID" : "3011880cab6ac5fe560ac155724c6b18"
+    } ],
+    "triggerInContext" : "14.1.9 Non-[[Programs of Record (POR)]] Systems",
+    "triggerStartToken" : 3,
+    "triggerTokenLength" : 6,
+    "triggerType" : "APPOS"
+  }, {
+    "headStartToken" : 13,
+    "headTokenLength" : 1,
+    "id" : "a8b527b3c5ab39ee45558bbb6a8bd2d7",
+    "normalizedHead" : "UAS",
+    "normalizedTrigger" : "Non - POR UAS",
+    "roles" : [ {
+      "normalizedRole" : "Non",
+      "normalizedRoleHead" : "Non",
+      "normalizedTrigger" : "Non - POR UAS",
+      "roleHeadStartToken" : 10,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a62ea0f84a1c99b9d4a5934000d54d2f",
+      "roleInContext" : "[[Non]]-POR UAS may need to operate under deviations from the strict limitations of this instruction.",
+      "roleStartToken" : 10,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "a8b527b3c5ab39ee45558bbb6a8bd2d7"
+    }, {
+      "normalizedRole" : "UAS",
+      "normalizedRoleHead" : "UAS",
+      "normalizedTrigger" : "Non - POR UAS",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3f8c6a58450fb7eaeb7dda96d970b50d",
+      "roleInContext" : "Non-POR [[UAS]] may need to operate under deviations from the strict limitations of this instruction.",
+      "roleStartToken" : 13,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "a8b527b3c5ab39ee45558bbb6a8bd2d7"
+    } ],
+    "triggerInContext" : "[[Non-POR UAS]] may need to operate under deviations from the strict limitations of this instruction.",
+    "triggerStartToken" : 10,
+    "triggerTokenLength" : 4,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 30,
+    "headTokenLength" : 1,
+    "id" : "caa71d89adcc8842c3412093ef5187e1",
+    "normalizedHead" : "commander",
+    "normalizedTrigger" : "commander",
+    "roles" : [ {
+      "normalizedRole" : "unit",
+      "normalizedRoleHead" : "unit",
+      "normalizedTrigger" : "commander",
+      "roleHeadStartToken" : 29,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "61a1fb1d7078f95294a63cbba6a38bce",
+      "roleInContext" : "The [[unit]] commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 29,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "caa71d89adcc8842c3412093ef5187e1"
+    }, {
+      "normalizedRole" : "commander",
+      "normalizedRoleHead" : "commander",
+      "normalizedTrigger" : "commander",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "aa98c7f2a7d53ca1002496d1c7800aad",
+      "roleInContext" : "The unit [[commander]] or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "caa71d89adcc8842c3412093ef5187e1"
+    } ],
+    "triggerInContext" : "The unit [[commander]] or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 30,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 26,
+    "headTokenLength" : 1,
+    "id" : "f9e469ccf4985a90d022cbafa9e25e3e",
+    "normalizedHead" : "instruction",
+    "normalizedTrigger" : "instruction",
+    "roles" : [ ],
+    "triggerInContext" : "Non-POR UAS may need to operate under deviations from the strict limitations of this [[instruction]].",
+    "triggerStartToken" : 26,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 31,
+    "headTokenLength" : 1,
+    "id" : "b5e1ca7a0f963a4bd4fa917c00839714",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "The unit commander",
+      "normalizedRoleHead" : "commander",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4ae76fbcaa5b37296f77bed5424122d8",
+      "roleInContext" : "[[The unit commander]] or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 28,
+      "roleTokenLength" : 3,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "b5e1ca7a0f963a4bd4fa917c00839714"
+    }, {
+      "normalizedRole" : "a designated representative of the Non - POR system",
+      "normalizedRoleHead" : "representative",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 34,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ae22352ff36d26a9fbd154aef8e94e48",
+      "roleInContext" : "The unit commander or [[a designated representative of the Non-POR system]] is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 32,
+      "roleTokenLength" : 9,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "b5e1ca7a0f963a4bd4fa917c00839714"
+    } ],
+    "triggerInContext" : "The unit commander [[or]] a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 31,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 117,
+    "headTokenLength" : 1,
+    "id" : "0aaf8d0ef129596e29c79a3d30b0bcd3",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "operation ( s )",
+      "normalizedRoleHead" : "s",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 115,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e44e3205cd7b1078e1cc11dc16fc3532",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of the intended [[operation(s)]] and deviations before the respective flights occur.",
+      "roleStartToken" : 113,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "0aaf8d0ef129596e29c79a3d30b0bcd3"
+    }, {
+      "normalizedRole" : "deviations",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 118,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "50fda8d49916659ae5170a658110cc3b",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and [[deviations]] before the respective flights occur.",
+      "roleStartToken" : 118,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "0aaf8d0ef129596e29c79a3d30b0bcd3"
+    } ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) [[and]] deviations before the respective flights occur.",
+    "triggerStartToken" : 117,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 123,
+    "headTokenLength" : 1,
+    "id" : "282f87b2746ceb0ec01ff80ee3106a5b",
+    "normalizedHead" : "occur",
+    "normalizedTrigger" : "occur",
+    "roles" : [ {
+      "normalizedRole" : "the respective flights",
+      "normalizedRoleHead" : "flights",
+      "normalizedTrigger" : "occur",
+      "roleHeadStartToken" : 122,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "155fba825d2bdc73ed94b7805e26fa56",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations before [[the respective flights]] occur.",
+      "roleStartToken" : 120,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "282f87b2746ceb0ec01ff80ee3106a5b"
+    } ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations before the respective flights [[occur]].",
+    "triggerStartToken" : 123,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 20,
+    "headTokenLength" : 1,
+    "id" : "74334118f8c59b9c2029928a0faa9889",
+    "normalizedHead" : "from",
+    "normalizedTrigger" : "from",
+    "roles" : [ {
+      "normalizedRole" : "deviations",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "from",
+      "roleHeadStartToken" : 19,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5feea7b824cc76e5675739c70c6e4c06",
+      "roleInContext" : "Non-POR UAS may need to operate under [[deviations]] from the strict limitations of this instruction.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "74334118f8c59b9c2029928a0faa9889"
+    }, {
+      "normalizedRole" : "limitations",
+      "normalizedRoleHead" : "limitations",
+      "normalizedTrigger" : "from",
+      "roleHeadStartToken" : 23,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "521de998325f3b03abdd1ed3721aeebf",
+      "roleInContext" : "Non-POR UAS may need to operate under deviations from the strict [[limitations]] of this instruction.",
+      "roleStartToken" : 23,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "74334118f8c59b9c2029928a0faa9889"
+    } ],
+    "triggerInContext" : "Non-POR UAS may need to operate under deviations [[from]] the strict limitations of this instruction.",
+    "triggerStartToken" : 20,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 44,
+    "headTokenLength" : 1,
+    "id" : "fdacaf03d9a1ff5e4622eb65e0f6d27a",
+    "normalizedHead" : "inform",
+    "normalizedTrigger" : "inform",
+    "roles" : [ {
+      "normalizedRole" : "The unit commander or a designated representative of the Non - POR system",
+      "normalizedRoleHead" : "representative",
+      "normalizedTrigger" : "inform",
+      "roleHeadStartToken" : 34,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9ee4551aa1c8379ad987506f212af7aa",
+      "roleInContext" : "[[The unit commander or a designated representative of the Non-POR system]] is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 28,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "fdacaf03d9a1ff5e4622eb65e0f6d27a"
+    }, {
+      "normalizedRole" : "their TYCOM",
+      "normalizedRoleHead" : "TYCOM",
+      "normalizedTrigger" : "inform",
+      "roleHeadStartToken" : 46,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a6ffdf7d93724c5f1a3afd968b84bbe2",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform [[their TYCOM]] of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 45,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "fdacaf03d9a1ff5e4622eb65e0f6d27a"
+    }, {
+      "normalizedRole" : "such deviations",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "inform",
+      "roleHeadStartToken" : 49,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7d3d8005053e858c83de75362419d88e",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of [[such deviations]] in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 48,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "fdacaf03d9a1ff5e4622eb65e0f6d27a"
+    }, {
+      "normalizedRole" : "writing",
+      "normalizedRoleHead" : "writing",
+      "normalizedTrigger" : "inform",
+      "roleHeadStartToken" : 51,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "44ab2afe1555a4b8925f3fd41a364781",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in [[writing]], with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 51,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "fdacaf03d9a1ff5e4622eb65e0f6d27a"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to [[inform]] their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 44,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 49,
+    "headTokenLength" : 1,
+    "id" : "4bacc7ac8fa3ea2580745b77a4c1ab54",
+    "normalizedHead" : "deviations",
+    "normalizedTrigger" : "such deviations",
+    "roles" : [ {
+      "normalizedRole" : "such",
+      "normalizedRoleHead" : "such",
+      "normalizedTrigger" : "such deviations",
+      "roleHeadStartToken" : 48,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "58b30ac98eb28b845aeaff2fa29b9681",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of [[such]] deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 48,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "4bacc7ac8fa3ea2580745b77a4c1ab54"
+    }, {
+      "normalizedRole" : "deviations",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "such deviations",
+      "roleHeadStartToken" : 49,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "00307b827dee1d654800b1c9ae86688b",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such [[deviations]] in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 49,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "4bacc7ac8fa3ea2580745b77a4c1ab54"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of [[such deviations]] in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 48,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 75,
+    "headTokenLength" : 1,
+    "id" : "d18805960af0933669ac3d7394e321af",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "the platform , timeframe , location ( s ) , and intended deviations from this instruction",
+      "normalizedRoleHead" : "platform",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 66,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "73709359f0d63dae604daa9ff4a91352",
+      "roleInContext" : "The letter will include [[the platform, timeframe, location(s), and intended deviations from this instruction]].",
+      "roleStartToken" : 65,
+      "roleTokenLength" : 16,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "d18805960af0933669ac3d7394e321af"
+    }, {
+      "normalizedRole" : "platform",
+      "normalizedRoleHead" : "platform",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 66,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "055ff3adfd75c4241e824fe16e863da9",
+      "roleInContext" : "The letter will include the [[platform]], timeframe, location(s), and intended deviations from this instruction.",
+      "roleStartToken" : 66,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "d18805960af0933669ac3d7394e321af"
+    }, {
+      "normalizedRole" : "timeframe",
+      "normalizedRoleHead" : "timeframe",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 68,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f5cc4f0c9122f70e7ee5c210c571f04d",
+      "roleInContext" : "The letter will include the platform, [[timeframe]], location(s), and intended deviations from this instruction.",
+      "roleStartToken" : 68,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "d18805960af0933669ac3d7394e321af"
+    }, {
+      "normalizedRole" : ", location ( s )",
+      "normalizedRoleHead" : "s",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 72,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f532875a5b6cbc38f693c921627a5814",
+      "roleInContext" : "The letter will include the platform, timeframe[[, location(s)]], and intended deviations from this instruction.",
+      "roleStartToken" : 69,
+      "roleTokenLength" : 5,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "d18805960af0933669ac3d7394e321af"
+    }, {
+      "normalizedRole" : "intended deviations from this instruction",
+      "normalizedRoleHead" : "instruction",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 80,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "540a47757bc82f187c73d87775701067",
+      "roleInContext" : "The letter will include the platform, timeframe, location(s), and [[intended deviations from this instruction]].",
+      "roleStartToken" : 76,
+      "roleTokenLength" : 5,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "d18805960af0933669ac3d7394e321af"
+    } ],
+    "triggerInContext" : "The letter will include the platform, timeframe, location(s), [[and]] intended deviations from this instruction.",
+    "triggerStartToken" : 75,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 19,
+    "headTokenLength" : 1,
+    "id" : "17fb7dbe474a7675316c5e46e83c0260",
+    "normalizedHead" : "deviations",
+    "normalizedTrigger" : "deviations",
+    "roles" : [ ],
+    "triggerInContext" : "Non-POR UAS may need to operate under [[deviations]] from the strict limitations of this instruction.",
+    "triggerStartToken" : 19,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 76,
+    "headTokenLength" : 1,
+    "id" : "cb658019b4a2d5678331420c5da4afd9",
+    "normalizedHead" : "intended",
+    "normalizedTrigger" : "intended",
+    "roles" : [ {
+      "normalizedRole" : "deviations from this instruction",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "intended",
+      "roleHeadStartToken" : 77,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b431069e6b709a50353fbfe148b2ca1f",
+      "roleInContext" : "The letter will include the platform, timeframe, location(s), and intended [[deviations from this instruction]].",
+      "roleStartToken" : 77,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "cb658019b4a2d5678331420c5da4afd9"
+    } ],
+    "triggerInContext" : "The letter will include the platform, timeframe, location(s), and [[intended]] deviations from this instruction.",
+    "triggerStartToken" : 76,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 109,
+    "headTokenLength" : 1,
+    "id" : "3c5ff56955e7e8aca70ebfae7f0899be",
+    "normalizedHead" : "acknowledgement",
+    "normalizedTrigger" : "acknowledgement",
+    "roles" : [ {
+      "normalizedRole" : "The TYCOM",
+      "normalizedRoleHead" : "TYCOM",
+      "normalizedTrigger" : "acknowledgement",
+      "roleHeadStartToken" : 105,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "dafb40a171a55a6af68bb6d9f61b2fc4",
+      "roleInContext" : "[[The TYCOM]] shall give Written acknowledgement of the intended operation(s) and deviations before the respective flights occur.",
+      "roleStartToken" : 104,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "3c5ff56955e7e8aca70ebfae7f0899be"
+    }, {
+      "normalizedRole" : "the intended operation ( s ) and deviations",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "acknowledgement",
+      "roleHeadStartToken" : 118,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "04492bb298c53ee437291bb718c1882d",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of [[the intended operation(s) and deviations]] before the respective flights occur.",
+      "roleStartToken" : 111,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "3c5ff56955e7e8aca70ebfae7f0899be"
+    } ],
+    "triggerInContext" : "The TYCOM shall give Written [[acknowledgement]] of the intended operation(s) and deviations before the respective flights occur.",
+    "triggerStartToken" : 109,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 33,
+    "headTokenLength" : 1,
+    "id" : "cafa22042b1691b9883bfcbce5b83d2d",
+    "normalizedHead" : "designated",
+    "normalizedTrigger" : "designated",
+    "roles" : [ {
+      "normalizedRole" : "representative",
+      "normalizedRoleHead" : "representative",
+      "normalizedTrigger" : "designated",
+      "roleHeadStartToken" : 34,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f39c652021d542bdc44c0171464dd728",
+      "roleInContext" : "The unit commander or a designated [[representative]] of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "cafa22042b1691b9883bfcbce5b83d2d"
+    } ],
+    "triggerInContext" : "The unit commander or a [[designated]] representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 33,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 64,
+    "headTokenLength" : 1,
+    "id" : "eba80981ac82257368b7b614206a0a0e",
+    "normalizedHead" : "include",
+    "normalizedTrigger" : "include",
+    "roles" : [ {
+      "normalizedRole" : "The letter",
+      "normalizedRoleHead" : "letter",
+      "normalizedTrigger" : "include",
+      "roleHeadStartToken" : 62,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7cca539f0c44e3fef4cc227a5aca50a0",
+      "roleInContext" : "[[The letter]] will include the platform, timeframe, location(s), and intended deviations from this instruction.",
+      "roleStartToken" : 61,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "eba80981ac82257368b7b614206a0a0e"
+    }, {
+      "normalizedRole" : "the platform , timeframe , location ( s ) , and intended deviations from this instruction",
+      "normalizedRoleHead" : "platform",
+      "normalizedTrigger" : "include",
+      "roleHeadStartToken" : 66,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e7374efa89f00e167b89d5996e69e72c",
+      "roleInContext" : "The letter will include [[the platform, timeframe, location(s), and intended deviations from this instruction]].",
+      "roleStartToken" : 65,
+      "roleTokenLength" : 16,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "eba80981ac82257368b7b614206a0a0e"
+    } ],
+    "triggerInContext" : "The letter will [[include]] the platform, timeframe, location(s), and intended deviations from this instruction.",
+    "triggerStartToken" : 64,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 119,
+    "headTokenLength" : 1,
+    "id" : "985983e89b824c622a8a65b686d9a0f5",
+    "normalizedHead" : "before",
+    "normalizedTrigger" : "before",
+    "roles" : [ {
+      "normalizedRole" : "give",
+      "normalizedRoleHead" : "give",
+      "normalizedTrigger" : "before",
+      "roleHeadStartToken" : 107,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "328c2c123d557ebe8e1b3d05edf68c86",
+      "roleInContext" : "The TYCOM shall [[give]] Written acknowledgement of the intended operation(s) and deviations before the respective flights occur.",
+      "roleStartToken" : 107,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "985983e89b824c622a8a65b686d9a0f5"
+    }, {
+      "normalizedRole" : "occur",
+      "normalizedRoleHead" : "occur",
+      "normalizedTrigger" : "before",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9441aad1448b929b26642417f8b2192a",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations before the respective flights [[occur]].",
+      "roleStartToken" : 123,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "985983e89b824c622a8a65b686d9a0f5"
+    } ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations [[before]] the respective flights occur.",
+    "triggerStartToken" : 119,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 15,
+    "headTokenLength" : 1,
+    "id" : "3cf8052efdd95d537b4890f185a44218",
+    "normalizedHead" : "need",
+    "normalizedTrigger" : "need",
+    "roles" : [ {
+      "normalizedRole" : "Non - POR UAS",
+      "normalizedRoleHead" : "UAS",
+      "normalizedTrigger" : "need",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6f4f86bd68851a9d5ae473a845b57443",
+      "roleInContext" : "[[Non-POR UAS]] may need to operate under deviations from the strict limitations of this instruction.",
+      "roleStartToken" : 10,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "3cf8052efdd95d537b4890f185a44218"
+    }, {
+      "normalizedRole" : "operate under deviations from the strict limitations of this instruction",
+      "normalizedRoleHead" : "instruction",
+      "normalizedTrigger" : "need",
+      "roleHeadStartToken" : 26,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "767b84158cafb555107ceb035ea4f535",
+      "roleInContext" : "Non-POR UAS may need to [[operate under deviations from the strict limitations of this instruction]].",
+      "roleStartToken" : 17,
+      "roleTokenLength" : 10,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "3cf8052efdd95d537b4890f185a44218"
+    } ],
+    "triggerInContext" : "Non-POR UAS may [[need]] to operate under deviations from the strict limitations of this instruction.",
+    "triggerStartToken" : 15,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 42,
+    "headTokenLength" : 1,
+    "id" : "b62795c2a646031f31217130c436aee4",
+    "normalizedHead" : "required",
+    "normalizedTrigger" : "required",
+    "roles" : [ {
+      "normalizedRole" : "The unit commander or a designated representative of the Non - POR system",
+      "normalizedRoleHead" : "representative",
+      "normalizedTrigger" : "required",
+      "roleHeadStartToken" : 34,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cb9fd0bf243fb53308aa1b5bc8573314",
+      "roleInContext" : "[[The unit commander or a designated representative of the Non-POR system]] is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 28,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "b62795c2a646031f31217130c436aee4"
+    }, {
+      "normalizedRole" : "inform their TYCOM of such deviations in writing , with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM",
+      "normalizedRoleHead" : "COMNAVAIRSYSCOM",
+      "normalizedTrigger" : "required",
+      "roleHeadStartToken" : 59,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "655df0043c7712f8d245b4e0a01214e9",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to [[inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM]].",
+      "roleStartToken" : 44,
+      "roleTokenLength" : 16,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "b62795c2a646031f31217130c436aee4"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is [[required]] to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 42,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 99,
+    "headTokenLength" : 1,
+    "id" : "141c77d73758f95c97722a67d8c52035",
+    "normalizedHead" : "process",
+    "normalizedTrigger" : "process",
+    "roles" : [ {
+      "normalizedRole" : "the TYCOM",
+      "normalizedRoleHead" : "TYCOM",
+      "normalizedTrigger" : "process",
+      "roleHeadStartToken" : 95,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "872c18e8f8df3e98ae68917e75c2a1a4",
+      "roleInContext" : "This shall be done in a timely manner so as to give [[the TYCOM]] the opportunity to process the informational letter.",
+      "roleStartToken" : 94,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "141c77d73758f95c97722a67d8c52035"
+    }, {
+      "normalizedRole" : "the informational letter",
+      "normalizedRoleHead" : "letter",
+      "normalizedTrigger" : "process",
+      "roleHeadStartToken" : 102,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "74bfb0d76d1d66d797c44ca5b364c56e",
+      "roleInContext" : "This shall be done in a timely manner so as to give the TYCOM the opportunity to process [[the informational letter]].",
+      "roleStartToken" : 100,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "141c77d73758f95c97722a67d8c52035"
+    } ],
+    "triggerInContext" : "This shall be done in a timely manner so as to give the TYCOM the opportunity to [[process]] the informational letter.",
+    "triggerStartToken" : 99,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 108,
+    "headTokenLength" : 1,
+    "id" : "b07b856e0ba59224ecd8e5d6972e4766",
+    "normalizedHead" : "Written",
+    "normalizedTrigger" : "Written",
+    "roles" : [ {
+      "normalizedRole" : "acknowledgement of the intended operation ( s ) and deviations",
+      "normalizedRoleHead" : "acknowledgement",
+      "normalizedTrigger" : "Written",
+      "roleHeadStartToken" : 109,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a0cc9d7ff3e7d36dee13432c73f619a1",
+      "roleInContext" : "The TYCOM shall give Written [[acknowledgement of the intended operation(s) and deviations]] before the respective flights occur.",
+      "roleStartToken" : 109,
+      "roleTokenLength" : 10,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "b07b856e0ba59224ecd8e5d6972e4766"
+    } ],
+    "triggerInContext" : "The TYCOM shall give [[Written]] acknowledgement of the intended operation(s) and deviations before the respective flights occur.",
+    "triggerStartToken" : 108,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 46,
+    "headTokenLength" : 1,
+    "id" : "6e79c8d01045fd35c8fb3ee2d3216d3d",
+    "normalizedHead" : "TYCOM",
+    "normalizedTrigger" : "their TYCOM",
+    "roles" : [ {
+      "normalizedRole" : "their",
+      "normalizedRoleHead" : "their",
+      "normalizedTrigger" : "their TYCOM",
+      "roleHeadStartToken" : 45,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f7469fb5a98d065ff38d6106bdacf0f2",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform [[their]] TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 45,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSOR",
+      "triggerID" : "6e79c8d01045fd35c8fb3ee2d3216d3d"
+    }, {
+      "normalizedRole" : "TYCOM",
+      "normalizedRoleHead" : "TYCOM",
+      "normalizedTrigger" : "their TYCOM",
+      "roleHeadStartToken" : 46,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d775d6641c660fa0394bc9cc64ef6526",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their [[TYCOM]] of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 46,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSION",
+      "triggerID" : "6e79c8d01045fd35c8fb3ee2d3216d3d"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform [[their TYCOM]] of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 45,
+    "triggerTokenLength" : 2,
+    "triggerType" : "POSSESSIVE"
+  }, {
+    "headStartToken" : 122,
+    "headTokenLength" : 1,
+    "id" : "080475b0614309b52f110cd02817a590",
+    "normalizedHead" : "flights",
+    "normalizedTrigger" : "flights",
+    "roles" : [ ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations before the respective [[flights]] occur.",
+    "triggerStartToken" : 122,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 58,
+    "headTokenLength" : 1,
+    "id" : "510a1aa4bc3cf5a1f7e95115f54520d6",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "COMNAVAIRFOR",
+      "normalizedRoleHead" : "COMNAVAIRFOR",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 57,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "06d247601670e74b0a9c71164bad13f3",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to [[COMNAVAIRFOR]] and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 57,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "510a1aa4bc3cf5a1f7e95115f54520d6"
+    }, {
+      "normalizedRole" : "COMNAVAIRSYSCOM",
+      "normalizedRoleHead" : "COMNAVAIRSYSCOM",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 59,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b39de3154c3d3af96950faea735a2234",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and [[COMNAVAIRSYSCOM]].",
+      "roleStartToken" : 59,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "510a1aa4bc3cf5a1f7e95115f54520d6"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR [[and]] COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 58,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 80,
+    "headTokenLength" : 1,
+    "id" : "7599df197183bba7da2aff84b2bea05b",
+    "normalizedHead" : "instruction",
+    "normalizedTrigger" : "this instruction",
+    "roles" : [ {
+      "normalizedRole" : "this",
+      "normalizedRoleHead" : "this",
+      "normalizedTrigger" : "this instruction",
+      "roleHeadStartToken" : 79,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "41542031f9c19de4b0a26fee3898ec3c",
+      "roleInContext" : "The letter will include the platform, timeframe, location(s), and intended deviations from [[this]] instruction.",
+      "roleStartToken" : 79,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "7599df197183bba7da2aff84b2bea05b"
+    }, {
+      "normalizedRole" : "instruction",
+      "normalizedRoleHead" : "instruction",
+      "normalizedTrigger" : "this instruction",
+      "roleHeadStartToken" : 80,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8736283b66fde18c79c5a0737bd933c2",
+      "roleInContext" : "The letter will include the platform, timeframe, location(s), and intended deviations from this [[instruction]].",
+      "roleStartToken" : 80,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "7599df197183bba7da2aff84b2bea05b"
+    } ],
+    "triggerInContext" : "The letter will include the platform, timeframe, location(s), and intended deviations from [[this instruction]].",
+    "triggerStartToken" : 79,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 118,
+    "headTokenLength" : 1,
+    "id" : "e603cb3b9fdf00c94f2516059d8844b1",
+    "normalizedHead" : "deviations",
+    "normalizedTrigger" : "deviations",
+    "roles" : [ ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and [[deviations]] before the respective flights occur.",
+    "triggerStartToken" : 118,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 34,
+    "headTokenLength" : 1,
+    "id" : "2ce652454b7a7d4ab621eddcb8f5ad12",
+    "normalizedHead" : "representative",
+    "normalizedTrigger" : "representative",
+    "roles" : [ {
+      "normalizedRole" : "representative",
+      "normalizedRoleHead" : "representative",
+      "normalizedTrigger" : "representative",
+      "roleHeadStartToken" : 34,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0bd1dae25445ba40a5147f850f0fe541",
+      "roleInContext" : "The unit commander or a designated [[representative]] of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "2ce652454b7a7d4ab621eddcb8f5ad12"
+    } ],
+    "triggerInContext" : "The unit commander or a designated [[representative]] of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 34,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 90,
+    "headTokenLength" : 2,
+    "id" : "dc81d6c821e854f1863e264bee10ac3a",
+    "normalizedHead" : "so as",
+    "normalizedTrigger" : "so as to",
+    "roles" : [ {
+      "normalizedRole" : "done",
+      "normalizedRoleHead" : "done",
+      "normalizedTrigger" : "so as to",
+      "roleHeadStartToken" : 85,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c85969e030134aeaeb9edec16f679475",
+      "roleInContext" : "This shall be [[done]] in a timely manner so as to give the TYCOM the opportunity to process the informational letter.",
+      "roleStartToken" : 85,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "dc81d6c821e854f1863e264bee10ac3a"
+    }, {
+      "normalizedRole" : "give",
+      "normalizedRoleHead" : "give",
+      "normalizedTrigger" : "so as to",
+      "roleHeadStartToken" : 93,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c736b19cd4ed1b827e5fcaa9aa433ed1",
+      "roleInContext" : "This shall be done in a timely manner so as to [[give]] the TYCOM the opportunity to process the informational letter.",
+      "roleStartToken" : 93,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "dc81d6c821e854f1863e264bee10ac3a"
+    } ],
+    "triggerInContext" : "This shall be done in a timely manner [[so as to]] give the TYCOM the opportunity to process the informational letter.",
+    "triggerStartToken" : 90,
+    "triggerTokenLength" : 3,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 55,
+    "headTokenLength" : 1,
+    "id" : "09049f59a6c71fc5d7a466394fec1966",
+    "normalizedHead" : "copy",
+    "normalizedTrigger" : "copy",
+    "roles" : [ {
+      "normalizedRole" : "information",
+      "normalizedRoleHead" : "information",
+      "normalizedTrigger" : "copy",
+      "roleHeadStartToken" : 54,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a39faef102071c84089391c2f0e6710b",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with [[information]] copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 54,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "09049f59a6c71fc5d7a466394fec1966"
+    }, {
+      "normalizedRole" : "COMNAVAIRFOR and COMNAVAIRSYSCOM",
+      "normalizedRoleHead" : "COMNAVAIRSYSCOM",
+      "normalizedTrigger" : "copy",
+      "roleHeadStartToken" : 59,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "27330ade8f855d5e0113fd1451106d1d",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to [[COMNAVAIRFOR and COMNAVAIRSYSCOM]].",
+      "roleStartToken" : 57,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "09049f59a6c71fc5d7a466394fec1966"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information [[copy]] to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 55,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 115,
+    "headTokenLength" : 1,
+    "id" : "9325778aee0921876b2d4f7f94ca5623",
+    "normalizedHead" : "s",
+    "normalizedTrigger" : "operation ( s )",
+    "roles" : [ ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the intended [[operation(s)]] and deviations before the respective flights occur.",
+    "triggerStartToken" : 113,
+    "triggerTokenLength" : 4,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 9,
+    "headTokenLength" : 1,
+    "id" : "bf1a04804bff9c5c47d124340f3e059e",
+    "normalizedHead" : "Systems",
+    "normalizedTrigger" : "Systems",
+    "roles" : [ {
+      "normalizedRole" : "Record ( POR",
+      "normalizedRoleHead" : "POR",
+      "normalizedTrigger" : "Systems",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "32d860f923bf21ef238065502d213b8b",
+      "roleInContext" : "14.1.9 Non-Programs of [[Record (POR]]) Systems",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "bf1a04804bff9c5c47d124340f3e059e"
+    } ],
+    "triggerInContext" : "14.1.9 Non-Programs of Record (POR) [[Systems]]",
+    "triggerStartToken" : 9,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 85,
+    "headTokenLength" : 1,
+    "id" : "944b476d16baf119d2e9c08d2ea998e7",
+    "normalizedHead" : "done",
+    "normalizedTrigger" : "done",
+    "roles" : [ {
+      "normalizedRole" : "This",
+      "normalizedRoleHead" : "This",
+      "normalizedTrigger" : "done",
+      "roleHeadStartToken" : 82,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f4a19dc5dd0a3c2d68d4cd5418ea787b",
+      "roleInContext" : "[[This]] shall be done in a timely manner so as to give the TYCOM the opportunity to process the informational letter.",
+      "roleStartToken" : 82,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "944b476d16baf119d2e9c08d2ea998e7"
+    }, {
+      "normalizedRole" : "a timely manner",
+      "normalizedRoleHead" : "manner",
+      "normalizedTrigger" : "done",
+      "roleHeadStartToken" : 89,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2da8ba4854c5a8a13c27b6dea599471d",
+      "roleInContext" : "This shall be done in [[a timely manner]] so as to give the TYCOM the opportunity to process the informational letter.",
+      "roleStartToken" : 87,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "944b476d16baf119d2e9c08d2ea998e7"
+    } ],
+    "triggerInContext" : "This shall be [[done]] in a timely manner so as to give the TYCOM the opportunity to process the informational letter.",
+    "triggerStartToken" : 85,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 53,
+    "headTokenLength" : 1,
+    "id" : "f97dab149b2f4010287bd85a56b46ecb",
+    "normalizedHead" : "with",
+    "normalizedTrigger" : "with",
+    "roles" : [ {
+      "normalizedRole" : "inform",
+      "normalizedRoleHead" : "inform",
+      "normalizedTrigger" : "with",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "442b9d19b0ddcb5778b6490bf4d3e4c6",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to [[inform]] their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 44,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "f97dab149b2f4010287bd85a56b46ecb"
+    }, {
+      "normalizedRole" : "copy",
+      "normalizedRoleHead" : "copy",
+      "normalizedTrigger" : "with",
+      "roleHeadStartToken" : 55,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c505bb0c88eae0e56e3a698f845306a8",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information [[copy]] to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 55,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "f97dab149b2f4010287bd85a56b46ecb"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in writing, [[with]] information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 53,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 23,
+    "headTokenLength" : 1,
+    "id" : "63fead6d8346aff93d9cb9485b797b81",
+    "normalizedHead" : "limitations",
+    "normalizedTrigger" : "limitations",
+    "roles" : [ {
+      "normalizedRole" : "strict",
+      "normalizedRoleHead" : "strict",
+      "normalizedTrigger" : "limitations",
+      "roleHeadStartToken" : 22,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a36a2e25765be1b291c05463a9fb3032",
+      "roleInContext" : "Non-POR UAS may need to operate under deviations from the [[strict]] limitations of this instruction.",
+      "roleStartToken" : 22,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "63fead6d8346aff93d9cb9485b797b81"
+    }, {
+      "normalizedRole" : "this instruction",
+      "normalizedRoleHead" : "instruction",
+      "normalizedTrigger" : "limitations",
+      "roleHeadStartToken" : 26,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8be48079b9cefb3d722fd295f179b1cc",
+      "roleInContext" : "Non-POR UAS may need to operate under deviations from the strict limitations of [[this instruction]].",
+      "roleStartToken" : 25,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "63fead6d8346aff93d9cb9485b797b81"
+    } ],
+    "triggerInContext" : "Non-POR UAS may need to operate under deviations from the strict [[limitations]] of this instruction.",
+    "triggerStartToken" : 23,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 18,
+    "headTokenLength" : 1,
+    "id" : "4f14ecdbee2285ac57240b37ee1e06be",
+    "normalizedHead" : "under",
+    "normalizedTrigger" : "under",
+    "roles" : [ {
+      "normalizedRole" : "operate",
+      "normalizedRoleHead" : "operate",
+      "normalizedTrigger" : "under",
+      "roleHeadStartToken" : 17,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d89a423d926f77a10271fd91d0feda02",
+      "roleInContext" : "Non-POR UAS may need to [[operate]] under deviations from the strict limitations of this instruction.",
+      "roleStartToken" : 17,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "4f14ecdbee2285ac57240b37ee1e06be"
+    }, {
+      "normalizedRole" : "deviations",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "under",
+      "roleHeadStartToken" : 19,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a3d3d60e6ce0e1eec13a757c1870c50f",
+      "roleInContext" : "Non-POR UAS may need to operate under [[deviations]] from the strict limitations of this instruction.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "4f14ecdbee2285ac57240b37ee1e06be"
+    } ],
+    "triggerInContext" : "Non-POR UAS may need to operate [[under]] deviations from the strict limitations of this instruction.",
+    "triggerStartToken" : 18,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 51,
+    "headTokenLength" : 1,
+    "id" : "13f5779194bb0b80ea014e9115d63242",
+    "normalizedHead" : "writing",
+    "normalizedTrigger" : "writing",
+    "roles" : [ {
+      "normalizedRole" : "writing",
+      "normalizedRoleHead" : "writing",
+      "normalizedTrigger" : "writing",
+      "roleHeadStartToken" : 51,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "446b5981178e067c90dca3befe21178b",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in [[writing]], with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 51,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "13f5779194bb0b80ea014e9115d63242"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such deviations in [[writing]], with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 51,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 40,
+    "headTokenLength" : 1,
+    "id" : "588c02e4ca4ff49dbc8a8494b1a6df64",
+    "normalizedHead" : "system",
+    "normalizedTrigger" : "Non - POR system",
+    "roles" : [ {
+      "normalizedRole" : "Non - POR",
+      "normalizedRoleHead" : "Non - POR",
+      "normalizedTrigger" : "Non - POR system",
+      "roleHeadStartToken" : 37,
+      "roleHeadTokenLength" : 3,
+      "roleID" : "d29626ef5da449a422a3e329cdd7a3f2",
+      "roleInContext" : "The unit commander or a designated representative of the [[Non-POR]] system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 37,
+      "roleTokenLength" : 3,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "588c02e4ca4ff49dbc8a8494b1a6df64"
+    }, {
+      "normalizedRole" : "system",
+      "normalizedRoleHead" : "system",
+      "normalizedTrigger" : "Non - POR system",
+      "roleHeadStartToken" : 40,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "151127713af44ac8859184c8b6c24e5a",
+      "roleInContext" : "The unit commander or a designated representative of the Non-POR [[system]] is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 40,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "588c02e4ca4ff49dbc8a8494b1a6df64"
+    } ],
+    "triggerInContext" : "The unit commander or a designated representative of the [[Non-POR system]] is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 37,
+    "triggerTokenLength" : 4,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 93,
+    "headTokenLength" : 1,
+    "id" : "5740d190f10cd9e0f3a2f2a06b1f70a2",
+    "normalizedHead" : "give",
+    "normalizedTrigger" : "give",
+    "roles" : [ {
+      "normalizedRole" : "the TYCOM",
+      "normalizedRoleHead" : "TYCOM",
+      "normalizedTrigger" : "give",
+      "roleHeadStartToken" : 95,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "86782222be606136b689f65c4d60797a",
+      "roleInContext" : "This shall be done in a timely manner so as to give [[the TYCOM]] the opportunity to process the informational letter.",
+      "roleStartToken" : 94,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A2",
+      "triggerID" : "5740d190f10cd9e0f3a2f2a06b1f70a2"
+    }, {
+      "normalizedRole" : "the opportunity to process the informational letter",
+      "normalizedRoleHead" : "opportunity",
+      "normalizedTrigger" : "give",
+      "roleHeadStartToken" : 97,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "74c9a3cb8e7e3b0371aeb3eaddad6a67",
+      "roleInContext" : "This shall be done in a timely manner so as to give the TYCOM [[the opportunity to process the informational letter]].",
+      "roleStartToken" : 96,
+      "roleTokenLength" : 7,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "5740d190f10cd9e0f3a2f2a06b1f70a2"
+    } ],
+    "triggerInContext" : "This shall be done in a timely manner so as to [[give]] the TYCOM the opportunity to process the informational letter.",
+    "triggerStartToken" : 93,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 26,
+    "headTokenLength" : 1,
+    "id" : "0cb0fa1d3bac2a383436b8d61465a7c3",
+    "normalizedHead" : "instruction",
+    "normalizedTrigger" : "this instruction",
+    "roles" : [ {
+      "normalizedRole" : "this",
+      "normalizedRoleHead" : "this",
+      "normalizedTrigger" : "this instruction",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5751fa7b934e473b7481eaa57ab093d5",
+      "roleInContext" : "Non-POR UAS may need to operate under deviations from the strict limitations of [[this]] instruction.",
+      "roleStartToken" : 25,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "0cb0fa1d3bac2a383436b8d61465a7c3"
+    }, {
+      "normalizedRole" : "instruction",
+      "normalizedRoleHead" : "instruction",
+      "normalizedTrigger" : "this instruction",
+      "roleHeadStartToken" : 26,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c4272553e7e67236867c4d04d87d10f0",
+      "roleInContext" : "Non-POR UAS may need to operate under deviations from the strict limitations of this [[instruction]].",
+      "roleStartToken" : 26,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "0cb0fa1d3bac2a383436b8d61465a7c3"
+    } ],
+    "triggerInContext" : "Non-POR UAS may need to operate under deviations from the strict limitations of [[this instruction]].",
+    "triggerStartToken" : 25,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 112,
+    "headTokenLength" : 1,
+    "id" : "39ee757872baa3777ed9df9426413ee9",
+    "normalizedHead" : "intended",
+    "normalizedTrigger" : "intended",
+    "roles" : [ {
+      "normalizedRole" : "operation ( s ) and deviations",
+      "normalizedRoleHead" : "deviations",
+      "normalizedTrigger" : "intended",
+      "roleHeadStartToken" : 118,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "367b687678a6bfab168ca170924ec348",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of the intended [[operation(s) and deviations]] before the respective flights occur.",
+      "roleStartToken" : 113,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "39ee757872baa3777ed9df9426413ee9"
+    } ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the [[intended]] operation(s) and deviations before the respective flights occur.",
+    "triggerStartToken" : 112,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 34,
+    "headTokenLength" : 1,
+    "id" : "2800f1015e54b32102d8cde44c6fedb5",
+    "normalizedHead" : "representative",
+    "normalizedTrigger" : "representative of the Non - POR system",
+    "roles" : [ {
+      "normalizedRole" : "representative",
+      "normalizedRoleHead" : "representative",
+      "normalizedTrigger" : "representative of the Non - POR system",
+      "roleHeadStartToken" : 34,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5ff433eb6944760153512afe92b3dc60",
+      "roleInContext" : "The unit commander or a designated [[representative]] of the Non-POR system is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSION",
+      "triggerID" : "2800f1015e54b32102d8cde44c6fedb5"
+    }, {
+      "normalizedRole" : "the Non - POR system",
+      "normalizedRoleHead" : "system",
+      "normalizedTrigger" : "representative of the Non - POR system",
+      "roleHeadStartToken" : 40,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "115ad6ea7db62d7b6ccf26b34712fc5a",
+      "roleInContext" : "The unit commander or a designated representative of [[the Non-POR system]] is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+      "roleStartToken" : 36,
+      "roleTokenLength" : 5,
+      "roleType" : "POSSESSIVE#POSSESSOR",
+      "triggerID" : "2800f1015e54b32102d8cde44c6fedb5"
+    } ],
+    "triggerInContext" : "The unit commander or a designated [[representative of the Non-POR system]] is required to inform their TYCOM of such deviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 34,
+    "triggerTokenLength" : 7,
+    "triggerType" : "POSSESSIVE"
+  }, {
+    "headStartToken" : 49,
+    "headTokenLength" : 1,
+    "id" : "56e77f7988e3c9ca0c3ff99d9b503ef9",
+    "normalizedHead" : "deviations",
+    "normalizedTrigger" : "deviations",
+    "roles" : [ ],
+    "triggerInContext" : "The unit commander or a designated representative of the Non-POR system is required to inform their TYCOM of such [[deviations]] in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM.",
+    "triggerStartToken" : 49,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 77,
+    "headTokenLength" : 1,
+    "id" : "4d73c89d8668c5fcabd0bf88178517cd",
+    "normalizedHead" : "deviations",
+    "normalizedTrigger" : "deviations",
+    "roles" : [ {
+      "normalizedRole" : "this instruction",
+      "normalizedRoleHead" : "instruction",
+      "normalizedTrigger" : "deviations",
+      "roleHeadStartToken" : 80,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "718baeb1be5eff452ad0676155769b9e",
+      "roleInContext" : "The letter will include the platform, timeframe, location(s), and intended deviations from [[this instruction]].",
+      "roleStartToken" : 79,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "4d73c89d8668c5fcabd0bf88178517cd"
+    } ],
+    "triggerInContext" : "The letter will include the platform, timeframe, location(s), and intended [[deviations]] from this instruction.",
+    "triggerStartToken" : 77,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 102,
+    "headTokenLength" : 1,
+    "id" : "a1b881f82bf0880843f43a89437c92c1",
+    "normalizedHead" : "letter",
+    "normalizedTrigger" : "informational letter",
+    "roles" : [ {
+      "normalizedRole" : "informational",
+      "normalizedRoleHead" : "informational",
+      "normalizedTrigger" : "informational letter",
+      "roleHeadStartToken" : 101,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f2215735df077e1ea56de4a98674e008",
+      "roleInContext" : "This shall be done in a timely manner so as to give the TYCOM the opportunity to process the [[informational]] letter.",
+      "roleStartToken" : 101,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "a1b881f82bf0880843f43a89437c92c1"
+    }, {
+      "normalizedRole" : "letter",
+      "normalizedRoleHead" : "letter",
+      "normalizedTrigger" : "informational letter",
+      "roleHeadStartToken" : 102,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f619f773b2231646e65dff76097414d5",
+      "roleInContext" : "This shall be done in a timely manner so as to give the TYCOM the opportunity to process the informational [[letter]].",
+      "roleStartToken" : 102,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "a1b881f82bf0880843f43a89437c92c1"
+    } ],
+    "triggerInContext" : "This shall be done in a timely manner so as to give the TYCOM the opportunity to process the [[informational letter]].",
+    "triggerStartToken" : 101,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 122,
+    "headTokenLength" : 1,
+    "id" : "d8bb77d15172321166f3e8124e58368c",
+    "normalizedHead" : "flights",
+    "normalizedTrigger" : "respective flights",
+    "roles" : [ {
+      "normalizedRole" : "respective",
+      "normalizedRoleHead" : "respective",
+      "normalizedTrigger" : "respective flights",
+      "roleHeadStartToken" : 121,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2408b7e777deec4004278dbe48ef2ea7",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations before the [[respective]] flights occur.",
+      "roleStartToken" : 121,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "d8bb77d15172321166f3e8124e58368c"
+    }, {
+      "normalizedRole" : "flights",
+      "normalizedRoleHead" : "flights",
+      "normalizedTrigger" : "respective flights",
+      "roleHeadStartToken" : 122,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4906430679981ab81db3bfbb20a0f1cf",
+      "roleInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations before the respective [[flights]] occur.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "d8bb77d15172321166f3e8124e58368c"
+    } ],
+    "triggerInContext" : "The TYCOM shall give Written acknowledgement of the intended operation(s) and deviations before the [[respective flights]] occur.",
+    "triggerStartToken" : 121,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 17,
+    "headTokenLength" : 1,
+    "id" : "caced52564a2bc7560cb36d763dd2c30",
+    "normalizedHead" : "operate",
+    "normalizedTrigger" : "operate",
+    "roles" : [ {
+      "normalizedRole" : "Non - POR UAS",
+      "normalizedRoleHead" : "UAS",
+      "normalizedTrigger" : "operate",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3f9d711f15734fab496cf04d9d3a1b1e",
+      "roleInContext" : "[[Non-POR UAS]] may need to operate under deviations from the strict limitations of this instruction.",
+      "roleStartToken" : 10,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "caced52564a2bc7560cb36d763dd2c30"
+    } ],
+    "triggerInContext" : "Non-POR UAS may need to [[operate]] under deviations from the strict limitations of this instruction.",
+    "triggerStartToken" : 17,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 80,
+    "headTokenLength" : 1,
+    "id" : "4c80e342ff3f68eff5a3dd5256e73698",
+    "normalizedHead" : "instruction",
+    "normalizedTrigger" : "instruction",
+    "roles" : [ ],
+    "triggerInContext" : "The letter will include the platform, timeframe, location(s), and intended deviations from this [[instruction]].",
+    "triggerStartToken" : 80,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 3,
+    "headTokenLength" : 1,
+    "id" : "f1c4d749913171bc2555de2d37d39525",
+    "normalizedHead" : "Programs",
+    "normalizedTrigger" : "Programs",
+    "roles" : [ {
+      "normalizedRole" : "Non",
+      "normalizedRoleHead" : "Non",
+      "normalizedTrigger" : "Programs",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "35e3e5394b52c91217845c4c1fa3cd98",
+      "roleInContext" : "14.1.9 [[Non]]-Programs of Record (POR) Systems",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "f1c4d749913171bc2555de2d37d39525"
+    }, {
+      "normalizedRole" : "Record ( POR ) Systems",
+      "normalizedRoleHead" : "Systems",
+      "normalizedTrigger" : "Programs",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3144f8bf8bc23d38b01df5ec29adc8ce",
+      "roleInContext" : "14.1.9 Non-Programs of [[Record (POR) Systems]]",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "f1c4d749913171bc2555de2d37d39525"
+    } ],
+    "triggerInContext" : "14.1.9 Non-[[Programs]] of Record (POR) Systems",
+    "triggerStartToken" : 3,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  } ],
+  "label" : "14.1.9 Non-Programs of Record (POR) Systems",
+  "raw" : "14.1.9 Non-Programs of Record (POR) Systems\n\nNon-POR UAS may need to operate under deviations from the strict limitations of this instruction. The unit\ncommander or a designated representative of the Non-POR system is required to inform their TYCOM of such\ndeviations in writing, with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM. The letter will\ninclude the platform, timeframe, location(s), and intended deviations from this instruction. This shall be done in a\ntimely manner so as to give the TYCOM the opportunity to process the informational letter. The TYCOM shall give\nWritten acknowledgement of the intended operation(s) and deviations before the respective flights occur.",
+  "sentences" : [ {
+    "normalized" : "14.1.9 Non - Programs of Record ( POR ) Systems",
+    "offset" : 0,
+    "startToken" : 0,
+    "tokenLength" : 10
+  }, {
+    "normalized" : "Non - POR UAS may need to operate under deviations from the strict limitations of this instruction .",
+    "offset" : 1,
+    "startToken" : 10,
+    "tokenLength" : 18
+  }, {
+    "normalized" : "The unit commander or a designated representative of the Non - POR system is required to inform their TYCOM of such deviations in writing , with information copy to COMNAVAIRFOR and COMNAVAIRSYSCOM .",
+    "offset" : 2,
+    "startToken" : 28,
+    "tokenLength" : 33
+  }, {
+    "normalized" : "The letter will include the platform , timeframe , location ( s ) , and intended deviations from this instruction .",
+    "offset" : 3,
+    "startToken" : 61,
+    "tokenLength" : 21
+  }, {
+    "normalized" : "This shall be done in a timely manner so as to give the TYCOM the opportunity to process the informational letter .",
+    "offset" : 4,
+    "startToken" : 82,
+    "tokenLength" : 22
+  }, {
+    "normalized" : "The TYCOM shall give Written acknowledgement of the intended operation ( s ) and deviations before the respective flights occur .",
+    "offset" : 5,
+    "startToken" : 104,
+    "tokenLength" : 21
+  } ],
+  "tokens" : [ {
+    "charLength" : 6,
+    "normalized" : "14.1.9",
+    "offset" : 0,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 0,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 3,
+    "normalized" : "Non",
+    "offset" : 1,
+    "secondaryTokenTag" : "PRE",
+    "startChar" : 7,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 2,
+    "secondaryTokenTag" : "-",
+    "startChar" : 10,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 8,
+    "normalized" : "Programs",
+    "offset" : 3,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 11,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 4,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 20,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 6,
+    "normalized" : "Record",
+    "offset" : 5,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 23,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 6,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 30,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "POR",
+    "offset" : 7,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 31,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 8,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 34,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Systems",
+    "offset" : 9,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 36,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "Non",
+    "offset" : 10,
+    "secondaryTokenTag" : "PRE",
+    "startChar" : 45,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 11,
+    "secondaryTokenTag" : "-",
+    "startChar" : 48,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "POR",
+    "offset" : 12,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 49,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "UAS",
+    "offset" : 13,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 53,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "may",
+    "offset" : 14,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 57,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 4,
+    "normalized" : "need",
+    "offset" : 15,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 61,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 16,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 66,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 7,
+    "normalized" : "operate",
+    "offset" : 17,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 69,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "under",
+    "offset" : 18,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 77,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 10,
+    "normalized" : "deviations",
+    "offset" : 19,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 83,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 4,
+    "normalized" : "from",
+    "offset" : 20,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 94,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 21,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 99,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "strict",
+    "offset" : 22,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 103,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 11,
+    "normalized" : "limitations",
+    "offset" : 23,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 110,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 24,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 122,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "this",
+    "offset" : 25,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 125,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "instruction",
+    "offset" : 26,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 130,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 27,
+    "secondaryTokenTag" : ".",
+    "startChar" : 141,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "The",
+    "offset" : 28,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 143,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 4,
+    "normalized" : "unit",
+    "offset" : 29,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 147,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "commander",
+    "offset" : 30,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 152,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 31,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 162,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 1,
+    "normalized" : "a",
+    "offset" : 32,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 165,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 10,
+    "normalized" : "designated",
+    "offset" : 33,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 167,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 14,
+    "normalized" : "representative",
+    "offset" : 34,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 178,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 35,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 193,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 36,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 196,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 3,
+    "normalized" : "Non",
+    "offset" : 37,
+    "secondaryTokenTag" : "PRE",
+    "startChar" : 200,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 38,
+    "secondaryTokenTag" : "-",
+    "startChar" : 203,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "POR",
+    "offset" : 39,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 204,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 6,
+    "normalized" : "system",
+    "offset" : 40,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 208,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 41,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 215,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "required",
+    "offset" : 42,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 218,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 43,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 227,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "inform",
+    "offset" : 44,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 230,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "their",
+    "offset" : 45,
+    "secondaryTokenTag" : "PRP$",
+    "startChar" : 237,
+    "tokenTag" : "PRP$"
+  }, {
+    "charLength" : 5,
+    "normalized" : "TYCOM",
+    "offset" : 46,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 243,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 47,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 249,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "such",
+    "offset" : 48,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 252,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "deviations",
+    "offset" : 49,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 257,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 50,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 268,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "writing",
+    "offset" : 51,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 271,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 52,
+    "secondaryTokenTag" : ",",
+    "startChar" : 278,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 53,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 280,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 11,
+    "normalized" : "information",
+    "offset" : 54,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 285,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "copy",
+    "offset" : 55,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 297,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 56,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 302,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 12,
+    "normalized" : "COMNAVAIRFOR",
+    "offset" : 57,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 305,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 58,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 318,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 15,
+    "normalized" : "COMNAVAIRSYSCOM",
+    "offset" : 59,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 322,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 60,
+    "secondaryTokenTag" : ".",
+    "startChar" : 337,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "The",
+    "offset" : 61,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 339,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "letter",
+    "offset" : 62,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 343,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "will",
+    "offset" : 63,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 350,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 7,
+    "normalized" : "include",
+    "offset" : 64,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 355,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 65,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 363,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 8,
+    "normalized" : "platform",
+    "offset" : 66,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 367,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 67,
+    "secondaryTokenTag" : ",",
+    "startChar" : 375,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 9,
+    "normalized" : "timeframe",
+    "offset" : 68,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 377,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 69,
+    "secondaryTokenTag" : ",",
+    "startChar" : 386,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 8,
+    "normalized" : "location",
+    "offset" : 70,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 388,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 71,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 396,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : "s",
+    "offset" : 72,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 397,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 73,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 398,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 74,
+    "secondaryTokenTag" : ",",
+    "startChar" : 399,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 75,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 401,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 8,
+    "normalized" : "intended",
+    "offset" : 76,
+    "secondaryTokenTag" : "VBD",
+    "startChar" : 405,
+    "tokenTag" : "VBD"
+  }, {
+    "charLength" : 10,
+    "normalized" : "deviations",
+    "offset" : 77,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 414,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 4,
+    "normalized" : "from",
+    "offset" : 78,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 425,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "this",
+    "offset" : 79,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 430,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "instruction",
+    "offset" : 80,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 435,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 81,
+    "secondaryTokenTag" : ".",
+    "startChar" : 446,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 4,
+    "normalized" : "This",
+    "offset" : 82,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 448,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "shall",
+    "offset" : 83,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 453,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 2,
+    "normalized" : "be",
+    "offset" : 84,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 459,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 4,
+    "normalized" : "done",
+    "offset" : 85,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 462,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 86,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 467,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "a",
+    "offset" : 87,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 470,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "timely",
+    "offset" : 88,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 472,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 6,
+    "normalized" : "manner",
+    "offset" : 89,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 479,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "so",
+    "offset" : 90,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 486,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "as",
+    "offset" : 91,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 489,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 92,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 492,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 4,
+    "normalized" : "give",
+    "offset" : 93,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 495,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 94,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 500,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "TYCOM",
+    "offset" : 95,
+    "secondaryTokenTag" : "FW",
+    "startChar" : 504,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 96,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 510,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "opportunity",
+    "offset" : 97,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 514,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 98,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 526,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 7,
+    "normalized" : "process",
+    "offset" : 99,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 529,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 100,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 537,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 13,
+    "normalized" : "informational",
+    "offset" : 101,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 541,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 6,
+    "normalized" : "letter",
+    "offset" : 102,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 555,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 103,
+    "secondaryTokenTag" : ".",
+    "startChar" : 561,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "The",
+    "offset" : 104,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 563,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "TYCOM",
+    "offset" : 105,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 567,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "shall",
+    "offset" : 106,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 573,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 4,
+    "normalized" : "give",
+    "offset" : 107,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 579,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Written",
+    "offset" : 108,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 584,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 15,
+    "normalized" : "acknowledgement",
+    "offset" : 109,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 592,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 110,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 608,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 111,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 611,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 8,
+    "normalized" : "intended",
+    "offset" : 112,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 615,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 9,
+    "normalized" : "operation",
+    "offset" : 113,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 624,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 114,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 633,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : "s",
+    "offset" : 115,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 634,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 116,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 635,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 117,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 637,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "deviations",
+    "offset" : 118,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 641,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 6,
+    "normalized" : "before",
+    "offset" : 119,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 652,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 120,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 659,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 10,
+    "normalized" : "respective",
+    "offset" : 121,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 663,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "flights",
+    "offset" : 122,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 674,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 5,
+    "normalized" : "occur",
+    "offset" : 123,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 682,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 124,
+    "secondaryTokenTag" : ".",
+    "startChar" : 687,
+    "tokenTag" : "."
+  } ],
+  "zones" : [ {
+    "lastSentence" : 0,
+    "normalized" : "14.1.9 Non - Programs of Record ( POR ) Systems",
+    "startSentence" : 0,
+    "type" : "Heading"
+  }, {
+    "lastSentence" : 5,
+    "normalized" : "14.1.9 Non - Programs of...the respective flights occur .",
+    "startSentence" : 0,
+    "type" : "HeadingWithContent"
+  } ]
+}

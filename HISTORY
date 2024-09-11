@@ -1,0 +1,10 @@
+### Version 0.9 -- 10/20/2023 #################
+
+Generated dataset of 158 procedural units composed of 2,316 sentences, 44,459 tokens, and 48,164 distinct span annotations.
+
+My intention is to perform one more round of quality assurance before the camera-ready submission (v1.0), so accordingly this is version 0.9.
+At that time, we will also be publishing the corpus more broadly via github.
+
+
+### Version 1.0 -- 09/09/2024 #################
+No changes from the prior version, but released for public consumption at https://github.com/lcc-api/navproc

@@ -1,0 +1,1727 @@
+{
+  "frames" : [ {
+    "headStartToken" : 51,
+    "headTokenLength" : 1,
+    "id" : "a504b1899d194024c5c28fc8b5c63312",
+    "normalizedHead" : "informing",
+    "normalizedTrigger" : "informing",
+    "roles" : [ {
+      "normalizedRole" : "the Maintenance Manager",
+      "normalizedRoleHead" : "Manager",
+      "normalizedTrigger" : "informing",
+      "roleHeadStartToken" : 54,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "700e3ed5bf0aa76260d6e318557bc0e6",
+      "roleInContext" : "Prior to informing [[the Maintenance Manager]], direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 52,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "a504b1899d194024c5c28fc8b5c63312"
+    } ],
+    "triggerInContext" : "Prior to [[informing]] the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 51,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 10,
+    "headTokenLength" : 1,
+    "id" : "17ca4ca2e25bd0aedb6e365d0b7d964d",
+    "normalizedHead" : "accomplished",
+    "normalizedTrigger" : "accomplished",
+    "roles" : [ {
+      "normalizedRole" : "unsatisfactory work",
+      "normalizedRoleHead" : "work",
+      "normalizedTrigger" : "accomplished",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6f8b98c15e0c7c424ba7ced8dc452058",
+      "roleInContext" : "Any [[unsatisfactory work]] accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 8,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "17ca4ca2e25bd0aedb6e365d0b7d964d"
+    }, {
+      "normalizedRole" : "any maintenance activity",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "accomplished",
+      "roleHeadStartToken" : 18,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b6a5122c1a5f4c65062d7b6318c90bbb",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by [[any maintenance activity]] must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 16,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "17ca4ca2e25bd0aedb6e365d0b7d964d"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work [[accomplished]] or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 10,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 66,
+    "headTokenLength" : 1,
+    "id" : "dd8e217f291bedfbc46505db642b5c5b",
+    "normalizedHead" : "clarifying",
+    "normalizedTrigger" : "clarifying",
+    "roles" : [ {
+      "normalizedRole" : "deficiencies",
+      "normalizedRoleHead" : "deficiencies",
+      "normalizedTrigger" : "clarifying",
+      "roleHeadStartToken" : 67,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "61bf8d8cda74ad28aaa205273dccab09",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying [[deficiencies]] is required.",
+      "roleStartToken" : 67,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "dd8e217f291bedfbc46505db642b5c5b"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and [[clarifying]] deficiencies is required.",
+    "triggerStartToken" : 66,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 53,
+    "headTokenLength" : 1,
+    "id" : "51ffa705280e9e69bc209d09f064686a",
+    "normalizedHead" : "Maintenance",
+    "normalizedTrigger" : "Maintenance",
+    "roles" : [ ],
+    "triggerInContext" : "Prior to informing the [[Maintenance]] Manager, direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 53,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 31,
+    "headTokenLength" : 1,
+    "id" : "3dadd9dae5368e9a1728fcf8f3cd0143",
+    "normalizedHead" : "Manager",
+    "normalizedTrigger" : "Manager",
+    "roles" : [ {
+      "normalizedRole" : "applicable",
+      "normalizedRoleHead" : "applicable",
+      "normalizedTrigger" : "Manager",
+      "roleHeadStartToken" : 29,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "33b65e35508c3e4fc0cbe9e46354861c",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the [[applicable]] Maintenance Manager.",
+      "roleStartToken" : 29,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "3dadd9dae5368e9a1728fcf8f3cd0143"
+    }, {
+      "normalizedRole" : "Maintenance",
+      "normalizedRoleHead" : "Maintenance",
+      "normalizedTrigger" : "Manager",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "711bb55c79cb792618a066b0d9c34e35",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable [[Maintenance]] Manager.",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "3dadd9dae5368e9a1728fcf8f3cd0143"
+    }, {
+      "normalizedRole" : "Manager",
+      "normalizedRoleHead" : "Manager",
+      "normalizedTrigger" : "Manager",
+      "roleHeadStartToken" : 31,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e3bef3c6011bfac5af90e20c373ea49e",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance [[Manager]].",
+      "roleStartToken" : 31,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "3dadd9dae5368e9a1728fcf8f3cd0143"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance [[Manager]].",
+    "triggerStartToken" : 31,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 62,
+    "headTokenLength" : 1,
+    "id" : "4171626bb1323613674fe048f1e1125a",
+    "normalizedHead" : "activity",
+    "normalizedTrigger" : "activity",
+    "roles" : [ {
+      "normalizedRole" : "repair",
+      "normalizedRoleHead" : "repair",
+      "normalizedTrigger" : "activity",
+      "roleHeadStartToken" : 61,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "35979be95eecc58ee236bb0ea70f47cb",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and [[repair]] activity in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 61,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "4171626bb1323613674fe048f1e1125a"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair [[activity]] in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 62,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 67,
+    "headTokenLength" : 1,
+    "id" : "d518d54879182ecfad3fc43c75478156",
+    "normalizedHead" : "deficiencies",
+    "normalizedTrigger" : "deficiencies",
+    "roles" : [ ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying [[deficiencies]] is required.",
+    "triggerStartToken" : 67,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 17,
+    "headTokenLength" : 1,
+    "id" : "11c56bb915389c28ca54bf35cd61c4ef",
+    "normalizedHead" : "maintenance",
+    "normalizedTrigger" : "maintenance",
+    "roles" : [ ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any [[maintenance]] activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 17,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 57,
+    "headTokenLength" : 1,
+    "id" : "bc68d712ec6aac86039cac764a09e911",
+    "normalizedHead" : "liaison",
+    "normalizedTrigger" : "liaison",
+    "roles" : [ {
+      "normalizedRole" : "direct",
+      "normalizedRoleHead" : "direct",
+      "normalizedTrigger" : "liaison",
+      "roleHeadStartToken" : 56,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9c86acc89402bed52a5735a21a7586fe",
+      "roleInContext" : "Prior to informing the Maintenance Manager, [[direct]] liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 56,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "bc68d712ec6aac86039cac764a09e911"
+    }, {
+      "normalizedRole" : "between customer and repair activity",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "liaison",
+      "roleHeadStartToken" : 62,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3a5dfdf72136078098bd2b7b038d0a53",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison [[between customer and repair activity]] in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 58,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "bc68d712ec6aac86039cac764a09e911"
+    }, {
+      "normalizedRole" : "in identifying and clarifying deficiencies",
+      "normalizedRoleHead" : "deficiencies",
+      "normalizedTrigger" : "liaison",
+      "roleHeadStartToken" : 67,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f51208e7d63a68a9b63b4bf1a12c3d0e",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity [[in identifying and clarifying deficiencies]] is required.",
+      "roleStartToken" : 63,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "bc68d712ec6aac86039cac764a09e911"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct [[liaison]] between customer and repair activity in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 57,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 12,
+    "headTokenLength" : 1,
+    "id" : "c28924fe7f28a909c238588fdf33cf9b",
+    "normalizedHead" : "work",
+    "normalizedTrigger" : "work",
+    "roles" : [ ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or [[work]] practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 12,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 39,
+    "headTokenLength" : 1,
+    "id" : "26dffeeb95609c25ffbaffc70f66c6b5",
+    "normalizedHead" : "ensure",
+    "normalizedTrigger" : "ensure",
+    "roles" : [ {
+      "normalizedRole" : "timely and proper corrective action may be taken",
+      "normalizedRoleHead" : "taken",
+      "normalizedTrigger" : "ensure",
+      "roleHeadStartToken" : 47,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "93707a39979209f9455f94997f61582b",
+      "roleInContext" : "Reports should include sufficient detail to ensure [[timely and proper corrective action may be taken]].",
+      "roleStartToken" : 40,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "26dffeeb95609c25ffbaffc70f66c6b5"
+    } ],
+    "triggerInContext" : "Reports should include sufficient detail to [[ensure]] timely and proper corrective action may be taken.",
+    "triggerStartToken" : 39,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 1,
+    "headTokenLength" : 1,
+    "id" : "dafa8b0ae5a1eb76fb5e52165eee9577",
+    "normalizedHead" : "Unsatisfactory",
+    "normalizedTrigger" : "Unsatisfactory",
+    "roles" : [ {
+      "normalizedRole" : "Work or Work Practices",
+      "normalizedRoleHead" : "Practices",
+      "normalizedTrigger" : "Unsatisfactory",
+      "roleHeadStartToken" : 5,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3493ff6dccb164b5526c2a4faf455ac3",
+      "roleInContext" : "3.4.2.1.10 Unsatisfactory [[Work or Work Practices]].",
+      "roleStartToken" : 2,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "dafa8b0ae5a1eb76fb5e52165eee9577"
+    } ],
+    "triggerInContext" : "3.4.2.1.10 [[Unsatisfactory]] Work or Work Practices.",
+    "triggerStartToken" : 1,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 14,
+    "headTokenLength" : 1,
+    "id" : "1ecc86edfb5f8a5f945dad6b068917ea",
+    "normalizedHead" : "conducted",
+    "normalizedTrigger" : "conducted",
+    "roles" : [ {
+      "normalizedRole" : "work practice",
+      "normalizedRoleHead" : "practice",
+      "normalizedTrigger" : "conducted",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f3d62ac9dc3e2910369607ac7ab51724",
+      "roleInContext" : "Any unsatisfactory work accomplished or [[work practice]] conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "1ecc86edfb5f8a5f945dad6b068917ea"
+    }, {
+      "normalizedRole" : "any maintenance activity",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "conducted",
+      "roleHeadStartToken" : 18,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "af0c6458bbacfb3eaddc8ba2a4008f67",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by [[any maintenance activity]] must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 16,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "1ecc86edfb5f8a5f945dad6b068917ea"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice [[conducted]] by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 14,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 36,
+    "headTokenLength" : 1,
+    "id" : "e0349c397076a905101fef3d43d5f7b1",
+    "normalizedHead" : "sufficient",
+    "normalizedTrigger" : "sufficient",
+    "roles" : [ {
+      "normalizedRole" : "detail",
+      "normalizedRoleHead" : "detail",
+      "normalizedTrigger" : "sufficient",
+      "roleHeadStartToken" : 37,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2904b49ce1b20549bde1939090e783ab",
+      "roleInContext" : "Reports should include sufficient [[detail]] to ensure timely and proper corrective action may be taken.",
+      "roleStartToken" : 37,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "e0349c397076a905101fef3d43d5f7b1"
+    }, {
+      "normalizedRole" : "to ensure timely and proper corrective action may be taken",
+      "normalizedRoleHead" : "ensure",
+      "normalizedTrigger" : "sufficient",
+      "roleHeadStartToken" : 39,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "191755f9f65250771f958ff785e3f176",
+      "roleInContext" : "Reports should include sufficient detail [[to ensure timely and proper corrective action may be taken]].",
+      "roleStartToken" : 38,
+      "roleTokenLength" : 10,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "e0349c397076a905101fef3d43d5f7b1"
+    } ],
+    "triggerInContext" : "Reports should include [[sufficient]] detail to ensure timely and proper corrective action may be taken.",
+    "triggerStartToken" : 36,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 43,
+    "headTokenLength" : 1,
+    "id" : "e91806294aeee66ab98652e346c29ace",
+    "normalizedHead" : "corrective",
+    "normalizedTrigger" : "corrective",
+    "roles" : [ {
+      "normalizedRole" : "action",
+      "normalizedRoleHead" : "action",
+      "normalizedTrigger" : "corrective",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "11c41e90243d494a8486270a11595f3f",
+      "roleInContext" : "Reports should include sufficient detail to ensure timely and proper corrective [[action]] may be taken.",
+      "roleStartToken" : 44,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "e91806294aeee66ab98652e346c29ace"
+    } ],
+    "triggerInContext" : "Reports should include sufficient detail to ensure timely and proper [[corrective]] action may be taken.",
+    "triggerStartToken" : 43,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 65,
+    "headTokenLength" : 1,
+    "id" : "013b03ec1562d5a6948687933b34ed62",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "identifying",
+      "normalizedRoleHead" : "identifying",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 64,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "87b84825613ac753c3b2420f23460400",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in [[identifying]] and clarifying deficiencies is required.",
+      "roleStartToken" : 64,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "013b03ec1562d5a6948687933b34ed62"
+    }, {
+      "normalizedRole" : "clarifying",
+      "normalizedRoleHead" : "clarifying",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 66,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3292864b6cdb5aaebe47ab6e34a7dafd",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and [[clarifying]] deficiencies is required.",
+      "roleStartToken" : 66,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "013b03ec1562d5a6948687933b34ed62"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying [[and]] clarifying deficiencies is required.",
+    "triggerStartToken" : 65,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 60,
+    "headTokenLength" : 1,
+    "id" : "bf6e130ae7029c14ee97314e411904df",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "customer",
+      "normalizedRoleHead" : "customer",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 59,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6403eb97f3892da2d2f0921420e04331",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between [[customer]] and repair activity in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 59,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "bf6e130ae7029c14ee97314e411904df"
+    }, {
+      "normalizedRole" : "repair activity",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 62,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f614ca6756316e1ba10fc1d766511cd8",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and [[repair activity]] in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 61,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "bf6e130ae7029c14ee97314e411904df"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer [[and]] repair activity in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 60,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 25,
+    "headTokenLength" : 1,
+    "id" : "02f25542e8fd3193629f05e2c7398508",
+    "normalizedHead" : "activity",
+    "normalizedTrigger" : "activity",
+    "roles" : [ ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the [[activity]] involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 25,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 69,
+    "headTokenLength" : 1,
+    "id" : "45eab33dfc72b452b5c7901fccbc370e",
+    "normalizedHead" : "required",
+    "normalizedTrigger" : "required",
+    "roles" : [ {
+      "normalizedRole" : "direct liaison between customer and repair activity in identifying and clarifying deficiencies",
+      "normalizedRoleHead" : "liaison",
+      "normalizedTrigger" : "required",
+      "roleHeadStartToken" : 57,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6490caed0a0d2851285155ce99768937",
+      "roleInContext" : "Prior to informing the Maintenance Manager, [[direct liaison between customer and repair activity in identifying and clarifying deficiencies]] is required.",
+      "roleStartToken" : 56,
+      "roleTokenLength" : 12,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "45eab33dfc72b452b5c7901fccbc370e"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying deficiencies is [[required]].",
+    "triggerStartToken" : 69,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 64,
+    "headTokenLength" : 1,
+    "id" : "410218dedef4a15bcd4be4017d447e34",
+    "normalizedHead" : "identifying",
+    "normalizedTrigger" : "identifying",
+    "roles" : [ {
+      "normalizedRole" : "deficiencies",
+      "normalizedRoleHead" : "deficiencies",
+      "normalizedTrigger" : "identifying",
+      "roleHeadStartToken" : 67,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bc31eba48eaca2c148d9fc016a9e4376",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying [[deficiencies]] is required.",
+      "roleStartToken" : 67,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "410218dedef4a15bcd4be4017d447e34"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in [[identifying]] and clarifying deficiencies is required.",
+    "triggerStartToken" : 64,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 3,
+    "headTokenLength" : 1,
+    "id" : "3b9e00570839c0fc12f23ffa0a35dab3",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "Work",
+      "normalizedRoleHead" : "Work",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 2,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "061c7660831f3e9c05e49107705174f3",
+      "roleInContext" : "3.4.2.1.10 Unsatisfactory [[Work]] or Work Practices.",
+      "roleStartToken" : 2,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "3b9e00570839c0fc12f23ffa0a35dab3"
+    }, {
+      "normalizedRole" : "Practices",
+      "normalizedRoleHead" : "Practices",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 5,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4efaceed8e9a43254f3625cd02066c83",
+      "roleInContext" : "3.4.2.1.10 Unsatisfactory Work or Work [[Practices]].",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "3b9e00570839c0fc12f23ffa0a35dab3"
+    } ],
+    "triggerInContext" : "3.4.2.1.10 Unsatisfactory Work [[or]] Work Practices.",
+    "triggerStartToken" : 3,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 44,
+    "headTokenLength" : 1,
+    "id" : "25ad388ee835c282d6d9dcd8df7c2207",
+    "normalizedHead" : "action",
+    "normalizedTrigger" : "action",
+    "roles" : [ {
+      "normalizedRole" : "proper",
+      "normalizedRoleHead" : "proper",
+      "normalizedTrigger" : "action",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "401abac63f035871ad4f21207c732d5a",
+      "roleInContext" : "Reports should include sufficient detail to ensure timely and [[proper]] corrective action may be taken.",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "25ad388ee835c282d6d9dcd8df7c2207"
+    }, {
+      "normalizedRole" : "corrective",
+      "normalizedRoleHead" : "corrective",
+      "normalizedTrigger" : "action",
+      "roleHeadStartToken" : 43,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "af5432a85aca4429b0546a16eb8a0826",
+      "roleInContext" : "Reports should include sufficient detail to ensure timely and proper [[corrective]] action may be taken.",
+      "roleStartToken" : 43,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "25ad388ee835c282d6d9dcd8df7c2207"
+    } ],
+    "triggerInContext" : "Reports should include sufficient detail to ensure timely and proper corrective [[action]] may be taken.",
+    "triggerStartToken" : 44,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 61,
+    "headTokenLength" : 1,
+    "id" : "b46c54936ebb8504c4bf4c21b0717c09",
+    "normalizedHead" : "repair",
+    "normalizedTrigger" : "repair",
+    "roles" : [ ],
+    "triggerInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and [[repair]] activity in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 61,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 22,
+    "headTokenLength" : 1,
+    "id" : "9da4af1c4608e7149d9ab83543f4874a",
+    "normalizedHead" : "reported",
+    "normalizedTrigger" : "reported",
+    "roles" : [ {
+      "normalizedRole" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity",
+      "normalizedRoleHead" : "work",
+      "normalizedTrigger" : "reported",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f5009230c487d1556842c2c7e1b91cbf",
+      "roleInContext" : "[[Any unsatisfactory work accomplished or work practice conducted by any maintenance activity]] must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 7,
+      "roleTokenLength" : 12,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "9da4af1c4608e7149d9ab83543f4874a"
+    }, {
+      "normalizedRole" : "promptly",
+      "normalizedRoleHead" : "promptly",
+      "normalizedTrigger" : "reported",
+      "roleHeadStartToken" : 21,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "916cf834a1a3ad70d277d094271b06e7",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be [[promptly]] reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 21,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "9da4af1c4608e7149d9ab83543f4874a"
+    }, {
+      "normalizedRole" : "to the activity involved and the applicable Maintenance Manager",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "reported",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a9696c4be197c03e4f23c2b24078ecdb",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported [[to the activity involved and the applicable Maintenance Manager]].",
+      "roleStartToken" : 23,
+      "roleTokenLength" : 9,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "9da4af1c4608e7149d9ab83543f4874a"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly [[reported]] to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 22,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 2,
+    "headTokenLength" : 1,
+    "id" : "0153d64648386549c2f6bbe65a109a5d",
+    "normalizedHead" : "Work",
+    "normalizedTrigger" : "Work",
+    "roles" : [ {
+      "normalizedRole" : "Unsatisfactory",
+      "normalizedRoleHead" : "Unsatisfactory",
+      "normalizedTrigger" : "Work",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7636bc29e1ae9d892814dd49a5dea581",
+      "roleInContext" : "3.4.2.1.10 [[Unsatisfactory]] Work or Work Practices.",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "0153d64648386549c2f6bbe65a109a5d"
+    } ],
+    "triggerInContext" : "3.4.2.1.10 Unsatisfactory [[Work]] or Work Practices.",
+    "triggerStartToken" : 2,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 7,
+    "headTokenLength" : 1,
+    "id" : "d660e3b0b7668f80c67cc384c5661d99",
+    "normalizedHead" : "Any",
+    "normalizedTrigger" : "Any",
+    "roles" : [ {
+      "normalizedRole" : "Any",
+      "normalizedRoleHead" : "Any",
+      "normalizedTrigger" : "Any unsatisfactory work accomplished or work practice conducted",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8cf9fdfca99deb0a3f50fe5ee0f96da3",
+      "roleInContext" : "[[Any]] unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 7,
+      "roleTokenLength" : 1,
+      "roleType" : "LOGIC_MARKER#MARKER",
+      "triggerID" : "d660e3b0b7668f80c67cc384c5661d99"
+    }, {
+      "normalizedRole" : "unsatisfactory work accomplished or work practice conducted",
+      "normalizedRoleHead" : "work",
+      "normalizedTrigger" : "Any unsatisfactory work accomplished or work practice conducted",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "79a67dae0c3ae331b340d574a58adcfc",
+      "roleInContext" : "Any [[unsatisfactory work accomplished or work practice conducted]] by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 8,
+      "roleTokenLength" : 7,
+      "roleType" : "LOGIC_MARKER#BASE_WORD",
+      "triggerID" : "d660e3b0b7668f80c67cc384c5661d99"
+    } ],
+    "triggerInContext" : "[[Any]] unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 7,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LOGIC_MARKER"
+  }, {
+    "headStartToken" : 33,
+    "headTokenLength" : 1,
+    "id" : "cb11d510d97a4120fbad33d9faa09c72",
+    "normalizedHead" : "Reports",
+    "normalizedTrigger" : "Reports",
+    "roles" : [ ],
+    "triggerInContext" : "[[Reports]] should include sufficient detail to ensure timely and proper corrective action may be taken.",
+    "triggerStartToken" : 33,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 54,
+    "headTokenLength" : 1,
+    "id" : "5587a5e05518e1aab15c67cc9b2a8d43",
+    "normalizedHead" : "Manager",
+    "normalizedTrigger" : "Manager",
+    "roles" : [ {
+      "normalizedRole" : "Maintenance",
+      "normalizedRoleHead" : "Maintenance",
+      "normalizedTrigger" : "Manager",
+      "roleHeadStartToken" : 53,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4f1d7fb9098079b8a2161add8e197bf7",
+      "roleInContext" : "Prior to informing the [[Maintenance]] Manager, direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 53,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "5587a5e05518e1aab15c67cc9b2a8d43"
+    }, {
+      "normalizedRole" : "Manager",
+      "normalizedRoleHead" : "Manager",
+      "normalizedTrigger" : "Manager",
+      "roleHeadStartToken" : 54,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b16d72e4d05def1b431c329e757d1e59",
+      "roleInContext" : "Prior to informing the Maintenance [[Manager]], direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 54,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "5587a5e05518e1aab15c67cc9b2a8d43"
+    } ],
+    "triggerInContext" : "Prior to informing the Maintenance [[Manager]], direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 54,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 11,
+    "headTokenLength" : 1,
+    "id" : "dfb59e75c8f545fc0bde20b44bfdc9e9",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "unsatisfactory work accomplished",
+      "normalizedRoleHead" : "work",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1c999a0f1fdf0784f74fe2e7bccb7eca",
+      "roleInContext" : "Any [[unsatisfactory work accomplished]] or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 8,
+      "roleTokenLength" : 3,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "dfb59e75c8f545fc0bde20b44bfdc9e9"
+    }, {
+      "normalizedRole" : "work practice conducted",
+      "normalizedRoleHead" : "practice",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6b91d2a2823db87ddaa13067f9b7bef5",
+      "roleInContext" : "Any unsatisfactory work accomplished or [[work practice conducted]] by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 3,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "dfb59e75c8f545fc0bde20b44bfdc9e9"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished [[or]] work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 11,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 41,
+    "headTokenLength" : 1,
+    "id" : "606a91f6669e35bb65710f0ef7b54bd0",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "timely",
+      "normalizedRoleHead" : "timely",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 40,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9b7b2285257ae5cf35e69e01bc816cfa",
+      "roleInContext" : "Reports should include sufficient detail to ensure [[timely]] and proper corrective action may be taken.",
+      "roleStartToken" : 40,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "606a91f6669e35bb65710f0ef7b54bd0"
+    }, {
+      "normalizedRole" : "proper",
+      "normalizedRoleHead" : "proper",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "25ed71d3c62b65b4529a1f438cba6d00",
+      "roleInContext" : "Reports should include sufficient detail to ensure timely and [[proper]] corrective action may be taken.",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "606a91f6669e35bb65710f0ef7b54bd0"
+    } ],
+    "triggerInContext" : "Reports should include sufficient detail to ensure timely [[and]] proper corrective action may be taken.",
+    "triggerStartToken" : 41,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 9,
+    "headTokenLength" : 1,
+    "id" : "28a767e3af1f947549039476405e1229",
+    "normalizedHead" : "work",
+    "normalizedTrigger" : "work",
+    "roles" : [ {
+      "normalizedRole" : "unsatisfactory",
+      "normalizedRoleHead" : "unsatisfactory",
+      "normalizedTrigger" : "work",
+      "roleHeadStartToken" : 8,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "043d0dd86f47255861ac339af9c81671",
+      "roleInContext" : "Any [[unsatisfactory]] work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 8,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "28a767e3af1f947549039476405e1229"
+    } ],
+    "triggerInContext" : "Any unsatisfactory [[work]] accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 9,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 50,
+    "headTokenLength" : 1,
+    "id" : "e67483ffc1882e77a49d9c8e75cea868",
+    "normalizedHead" : "to",
+    "normalizedTrigger" : "Prior to",
+    "roles" : [ {
+      "normalizedRole" : "informing",
+      "normalizedRoleHead" : "informing",
+      "normalizedTrigger" : "Prior to",
+      "roleHeadStartToken" : 51,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "37966da40e91863010e6ee9a5a2db16e",
+      "roleInContext" : "Prior to [[informing]] the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+      "roleStartToken" : 51,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "e67483ffc1882e77a49d9c8e75cea868"
+    }, {
+      "normalizedRole" : "required",
+      "normalizedRoleHead" : "required",
+      "normalizedTrigger" : "Prior to",
+      "roleHeadStartToken" : 69,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8b455c315db523c5ea9403da7c098b32",
+      "roleInContext" : "Prior to informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying deficiencies is [[required]].",
+      "roleStartToken" : 69,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "e67483ffc1882e77a49d9c8e75cea868"
+    } ],
+    "triggerInContext" : "[[Prior to]] informing the Maintenance Manager, direct liaison between customer and repair activity in identifying and clarifying deficiencies is required.",
+    "triggerStartToken" : 49,
+    "triggerTokenLength" : 2,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 5,
+    "headTokenLength" : 1,
+    "id" : "8ca4a130b930a4a54072dc11b382eafa",
+    "normalizedHead" : "Practices",
+    "normalizedTrigger" : "Practices",
+    "roles" : [ {
+      "normalizedRole" : "Unsatisfactory",
+      "normalizedRoleHead" : "Unsatisfactory",
+      "normalizedTrigger" : "Practices",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "fccf4e652bdd3e0388a9036b24ca27a5",
+      "roleInContext" : "3.4.2.1.10 [[Unsatisfactory]] Work or Work Practices.",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "8ca4a130b930a4a54072dc11b382eafa"
+    }, {
+      "normalizedRole" : "Work",
+      "normalizedRoleHead" : "Work",
+      "normalizedTrigger" : "Practices",
+      "roleHeadStartToken" : 4,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0742cae896e82afa6ab49d33f7c92f3c",
+      "roleInContext" : "3.4.2.1.10 Unsatisfactory Work or [[Work]] Practices.",
+      "roleStartToken" : 4,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "8ca4a130b930a4a54072dc11b382eafa"
+    } ],
+    "triggerInContext" : "3.4.2.1.10 Unsatisfactory Work or Work [[Practices]].",
+    "triggerStartToken" : 5,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 35,
+    "headTokenLength" : 1,
+    "id" : "a6b15929fba025775f565ad69d3905ac",
+    "normalizedHead" : "include",
+    "normalizedTrigger" : "include",
+    "roles" : [ {
+      "normalizedRole" : "Reports",
+      "normalizedRoleHead" : "Reports",
+      "normalizedTrigger" : "include",
+      "roleHeadStartToken" : 33,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "06b915a1623ad22a87a413731ea9c55c",
+      "roleInContext" : "[[Reports]] should include sufficient detail to ensure timely and proper corrective action may be taken.",
+      "roleStartToken" : 33,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "a6b15929fba025775f565ad69d3905ac"
+    }, {
+      "normalizedRole" : "sufficient detail to ensure timely and proper corrective action may be taken",
+      "normalizedRoleHead" : "detail",
+      "normalizedTrigger" : "include",
+      "roleHeadStartToken" : 37,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d26dd1c1078d824b2490b9ed3d0f1262",
+      "roleInContext" : "Reports should include [[sufficient detail to ensure timely and proper corrective action may be taken]].",
+      "roleStartToken" : 36,
+      "roleTokenLength" : 12,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "a6b15929fba025775f565ad69d3905ac"
+    } ],
+    "triggerInContext" : "Reports should [[include]] sufficient detail to ensure timely and proper corrective action may be taken.",
+    "triggerStartToken" : 35,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 8,
+    "headTokenLength" : 1,
+    "id" : "2612d1932d04cd0a6a440f139e43607e",
+    "normalizedHead" : "unsatisfactory",
+    "normalizedTrigger" : "unsatisfactory",
+    "roles" : [ {
+      "normalizedRole" : "work",
+      "normalizedRoleHead" : "work",
+      "normalizedTrigger" : "unsatisfactory",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "216c3ecf305740964c4231c5e78f2e57",
+      "roleInContext" : "Any unsatisfactory [[work]] accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 9,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "2612d1932d04cd0a6a440f139e43607e"
+    }, {
+      "normalizedRole" : "work practice",
+      "normalizedRoleHead" : "practice",
+      "normalizedTrigger" : "unsatisfactory",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "322e16c4bcbe2ac499442a4d8e73b83e",
+      "roleInContext" : "Any unsatisfactory work accomplished or [[work practice]] conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "2612d1932d04cd0a6a440f139e43607e"
+    } ],
+    "triggerInContext" : "Any [[unsatisfactory]] work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 8,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 18,
+    "headTokenLength" : 1,
+    "id" : "3506ebb0d0b9008309f85292356390b5",
+    "normalizedHead" : "activity",
+    "normalizedTrigger" : "activity",
+    "roles" : [ {
+      "normalizedRole" : "maintenance",
+      "normalizedRoleHead" : "maintenance",
+      "normalizedTrigger" : "activity",
+      "roleHeadStartToken" : 17,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bd5ba7a7f50202d16f50cbded393a33a",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any [[maintenance]] activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 17,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "3506ebb0d0b9008309f85292356390b5"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance [[activity]] must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 18,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 29,
+    "headTokenLength" : 1,
+    "id" : "79dec3ef76870972392d652b4c3d16f5",
+    "normalizedHead" : "applicable",
+    "normalizedTrigger" : "applicable",
+    "roles" : [ {
+      "normalizedRole" : "Maintenance Manager",
+      "normalizedRoleHead" : "Manager",
+      "normalizedTrigger" : "applicable",
+      "roleHeadStartToken" : 31,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ce47abce2d21ba18cf51c4612dcf6765",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable [[Maintenance Manager]].",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "79dec3ef76870972392d652b4c3d16f5"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the [[applicable]] Maintenance Manager.",
+    "triggerStartToken" : 29,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 27,
+    "headTokenLength" : 1,
+    "id" : "a69e19c1d4bfdc22da9bc13fc5d5b7a1",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "the activity involved",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bd7375fafef419c3123027a6a0cc6130",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to [[the activity involved]] and the applicable Maintenance Manager.",
+      "roleStartToken" : 24,
+      "roleTokenLength" : 3,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "a69e19c1d4bfdc22da9bc13fc5d5b7a1"
+    }, {
+      "normalizedRole" : "the applicable Maintenance Manager",
+      "normalizedRoleHead" : "Manager",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 31,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "35392df44ce0b0eb723ca6e1651800ec",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and [[the applicable Maintenance Manager]].",
+      "roleStartToken" : 28,
+      "roleTokenLength" : 4,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "a69e19c1d4bfdc22da9bc13fc5d5b7a1"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved [[and]] the applicable Maintenance Manager.",
+    "triggerStartToken" : 27,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 26,
+    "headTokenLength" : 1,
+    "id" : "ded890ce4ac6965b4f6172157d45b2bd",
+    "normalizedHead" : "involved",
+    "normalizedTrigger" : "involved",
+    "roles" : [ {
+      "normalizedRole" : "activity",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "involved",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "28ae13357ebda7f7652a70e92ab751f3",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the [[activity]] involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 25,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "ded890ce4ac6965b4f6172157d45b2bd"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity [[involved]] and the applicable Maintenance Manager.",
+    "triggerStartToken" : 26,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 4,
+    "headTokenLength" : 1,
+    "id" : "a220cbc8cdb3aea16f0d8e8dc488452f",
+    "normalizedHead" : "Work",
+    "normalizedTrigger" : "Work",
+    "roles" : [ ],
+    "triggerInContext" : "3.4.2.1.10 Unsatisfactory Work or [[Work]] Practices.",
+    "triggerStartToken" : 4,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 13,
+    "headTokenLength" : 1,
+    "id" : "df648ed3b2a3c136613c1d9d4a1f16b2",
+    "normalizedHead" : "practice",
+    "normalizedTrigger" : "practice",
+    "roles" : [ {
+      "normalizedRole" : "unsatisfactory",
+      "normalizedRoleHead" : "unsatisfactory",
+      "normalizedTrigger" : "practice",
+      "roleHeadStartToken" : 8,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "501cad02ad4a5cb62738bb593d51b265",
+      "roleInContext" : "Any [[unsatisfactory]] work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 8,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "df648ed3b2a3c136613c1d9d4a1f16b2"
+    }, {
+      "normalizedRole" : "work",
+      "normalizedRoleHead" : "work",
+      "normalizedTrigger" : "practice",
+      "roleHeadStartToken" : 12,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "95f0b09c3823b2d78b9fbcdf324f0966",
+      "roleInContext" : "Any unsatisfactory work accomplished or [[work]] practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "df648ed3b2a3c136613c1d9d4a1f16b2"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work [[practice]] conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 13,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 16,
+    "headTokenLength" : 1,
+    "id" : "cfe28fc98e717da6aa37650f06a3012c",
+    "normalizedHead" : "any",
+    "normalizedTrigger" : "any",
+    "roles" : [ {
+      "normalizedRole" : "any",
+      "normalizedRoleHead" : "any",
+      "normalizedTrigger" : "any maintenance activity",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8361f64e99ea6bd17ede7ab0a9a540a9",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by [[any]] maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 16,
+      "roleTokenLength" : 1,
+      "roleType" : "LOGIC_MARKER#MARKER",
+      "triggerID" : "cfe28fc98e717da6aa37650f06a3012c"
+    }, {
+      "normalizedRole" : "maintenance activity",
+      "normalizedRoleHead" : "activity",
+      "normalizedTrigger" : "any maintenance activity",
+      "roleHeadStartToken" : 18,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "23f518c530169b5f3d3def5c953b6d01",
+      "roleInContext" : "Any unsatisfactory work accomplished or work practice conducted by any [[maintenance activity]] must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+      "roleStartToken" : 17,
+      "roleTokenLength" : 2,
+      "roleType" : "LOGIC_MARKER#BASE_WORD",
+      "triggerID" : "cfe28fc98e717da6aa37650f06a3012c"
+    } ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by [[any]] maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager.",
+    "triggerStartToken" : 16,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LOGIC_MARKER"
+  }, {
+    "headStartToken" : 30,
+    "headTokenLength" : 1,
+    "id" : "3b3196f4e9ae9957929fc0a2dc70e371",
+    "normalizedHead" : "Maintenance",
+    "normalizedTrigger" : "Maintenance",
+    "roles" : [ ],
+    "triggerInContext" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable [[Maintenance]] Manager.",
+    "triggerStartToken" : 30,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 47,
+    "headTokenLength" : 1,
+    "id" : "f8c11ca80b40aa696a5ce66ebb54ba60",
+    "normalizedHead" : "taken",
+    "normalizedTrigger" : "taken",
+    "roles" : [ {
+      "normalizedRole" : "timely and proper corrective action",
+      "normalizedRoleHead" : "action",
+      "normalizedTrigger" : "taken",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d863c423c4c23ebc9dc4d5efec2e29a9",
+      "roleInContext" : "Reports should include sufficient detail to ensure [[timely and proper corrective action]] may be taken.",
+      "roleStartToken" : 40,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "f8c11ca80b40aa696a5ce66ebb54ba60"
+    } ],
+    "triggerInContext" : "Reports should include sufficient detail to ensure timely and proper corrective action may be [[taken]].",
+    "triggerStartToken" : 47,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  } ],
+  "label" : "3.4.2.1.10 Unsatisfactory Work or Work Practices.",
+  "raw" : "3.4.2.1.10  Unsatisfactory Work or Work Practices.  Any unsatisfactory work accomplished or\nwork practice conducted by any maintenance activity must be promptly reported to the activity\ninvolved and the applicable Maintenance Manager.  Reports should include sufficient detail to\nensure timely and proper corrective action may be taken.  Prior to informing the Maintenance\nManager, direct liaison between customer and repair activity in identifying and clarifying\ndeficiencies is required.",
+  "sentences" : [ {
+    "normalized" : "3.4.2.1.10 Unsatisfactory Work or Work Practices .",
+    "offset" : 0,
+    "startToken" : 0,
+    "tokenLength" : 7
+  }, {
+    "normalized" : "Any unsatisfactory work accomplished or work practice conducted by any maintenance activity must be promptly reported to the activity involved and the applicable Maintenance Manager .",
+    "offset" : 1,
+    "startToken" : 7,
+    "tokenLength" : 26
+  }, {
+    "normalized" : "Reports should include sufficient detail to ensure timely and proper corrective action may be taken .",
+    "offset" : 2,
+    "startToken" : 33,
+    "tokenLength" : 16
+  }, {
+    "normalized" : "Prior to informing the Maintenance Manager , direct liaison between customer and repair activity in identifying and clarifying deficiencies is required .",
+    "offset" : 3,
+    "startToken" : 49,
+    "tokenLength" : 22
+  } ],
+  "tokens" : [ {
+    "charLength" : 10,
+    "normalized" : "3.4.2.1.10",
+    "offset" : 0,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 0,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 14,
+    "normalized" : "Unsatisfactory",
+    "offset" : 1,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 12,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Work",
+    "offset" : 2,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 27,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 3,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 32,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Work",
+    "offset" : 4,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 35,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 9,
+    "normalized" : "Practices",
+    "offset" : 5,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 40,
+    "tokenTag" : "NNPS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 6,
+    "secondaryTokenTag" : ".",
+    "startChar" : 49,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "Any",
+    "offset" : 7,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 52,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 14,
+    "normalized" : "unsatisfactory",
+    "offset" : 8,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 56,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 4,
+    "normalized" : "work",
+    "offset" : 9,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 71,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 12,
+    "normalized" : "accomplished",
+    "offset" : 10,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 76,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 11,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 89,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 4,
+    "normalized" : "work",
+    "offset" : 12,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 92,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "practice",
+    "offset" : 13,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 97,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "conducted",
+    "offset" : 14,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 106,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "by",
+    "offset" : 15,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 116,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "any",
+    "offset" : 16,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 119,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "maintenance",
+    "offset" : 17,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 123,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "activity",
+    "offset" : 18,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 135,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "must",
+    "offset" : 19,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 144,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 2,
+    "normalized" : "be",
+    "offset" : 20,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 149,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 8,
+    "normalized" : "promptly",
+    "offset" : 21,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 152,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 8,
+    "normalized" : "reported",
+    "offset" : 22,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 161,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 23,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 170,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 24,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 173,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 8,
+    "normalized" : "activity",
+    "offset" : 25,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 177,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "involved",
+    "offset" : 26,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 186,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 27,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 195,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 28,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 199,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 10,
+    "normalized" : "applicable",
+    "offset" : 29,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 203,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 11,
+    "normalized" : "Maintenance",
+    "offset" : 30,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 214,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Manager",
+    "offset" : 31,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 226,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 32,
+    "secondaryTokenTag" : ".",
+    "startChar" : 233,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 7,
+    "normalized" : "Reports",
+    "offset" : 33,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 236,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 6,
+    "normalized" : "should",
+    "offset" : 34,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 244,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 7,
+    "normalized" : "include",
+    "offset" : 35,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 251,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 10,
+    "normalized" : "sufficient",
+    "offset" : 36,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 259,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 6,
+    "normalized" : "detail",
+    "offset" : 37,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 270,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 38,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 277,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "ensure",
+    "offset" : 39,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 280,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 6,
+    "normalized" : "timely",
+    "offset" : 40,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 287,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 41,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 294,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 6,
+    "normalized" : "proper",
+    "offset" : 42,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 298,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "corrective",
+    "offset" : 43,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 305,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 6,
+    "normalized" : "action",
+    "offset" : 44,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 316,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "may",
+    "offset" : 45,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 323,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 2,
+    "normalized" : "be",
+    "offset" : 46,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 327,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "taken",
+    "offset" : 47,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 330,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 48,
+    "secondaryTokenTag" : ".",
+    "startChar" : 335,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 5,
+    "normalized" : "Prior",
+    "offset" : 49,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 338,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 50,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 344,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 9,
+    "normalized" : "informing",
+    "offset" : 51,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 347,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 52,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 357,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "Maintenance",
+    "offset" : 53,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 361,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Manager",
+    "offset" : 54,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 373,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 55,
+    "secondaryTokenTag" : ",",
+    "startChar" : 380,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 6,
+    "normalized" : "direct",
+    "offset" : 56,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 382,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "liaison",
+    "offset" : 57,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 389,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "between",
+    "offset" : 58,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 397,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "customer",
+    "offset" : 59,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 405,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 60,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 414,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 6,
+    "normalized" : "repair",
+    "offset" : 61,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 418,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "activity",
+    "offset" : 62,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 425,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 63,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 434,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 11,
+    "normalized" : "identifying",
+    "offset" : 64,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 437,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 65,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 449,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "clarifying",
+    "offset" : 66,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 453,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 12,
+    "normalized" : "deficiencies",
+    "offset" : 67,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 464,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 68,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 477,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "required",
+    "offset" : 69,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 480,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 70,
+    "secondaryTokenTag" : ".",
+    "startChar" : 488,
+    "tokenTag" : "."
+  } ],
+  "zones" : [ {
+    "lastSentence" : 0,
+    "normalized" : "3.4.2.1.10 Unsatisfactory Work or Work Practices .",
+    "startSentence" : 0,
+    "type" : "Heading"
+  }, {
+    "lastSentence" : 3,
+    "normalized" : "3.4.2.1.10 Unsatisfactory Work or Work...clarifying deficiencies is required .",
+    "startSentence" : 0,
+    "type" : "HeadingWithContent"
+  } ]
+}

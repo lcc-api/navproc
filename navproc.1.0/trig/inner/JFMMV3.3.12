@@ -1,0 +1,19 @@
+#ID	TOK_OFFSET	TOK_LEN	HEAD_OFFSET	HEAD_LEN	TRIGGER_TYPE	TEXT	HEAD_TEXT	IN_CONTEXT
+50de868e7a4b6643a6978ee1ed2494d9	1	1	1	1	FRAME	Assessment	Assessment	3.4.2.1.12 [[Assessment]] Report.
+af1c326e94d5baf48271018455fedaed	2	1	2	1	FRAME	Report	Report	3.4.2.1.12 Assessment [[Report]].
+0ec5e052e40ef4de402782ebe9149300	4	1	4	1	FRAME_LINK	Following	Following	[[Following]] the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.
+33977d0bcc38f3b1d9d5b1f08a4abe31	6	1	6	1	FRAME	completion	completion	Following the [[completion]] of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.
+7c0c358a639edb3eaa1a467ed5643773	9	1	9	1	FRAME	VR	VR	Following the completion of the [[VR]] Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.
+73fc372eaa92fa9d9f2e5e1717fce74b	10	1	10	1	FRAME	Availability	Availability	Following the completion of the VR [[Availability]], Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.
+1ccdb2feea2ee45bab0d3a39ff3a2b04	12	3	14	1	POSSESSIVE	Ship ’s Force	Force	Following the completion of the VR Availability, [[Ship’s Force]] must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.
+01e11004bea91153afffed2d0c7741d1	16	1	16	1	FRAME	generate	generate	Following the completion of the VR Availability, Ship’s Force must [[generate]] and transmit a Post-VR Assessment Report for transmission via message or e- mail.
+4ad0237ce2bfc39ce412577d9368870d	17	1	17	1	FRAME_LINK	and	and	Following the completion of the VR Availability, Ship’s Force must generate [[and]] transmit a Post-VR Assessment Report for transmission via message or e- mail.
+4c94f232b17fb88f9a28cd5efc382358	18	1	18	1	FRAME	transmit	transmit	Following the completion of the VR Availability, Ship’s Force must generate and [[transmit]] a Post-VR Assessment Report for transmission via message or e- mail.
+580bb527956d0655e7e239d3068998ed	22	1	22	1	FRAME	VR	VR	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-[[VR]] Assessment Report for transmission via message or e- mail.
+da45a4d4dde850f794930ddfb75a4b06	23	1	23	1	FRAME	Assessment	Assessment	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR [[Assessment]] Report for transmission via message or e- mail.
+3da294fa613c7bec115084f56758ab0d	24	1	24	1	FRAME	Report	Report	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment [[Report]] for transmission via message or e- mail.
+592da8c70a470aa360e326ea9477b343	25	1	25	1	FRAME_LINK	for	for	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report [[for]] transmission via message or e- mail.
+39236bb746954690a64c71726efa871e	26	1	26	1	FRAME	transmission	transmission	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for [[transmission]] via message or e- mail.
+672f7239b9173a85555fe4e9d0c1827b	28	1	28	1	FRAME	message	message	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via [[message]] or e- mail.
+a1885f102dee10d751b2a8e9204df928	29	1	29	1	CONJUNCT_LINK	or	or	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message [[or]] e- mail.
+6fa2e43c4615183572ca13c88ca8fdf6	30	3	32	1	FRAME	e - mail	mail	Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or [[e- mail]].

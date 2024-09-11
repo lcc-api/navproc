@@ -1,0 +1,3476 @@
+{
+  "frames" : [ {
+    "headStartToken" : 30,
+    "headTokenLength" : 1,
+    "id" : "937eecaedf8180a9d6d549c02df56238",
+    "normalizedHead" : "kill",
+    "normalizedTrigger" : "kill",
+    "roles" : [ {
+      "normalizedRole" : "the enemy",
+      "normalizedRoleHead" : "enemy",
+      "normalizedTrigger" : "kill",
+      "roleHeadStartToken" : 35,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "076687c8e80985133e5d1cf66c77e735",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture [[the enemy]] is an act of perfidy.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "937eecaedf8180a9d6d549c02df56238"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, [[kill]], or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 30,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 14,
+    "headTokenLength" : 1,
+    "id" : "1b767e55dd3c23ad2da061a04cb1ee86",
+    "normalizedHead" : "signs",
+    "normalizedTrigger" : "signs",
+    "roles" : [ ],
+    "triggerInContext" : "Improperly using protective [[signs]], signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 14,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 122,
+    "headTokenLength" : 1,
+    "id" : "a671ecefc7316c2b336883be4b407eb7",
+    "normalizedHead" : "armed",
+    "normalizedTrigger" : "armed",
+    "roles" : [ {
+      "normalizedRole" : "combatants",
+      "normalizedRoleHead" : "combatants",
+      "normalizedTrigger" : "armed",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "74586a96f226315299515dcf5ea2ec1e",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed [[combatants]], weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 123,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "a671ecefc7316c2b336883be4b407eb7"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry [[armed]] combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 122,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 132,
+    "headTokenLength" : 1,
+    "id" : "3d3b9629e655e7599445c4b6d5104eba",
+    "normalizedHead" : "attack",
+    "normalizedTrigger" : "attack",
+    "roles" : [ {
+      "normalizedRole" : "armed combatants , weapons , or ammunition with which",
+      "normalizedRoleHead" : "combatants",
+      "normalizedTrigger" : "attack",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "620d1e5cbceae112069169c382b6944b",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry [[armed combatants, weapons, or ammunition with which]] to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 9,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "3d3b9629e655e7599445c4b6d5104eba"
+    }, {
+      "normalizedRole" : "enemy forces",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "attack",
+      "roleHeadStartToken" : 136,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a1d84895e971c67669ae4b0f3b34e332",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude [[enemy forces]] is prohibited.",
+      "roleStartToken" : 135,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "3d3b9629e655e7599445c4b6d5104eba"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to [[attack]] or elude enemy forces is prohibited.",
+    "triggerStartToken" : 132,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 28,
+    "headTokenLength" : 1,
+    "id" : "4027c7d8ba09566b7fdf5b3c3ee429fc",
+    "normalizedHead" : "injure",
+    "normalizedTrigger" : "injure",
+    "roles" : [ {
+      "normalizedRole" : "the enemy",
+      "normalizedRoleHead" : "enemy",
+      "normalizedTrigger" : "injure",
+      "roleHeadStartToken" : 35,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c10d6fee91f7f6909778c9284525abe9",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture [[the enemy]] is an act of perfidy.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "4027c7d8ba09566b7fdf5b3c3ee429fc"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to [[injure]], kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 28,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 55,
+    "headTokenLength" : 1,
+    "id" : "f0788f17271bbc9278b6714fbab87b95",
+    "normalizedHead" : "enemy",
+    "normalizedTrigger" : "enemy",
+    "roles" : [ ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and symbols to impede [[enemy]] military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 55,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 151,
+    "headTokenLength" : 1,
+    "id" : "3fc0899ed496d30db33d2b8fb0fad368",
+    "normalizedHead" : "advantage",
+    "normalizedTrigger" : "advantage",
+    "roles" : [ {
+      "normalizedRole" : "military",
+      "normalizedRoleHead" : "military",
+      "normalizedTrigger" : "advantage",
+      "roleHeadStartToken" : 150,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b4d3d61aa84a4e306602d39fb6250ba7",
+      "roleInContext" : "Similarly, use of the white flag to gain a [[military]] advantage over the enemy is unlawful.",
+      "roleStartToken" : 150,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "3fc0899ed496d30db33d2b8fb0fad368"
+    }, {
+      "normalizedRole" : "over the enemy",
+      "normalizedRoleHead" : "enemy",
+      "normalizedTrigger" : "advantage",
+      "roleHeadStartToken" : 154,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "57f62cf5a68f005e40556d3076ecfb1a",
+      "roleInContext" : "Similarly, use of the white flag to gain a military advantage [[over the enemy]] is unlawful.",
+      "roleStartToken" : 152,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "3fc0899ed496d30db33d2b8fb0fad368"
+    } ],
+    "triggerInContext" : "Similarly, use of the white flag to gain a military [[advantage]] over the enemy is unlawful.",
+    "triggerStartToken" : 151,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 16,
+    "headTokenLength" : 1,
+    "id" : "b0d728654d01b44454254317ba8a73c5",
+    "normalizedHead" : "signals",
+    "normalizedTrigger" : "signals",
+    "roles" : [ ],
+    "triggerInContext" : "Improperly using protective signs, [[signals]], and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 16,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 81,
+    "headTokenLength" : 1,
+    "id" : "15fa44175f5a749770e3a6de7b461eb9",
+    "normalizedHead" : "signs",
+    "normalizedTrigger" : "signs",
+    "roles" : [ ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective [[signs]], signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 81,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 155,
+    "headTokenLength" : 1,
+    "id" : "3f17daf9069d6f714db40b2f38554f62",
+    "normalizedHead" : "is",
+    "normalizedTrigger" : "is",
+    "roles" : [ {
+      "normalizedRole" : "use of the white flag to gain a military advantage over the enemy",
+      "normalizedRoleHead" : "gain",
+      "normalizedTrigger" : "is",
+      "roleHeadStartToken" : 148,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8a765b9f8a021218809b8459b5178fe8",
+      "roleInContext" : "Similarly, [[use of the white flag to gain a military advantage over the enemy]] is unlawful.",
+      "roleStartToken" : 142,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "3f17daf9069d6f714db40b2f38554f62"
+    }, {
+      "normalizedRole" : "unlawful",
+      "normalizedRoleHead" : "unlawful",
+      "normalizedTrigger" : "is",
+      "roleHeadStartToken" : 156,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ccbb9c7f70ed40b1cd78878601f9f69d",
+      "roleInContext" : "Similarly, use of the white flag to gain a military advantage over the enemy is [[unlawful]].",
+      "roleStartToken" : 156,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "3f17daf9069d6f714db40b2f38554f62"
+    } ],
+    "triggerInContext" : "Similarly, use of the white flag to gain a military advantage over the enemy [[is]] unlawful.",
+    "triggerStartToken" : 155,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 35,
+    "headTokenLength" : 1,
+    "id" : "53942f804bc5234b080d32e8306c89ff",
+    "normalizedHead" : "enemy",
+    "normalizedTrigger" : "enemy",
+    "roles" : [ ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the [[enemy]] is an act of perfidy.",
+    "triggerStartToken" : 35,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 58,
+    "headTokenLength" : 1,
+    "id" : "d048637aaca1c2123b562e17946ed465",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "impede",
+      "normalizedRoleHead" : "impede",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 54,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "fb1e6c85ba4ff45310c7aa20c284b1ee",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to [[impede]] enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 54,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "d048637aaca1c2123b562e17946ed465"
+    }, {
+      "normalizedRole" : "protect",
+      "normalizedRoleHead" : "protect",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 60,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "40b831e8e5f295175086e74b48ffed45",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to [[protect]] one’s own military operations is also prohibited.",
+      "roleStartToken" : 60,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "d048637aaca1c2123b562e17946ed465"
+    } ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations [[or]] to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 58,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 49,
+    "headTokenLength" : 1,
+    "id" : "20f20b667c6015abef33b53ea223d6cd",
+    "normalizedHead" : "signals",
+    "normalizedTrigger" : "signals",
+    "roles" : [ ],
+    "triggerInContext" : "Additionally, use of protective signs, [[signals]], and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 49,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 7,
+    "headTokenLength" : 1,
+    "id" : "9f563fb5668fed48640a564891710245",
+    "normalizedHead" : "signals",
+    "normalizedTrigger" : "signals",
+    "roles" : [ ],
+    "triggerInContext" : "12.2 Improper use of protective signs, [[signals]], and symbols",
+    "triggerStartToken" : 7,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 12,
+    "headTokenLength" : 1,
+    "id" : "e1fae1247b74e15522d5f5cccd4d5aa2",
+    "normalizedHead" : "using",
+    "normalizedTrigger" : "using",
+    "roles" : [ {
+      "normalizedRole" : "Improperly",
+      "normalizedRoleHead" : "Improperly",
+      "normalizedTrigger" : "using",
+      "roleHeadStartToken" : 11,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a66557aa43dac62a1dd426d72fad21b0",
+      "roleInContext" : "[[Improperly]] using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 11,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "e1fae1247b74e15522d5f5cccd4d5aa2"
+    }, {
+      "normalizedRole" : "protective signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "using",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e73ecedeed441b69bf0f6d5083816c43",
+      "roleInContext" : "Improperly using [[protective signs, signals, and symbols]] (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 13,
+      "roleTokenLength" : 7,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "e1fae1247b74e15522d5f5cccd4d5aa2"
+    }, {
+      "normalizedRole" : "to injure , kill , or capture the enemy",
+      "normalizedRoleHead" : "kill",
+      "normalizedTrigger" : "using",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "08c45e8ae5afec7ed590c37b06787689",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) [[to injure, kill, or capture the enemy]] is an act of perfidy.",
+      "roleStartToken" : 27,
+      "roleTokenLength" : 9,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "e1fae1247b74e15522d5f5cccd4d5aa2"
+    } ],
+    "triggerInContext" : "Improperly [[using]] protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 12,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 148,
+    "headTokenLength" : 1,
+    "id" : "f5db5073a64c5554fe495f02b5fc6c55",
+    "normalizedHead" : "gain",
+    "normalizedTrigger" : "gain",
+    "roles" : [ {
+      "normalizedRole" : "a military advantage over the enemy",
+      "normalizedRoleHead" : "advantage",
+      "normalizedTrigger" : "gain",
+      "roleHeadStartToken" : 151,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d41d5bcd1dbd36d795f551a2bed389dc",
+      "roleInContext" : "Similarly, use of the white flag to gain [[a military advantage over the enemy]] is unlawful.",
+      "roleStartToken" : 149,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "f5db5073a64c5554fe495f02b5fc6c55"
+    } ],
+    "triggerInContext" : "Similarly, use of the white flag to [[gain]] a military advantage over the enemy is unlawful.",
+    "triggerStartToken" : 148,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 127,
+    "headTokenLength" : 1,
+    "id" : "cee475977526c206c4fffe3d7a5a1e09",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "armed combatants , weapons , or ammunition",
+      "normalizedRoleHead" : "combatants",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1c2ab5a9b52c80d4c5130f374194bbc2",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry [[armed combatants, weapons, or ammunition]] with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 7,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "cee475977526c206c4fffe3d7a5a1e09"
+    }, {
+      "normalizedRole" : "armed combatants",
+      "normalizedRoleHead" : "combatants",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "17c30dc382bb7d129f2b45cf0109af68",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry [[armed combatants]], weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "cee475977526c206c4fffe3d7a5a1e09"
+    }, {
+      "normalizedRole" : "weapons",
+      "normalizedRoleHead" : "weapons",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 125,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cb153f1d18f89dce7e66ff1b8051245c",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, [[weapons]], or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 125,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "cee475977526c206c4fffe3d7a5a1e09"
+    }, {
+      "normalizedRole" : "ammunition",
+      "normalizedRoleHead" : "ammunition",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 128,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "475a7c625097271225fc6060c63dd96c",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or [[ammunition]] with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 128,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "cee475977526c206c4fffe3d7a5a1e09"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, [[or]] ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 127,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 111,
+    "headTokenLength" : 1,
+    "id" : "5c5cb237c4605d972228bd0aebb09199",
+    "normalizedHead" : "aircraft",
+    "normalizedTrigger" : "medical aircraft",
+    "roles" : [ {
+      "normalizedRole" : "medical",
+      "normalizedRoleHead" : "medical",
+      "normalizedTrigger" : "medical aircraft",
+      "roleHeadStartToken" : 110,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0b5a0b1e24bc00f48554f76296f48b8b",
+      "roleInContext" : "For example, using an ambulance or [[medical]] aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 110,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "5c5cb237c4605d972228bd0aebb09199"
+    }, {
+      "normalizedRole" : "aircraft",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "medical aircraft",
+      "roleHeadStartToken" : 111,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "93cc2d6791008008a299becbec7f8af8",
+      "roleInContext" : "For example, using an ambulance or medical [[aircraft]] marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 111,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "5c5cb237c4605d972228bd0aebb09199"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or [[medical aircraft]] marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 110,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 116,
+    "headTokenLength" : 1,
+    "id" : "20b96d84fb430edc2005777f4d4f1f8e",
+    "normalizedHead" : "Cross",
+    "normalizedTrigger" : "Red Cross",
+    "roles" : [ {
+      "normalizedRole" : "Red",
+      "normalizedRoleHead" : "Red",
+      "normalizedTrigger" : "Red Cross",
+      "roleHeadStartToken" : 115,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0e2fa3d2264b0610636709e2046915fd",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the [[Red]] Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 115,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "20b96d84fb430edc2005777f4d4f1f8e"
+    }, {
+      "normalizedRole" : "Cross",
+      "normalizedRoleHead" : "Cross",
+      "normalizedTrigger" : "Red Cross",
+      "roleHeadStartToken" : 116,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d045e8537f1e29de5efa0b07d58805c5",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red [[Cross]] or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 116,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "20b96d84fb430edc2005777f4d4f1f8e"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the [[Red Cross]] or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 115,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 86,
+    "headTokenLength" : 1,
+    "id" : "11b9e3510a079b3a669b1d307a7cf3a1",
+    "normalizedHead" : "symbols",
+    "normalizedTrigger" : "symbols",
+    "roles" : [ ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and [[symbols]] and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 86,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 21,
+    "headTokenLength" : 1,
+    "id" : "20dc331f5eee215cce95a9a0b4249ec9",
+    "normalizedHead" : "see",
+    "normalizedTrigger" : "see",
+    "roles" : [ {
+      "normalizedRole" : "paragraphs 8.5.1 and 8.5.2",
+      "normalizedRoleHead" : "8.5.2",
+      "normalizedTrigger" : "see",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7ec02618e2627c9d7b31c3593b17f9cb",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see [[paragraphs 8.5.1 and 8.5.2]]) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 22,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "20dc331f5eee215cce95a9a0b4249ec9"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols ([[see]] paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 21,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 100,
+    "headTokenLength" : 1,
+    "id" : "574859166525710942f8e35924d53e30",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "structures",
+      "normalizedRoleHead" : "structures",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 99,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e6d06c9ecbed7690bd27a7b791b1c325",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected [[structures]] and activities.",
+      "roleStartToken" : 99,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "574859166525710942f8e35924d53e30"
+    }, {
+      "normalizedRole" : "activities",
+      "normalizedRoleHead" : "activities",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 101,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bc5b58372ec57cea5192a89d44ee1860",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and [[activities]].",
+      "roleStartToken" : 101,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "574859166525710942f8e35924d53e30"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures [[and]] activities.",
+    "triggerStartToken" : 100,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 142,
+    "headTokenLength" : 1,
+    "id" : "9968aeeb5884e58c207c86f408636396",
+    "normalizedHead" : "use",
+    "normalizedTrigger" : "use",
+    "roles" : [ {
+      "normalizedRole" : "the white flag",
+      "normalizedRoleHead" : "flag",
+      "normalizedTrigger" : "use",
+      "roleHeadStartToken" : 146,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "58a03cbee908c87022db61ad1330bb81",
+      "roleInContext" : "Similarly, use of [[the white flag]] to gain a military advantage over the enemy is unlawful.",
+      "roleStartToken" : 144,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "9968aeeb5884e58c207c86f408636396"
+    }, {
+      "normalizedRole" : "to gain a military advantage over the enemy",
+      "normalizedRoleHead" : "gain",
+      "normalizedTrigger" : "use",
+      "roleHeadStartToken" : 148,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0848e52c282b02be5d49efa44ae324e2",
+      "roleInContext" : "Similarly, use of the white flag [[to gain a military advantage over the enemy]] is unlawful.",
+      "roleStartToken" : 147,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "9968aeeb5884e58c207c86f408636396"
+    } ],
+    "triggerInContext" : "Similarly, [[use]] of the white flag to gain a military advantage over the enemy is unlawful.",
+    "triggerStartToken" : 142,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 80,
+    "headTokenLength" : 1,
+    "id" : "6974fde44db9b3865cf902c3780d150c",
+    "normalizedHead" : "protective",
+    "normalizedTrigger" : "protective",
+    "roles" : [ {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "protective",
+      "roleHeadStartToken" : 81,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "525d78df1543f2052ff4b4d92f41e171",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective [[signs, signals, and symbols]] and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "6974fde44db9b3865cf902c3780d150c"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of [[protective]] signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 80,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 136,
+    "headTokenLength" : 1,
+    "id" : "272edafa2ae53dcadfa57f347274f018",
+    "normalizedHead" : "forces",
+    "normalizedTrigger" : "enemy forces",
+    "roles" : [ {
+      "normalizedRole" : "enemy",
+      "normalizedRoleHead" : "enemy",
+      "normalizedTrigger" : "enemy forces",
+      "roleHeadStartToken" : 135,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "264ac36e29ee556b29e70e2145306cf0",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude [[enemy]] forces is prohibited.",
+      "roleStartToken" : 135,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "272edafa2ae53dcadfa57f347274f018"
+    }, {
+      "normalizedRole" : "forces",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "enemy forces",
+      "roleHeadStartToken" : 136,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6ec32f828ec6104dcf92c3e94ed23543",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy [[forces]] is prohibited.",
+      "roleStartToken" : 136,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "272edafa2ae53dcadfa57f347274f018"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude [[enemy forces]] is prohibited.",
+    "triggerStartToken" : 135,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 73,
+    "headTokenLength" : 1,
+    "id" : "e040a48ff9048c0eff41ddef2719e6d0",
+    "normalizedHead" : "prohibited",
+    "normalizedTrigger" : "prohibited",
+    "roles" : [ {
+      "normalizedRole" : "Such acts",
+      "normalizedRoleHead" : "acts",
+      "normalizedTrigger" : "prohibited",
+      "roleHeadStartToken" : 71,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "61e7116405530d3c6bf7f278b147c4f7",
+      "roleInContext" : "[[Such acts]] are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 70,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "e040a48ff9048c0eff41ddef2719e6d0"
+    } ],
+    "triggerInContext" : "Such acts are [[prohibited]] because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 73,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 109,
+    "headTokenLength" : 1,
+    "id" : "96c9ebbe11620a68ab9de1b5129df05f",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "ambulance",
+      "normalizedRoleHead" : "ambulance",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 108,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "12610d7dc5d004aa7c59bd8d0466f043",
+      "roleInContext" : "For example, using an [[ambulance]] or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 108,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "96c9ebbe11620a68ab9de1b5129df05f"
+    }, {
+      "normalizedRole" : "medical aircraft",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 111,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f4aae00d95b4d29c652f6b44e28c2d09",
+      "roleInContext" : "For example, using an ambulance or [[medical aircraft]] marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 110,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "96c9ebbe11620a68ab9de1b5129df05f"
+    } ],
+    "triggerInContext" : "For example, using an ambulance [[or]] medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 109,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 101,
+    "headTokenLength" : 1,
+    "id" : "56b5097ab5bafc7a08f74d8359bcd2f2",
+    "normalizedHead" : "activities",
+    "normalizedTrigger" : "activities",
+    "roles" : [ ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and [[activities]].",
+    "triggerStartToken" : 101,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 38,
+    "headTokenLength" : 1,
+    "id" : "da5cc367012123e7f9384bc94536c2d6",
+    "normalizedHead" : "act",
+    "normalizedTrigger" : "act",
+    "roles" : [ {
+      "normalizedRole" : "of perfidy",
+      "normalizedRoleHead" : "perfidy",
+      "normalizedTrigger" : "act",
+      "roleHeadStartToken" : 40,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f39804b591aa0ae6e96236cd26faac3b",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act [[of perfidy]].",
+      "roleStartToken" : 39,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "da5cc367012123e7f9384bc94536c2d6"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an [[act]] of perfidy.",
+    "triggerStartToken" : 38,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 44,
+    "headTokenLength" : 1,
+    "id" : "939c05ade64648b4ec057cddcc58a3a9",
+    "normalizedHead" : "use",
+    "normalizedTrigger" : "use",
+    "roles" : [ {
+      "normalizedRole" : "protective signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "use",
+      "roleHeadStartToken" : 47,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9167866a7910e211a82a41dc6142aafd",
+      "roleInContext" : "Additionally, use of [[protective signs, signals, and symbols]] to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 46,
+      "roleTokenLength" : 7,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "939c05ade64648b4ec057cddcc58a3a9"
+    }, {
+      "normalizedRole" : "to impede enemy military operations or to protect one ’s own military operations",
+      "normalizedRoleHead" : "impede",
+      "normalizedTrigger" : "use",
+      "roleHeadStartToken" : 54,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0fc3967306a4093fe6784f4cb3435688",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols [[to impede enemy military operations or to protect one’s own military operations]] is also prohibited.",
+      "roleStartToken" : 53,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "939c05ade64648b4ec057cddcc58a3a9"
+    } ],
+    "triggerInContext" : "Additionally, [[use]] of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 44,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 4,
+    "headTokenLength" : 1,
+    "id" : "5995c8bde65329c11fe8e56450952f7b",
+    "normalizedHead" : "protective",
+    "normalizedTrigger" : "protective",
+    "roles" : [ {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "protective",
+      "roleHeadStartToken" : 5,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "da3f366cf297ba39d4a70c99ead2bb3d",
+      "roleInContext" : "12.2 Improper use of protective [[signs, signals, and symbols]]",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "5995c8bde65329c11fe8e56450952f7b"
+    } ],
+    "triggerInContext" : "12.2 Improper use of [[protective]] signs, signals, and symbols",
+    "triggerStartToken" : 4,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 20,
+    "headTokenLength" : 1,
+    "id" : "04ce50cdf8d9f4c54bb8345dbc662c47",
+    "normalizedHead" : "(",
+    "normalizedTrigger" : "(",
+    "roles" : [ {
+      "normalizedRole" : "using",
+      "normalizedRoleHead" : "using",
+      "normalizedTrigger" : "(",
+      "roleHeadStartToken" : 12,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "00d585a07022e474ceb8e2979c8c83b0",
+      "roleInContext" : "Improperly [[using]] protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "04ce50cdf8d9f4c54bb8345dbc662c47"
+    }, {
+      "normalizedRole" : "see",
+      "normalizedRoleHead" : "see",
+      "normalizedTrigger" : "(",
+      "roleHeadStartToken" : 21,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1922b38b27815e35d7be24f236f3e79a",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols ([[see]] paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 21,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "04ce50cdf8d9f4c54bb8345dbc662c47"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols [[(]]see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 20,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 154,
+    "headTokenLength" : 1,
+    "id" : "9c5a6c4a6939cbc1b9ce795c430b889b",
+    "normalizedHead" : "enemy",
+    "normalizedTrigger" : "enemy",
+    "roles" : [ ],
+    "triggerInContext" : "Similarly, use of the white flag to gain a military advantage over the [[enemy]] is unlawful.",
+    "triggerStartToken" : 154,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 68,
+    "headTokenLength" : 1,
+    "id" : "f8d18c9b15e437abbbf599d1584de735",
+    "normalizedHead" : "prohibited",
+    "normalizedTrigger" : "prohibited",
+    "roles" : [ {
+      "normalizedRole" : "use of protective signs , signals , and symbols to impede enemy military operations or to protect one ’s own military operations",
+      "normalizedRoleHead" : "use",
+      "normalizedTrigger" : "prohibited",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8380ea75ef06a4dcc3b59e4e4975bb1f",
+      "roleInContext" : "Additionally, [[use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations]] is also prohibited.",
+      "roleStartToken" : 44,
+      "roleTokenLength" : 22,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "f8d18c9b15e437abbbf599d1584de735"
+    } ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also [[prohibited]].",
+    "triggerStartToken" : 68,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 42,
+    "headTokenLength" : 1,
+    "id" : "4ac15f2a9fe9e70e1467030dcc129ef2",
+    "normalizedHead" : "Additionally",
+    "normalizedTrigger" : "Additionally",
+    "roles" : [ {
+      "normalizedRole" : "is",
+      "normalizedRoleHead" : "is",
+      "normalizedTrigger" : "Additionally",
+      "roleHeadStartToken" : 36,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4b3d1046103dc120efe579f675d8dd67",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy [[is]] an act of perfidy. Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 36,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#FIRST_PART",
+      "triggerID" : "4ac15f2a9fe9e70e1467030dcc129ef2"
+    }, {
+      "normalizedRole" : "prohibited",
+      "normalizedRoleHead" : "prohibited",
+      "normalizedTrigger" : "Additionally",
+      "roleHeadStartToken" : 68,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "db0ec2c305f18f7dcc2556570f4d3c31",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy. Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also [[prohibited]].",
+      "roleStartToken" : 68,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#SECOND_PART",
+      "triggerID" : "4ac15f2a9fe9e70e1467030dcc129ef2"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy. [[Additionally]], use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 42,
+    "triggerTokenLength" : 1,
+    "triggerType" : "MULTI_SENTENCE_LINK"
+  }, {
+    "headStartToken" : 78,
+    "headTokenLength" : 1,
+    "id" : "09698fd6bdeaf20213dae6f3fa3325d1",
+    "normalizedHead" : "effectiveness",
+    "normalizedTrigger" : "effectiveness",
+    "roles" : [ {
+      "normalizedRole" : "protective signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "effectiveness",
+      "roleHeadStartToken" : 81,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ca6df89bc658d2c23ad09a962143af50",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of [[protective signs, signals, and symbols]] and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 80,
+      "roleTokenLength" : 7,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "09698fd6bdeaf20213dae6f3fa3325d1"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the [[effectiveness]] of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 78,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 60,
+    "headTokenLength" : 1,
+    "id" : "857eadda3aefaf6ae98b0dd2000a117b",
+    "normalizedHead" : "protect",
+    "normalizedTrigger" : "protect",
+    "roles" : [ {
+      "normalizedRole" : "one ’s own military operations",
+      "normalizedRoleHead" : "’s",
+      "normalizedTrigger" : "protect",
+      "roleHeadStartToken" : 62,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6297e17fa7596e09558ef015fcdb7fb8",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect [[one’s own military operations]] is also prohibited.",
+      "roleStartToken" : 61,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "857eadda3aefaf6ae98b0dd2000a117b"
+    } ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to [[protect]] one’s own military operations is also prohibited.",
+    "triggerStartToken" : 60,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 10,
+    "headTokenLength" : 1,
+    "id" : "2fbfa103bb550335fb966b40fa35406d",
+    "normalizedHead" : "symbols",
+    "normalizedTrigger" : "symbols",
+    "roles" : [ ],
+    "triggerInContext" : "12.2 Improper use of protective signs, signals, and [[symbols]]",
+    "triggerStartToken" : 10,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 71,
+    "headTokenLength" : 1,
+    "id" : "08d227131269d3208a8994973c925ee3",
+    "normalizedHead" : "acts",
+    "normalizedTrigger" : "Such acts",
+    "roles" : [ {
+      "normalizedRole" : "Such",
+      "normalizedRoleHead" : "Such",
+      "normalizedTrigger" : "Such acts",
+      "roleHeadStartToken" : 70,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "af292db38bd5b0663fa95e0a4b8bd090",
+      "roleInContext" : "[[Such]] acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 70,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "08d227131269d3208a8994973c925ee3"
+    }, {
+      "normalizedRole" : "acts",
+      "normalizedRoleHead" : "acts",
+      "normalizedTrigger" : "Such acts",
+      "roleHeadStartToken" : 71,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c87175140c194c8eb8473c18bc37f2af",
+      "roleInContext" : "Such [[acts]] are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 71,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "08d227131269d3208a8994973c925ee3"
+    } ],
+    "triggerInContext" : "[[Such acts]] are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 70,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 121,
+    "headTokenLength" : 1,
+    "id" : "0945e022f08186a32fc83cacb6e185ac",
+    "normalizedHead" : "carry",
+    "normalizedTrigger" : "carry",
+    "roles" : [ {
+      "normalizedRole" : "armed combatants , weapons , or ammunition with which to attack or elude enemy forces",
+      "normalizedRoleHead" : "combatants",
+      "normalizedTrigger" : "carry",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "115a9a4533c39c2c9c677059a172d3cc",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry [[armed combatants, weapons, or ammunition with which to attack or elude enemy forces]] is prohibited.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 15,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "0945e022f08186a32fc83cacb6e185ac"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to [[carry]] armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 121,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 46,
+    "headTokenLength" : 1,
+    "id" : "9eeae595aa3c81ff66288ca01250b89a",
+    "normalizedHead" : "protective",
+    "normalizedTrigger" : "protective",
+    "roles" : [ {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "protective",
+      "roleHeadStartToken" : 47,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "452577ab7f840e33b4b26cae3e70643b",
+      "roleInContext" : "Additionally, use of protective [[signs, signals, and symbols]] to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 47,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "9eeae595aa3c81ff66288ca01250b89a"
+    } ],
+    "triggerInContext" : "Additionally, use of [[protective]] signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 46,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 88,
+    "headTokenLength" : 1,
+    "id" : "73fd011222e4b60fd5df2f9ca1002ec8",
+    "normalizedHead" : "thereby",
+    "normalizedTrigger" : "and thereby",
+    "roles" : [ {
+      "normalizedRole" : "undermine",
+      "normalizedRoleHead" : "undermine",
+      "normalizedTrigger" : "and thereby",
+      "roleHeadStartToken" : 76,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c3dcedacf768010f3fc7344eadb66f4d",
+      "roleInContext" : "Such acts are prohibited because they [[undermine]] the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 76,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "73fd011222e4b60fd5df2f9ca1002ec8"
+    }, {
+      "normalizedRole" : "jeopardize",
+      "normalizedRoleHead" : "jeopardize",
+      "normalizedTrigger" : "and thereby",
+      "roleHeadStartToken" : 89,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e6d9c07503da014426b067db29b2d437",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby [[jeopardize]] the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 89,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "73fd011222e4b60fd5df2f9ca1002ec8"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols [[and thereby]] jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 87,
+    "triggerTokenLength" : 2,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 76,
+    "headTokenLength" : 1,
+    "id" : "9c1d5b8c894404520fbed68de812ff2d",
+    "normalizedHead" : "undermine",
+    "normalizedTrigger" : "undermine",
+    "roles" : [ {
+      "normalizedRole" : "they",
+      "normalizedRoleHead" : "they",
+      "normalizedTrigger" : "undermine",
+      "roleHeadStartToken" : 75,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "914f767b3a5d224c6a32267dc67b4910",
+      "roleInContext" : "Such acts are prohibited because [[they]] undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 75,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "9c1d5b8c894404520fbed68de812ff2d"
+    }, {
+      "normalizedRole" : "the effectiveness of protective signs , signals , and symbols",
+      "normalizedRoleHead" : "effectiveness",
+      "normalizedTrigger" : "undermine",
+      "roleHeadStartToken" : 78,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ddb1828f0d27815b029d39a6430384cf",
+      "roleInContext" : "Such acts are prohibited because they undermine [[the effectiveness of protective signs, signals, and symbols]] and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 77,
+      "roleTokenLength" : 10,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "9c1d5b8c894404520fbed68de812ff2d"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they [[undermine]] the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 76,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 98,
+    "headTokenLength" : 1,
+    "id" : "157b2ee8064f1f64c2843d40e66a3245",
+    "normalizedHead" : "protected",
+    "normalizedTrigger" : "protected",
+    "roles" : [ {
+      "normalizedRole" : "structures and activities",
+      "normalizedRoleHead" : "activities",
+      "normalizedTrigger" : "protected",
+      "roleHeadStartToken" : 101,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "dc5ce547f0d3e5b05a1632cfedb098aa",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected [[structures and activities]].",
+      "roleStartToken" : 99,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "157b2ee8064f1f64c2843d40e66a3245"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of [[protected]] structures and activities.",
+    "triggerStartToken" : 98,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 93,
+    "headTokenLength" : 1,
+    "id" : "265662db91a6760425c520cefc899599",
+    "normalizedHead" : "noncombatants",
+    "normalizedTrigger" : "noncombatants",
+    "roles" : [ ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of [[noncombatants]] and the immunity of protected structures and activities.",
+    "triggerStartToken" : 93,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 40,
+    "headTokenLength" : 1,
+    "id" : "60b2524e8d1c9d040b987a6f46d8db8b",
+    "normalizedHead" : "perfidy",
+    "normalizedTrigger" : "perfidy",
+    "roles" : [ ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of [[perfidy]].",
+    "triggerStartToken" : 40,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 133,
+    "headTokenLength" : 1,
+    "id" : "2b5f0bbcd438ccbf9a839c330125e5df",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "attack",
+      "normalizedRoleHead" : "attack",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 132,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "af89360bc0b756a2cdb6901bd40d9c82",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to [[attack]] or elude enemy forces is prohibited.",
+      "roleStartToken" : 132,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "2b5f0bbcd438ccbf9a839c330125e5df"
+    }, {
+      "normalizedRole" : "elude",
+      "normalizedRoleHead" : "elude",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 134,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0a15211b7554d12cd9a092e2b2c7c5f4",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or [[elude]] enemy forces is prohibited.",
+      "roleStartToken" : 134,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "2b5f0bbcd438ccbf9a839c330125e5df"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack [[or]] elude enemy forces is prohibited.",
+    "triggerStartToken" : 133,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 52,
+    "headTokenLength" : 1,
+    "id" : "8cd68c4e73e5dbf309ac96daacb520e7",
+    "normalizedHead" : "symbols",
+    "normalizedTrigger" : "symbols",
+    "roles" : [ ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and [[symbols]] to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 52,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 117,
+    "headTokenLength" : 1,
+    "id" : "145087cc4e2302864046ab9f3a96943f",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "Red Cross",
+      "normalizedRoleHead" : "Cross",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 116,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "60246154653b74384bffc7607f2887fa",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the [[Red Cross]] or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 115,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "145087cc4e2302864046ab9f3a96943f"
+    }, {
+      "normalizedRole" : "Red Crescent",
+      "normalizedRoleHead" : "Crescent",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c2bf396153c81481393a52877689654b",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or [[Red Crescent]] to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 118,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "145087cc4e2302864046ab9f3a96943f"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross [[or]] Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 117,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 24,
+    "headTokenLength" : 1,
+    "id" : "2db1bb00677846441ba9243be8f228ac",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "8.5.1",
+      "normalizedRoleHead" : "8.5.1",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 23,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a95699db0b34f4f9556ef6cebe7e96e3",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs [[8.5.1]] and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 23,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "2db1bb00677846441ba9243be8f228ac"
+    }, {
+      "normalizedRole" : "8.5.2",
+      "normalizedRoleHead" : "8.5.2",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e13bfce84de7673451edb603eee47a12",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and [[8.5.2]]) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 25,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "2db1bb00677846441ba9243be8f228ac"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 [[and]] 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 24,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 74,
+    "headTokenLength" : 1,
+    "id" : "83385f79813fde50e2e0f1024efdeb5b",
+    "normalizedHead" : "because",
+    "normalizedTrigger" : "because",
+    "roles" : [ {
+      "normalizedRole" : "prohibited",
+      "normalizedRoleHead" : "prohibited",
+      "normalizedTrigger" : "because",
+      "roleHeadStartToken" : 73,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8be5af82c318336964e1952fc84d653d",
+      "roleInContext" : "Such acts are [[prohibited]] because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 73,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "83385f79813fde50e2e0f1024efdeb5b"
+    }, {
+      "normalizedRole" : "undermine",
+      "normalizedRoleHead" : "undermine",
+      "normalizedTrigger" : "because",
+      "roleHeadStartToken" : 76,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "43a189bd2283dd67ef3e46168c96f1ab",
+      "roleInContext" : "Such acts are prohibited because they [[undermine]] the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 76,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "83385f79813fde50e2e0f1024efdeb5b"
+    } ],
+    "triggerInContext" : "Such acts are prohibited [[because]] they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 74,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 18,
+    "headTokenLength" : 1,
+    "id" : "131bfc61f2023ebd72eb6429f2b18f17",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1e06a45bd2910642dd086fc9db53b7d6",
+      "roleInContext" : "Improperly using protective [[signs, signals, and symbols]] (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 6,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "131bfc61f2023ebd72eb6429f2b18f17"
+    }, {
+      "normalizedRole" : "signs",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f844a3edc787f11de827ca0575e353f3",
+      "roleInContext" : "Improperly using protective [[signs]], signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "131bfc61f2023ebd72eb6429f2b18f17"
+    }, {
+      "normalizedRole" : "signals",
+      "normalizedRoleHead" : "signals",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6dea114977b2cf6b52a9910cf402083a",
+      "roleInContext" : "Improperly using protective signs, [[signals]], and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 16,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "131bfc61f2023ebd72eb6429f2b18f17"
+    }, {
+      "normalizedRole" : "symbols",
+      "normalizedRoleHead" : "symbols",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 19,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5d2acecd374e63602dbe9976e1656d7f",
+      "roleInContext" : "Improperly using protective signs, signals, and [[symbols]] (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "131bfc61f2023ebd72eb6429f2b18f17"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, [[and]] symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 18,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 146,
+    "headTokenLength" : 1,
+    "id" : "47d34a0d7fb610f4332c7f2b948d8ee1",
+    "normalizedHead" : "flag",
+    "normalizedTrigger" : "white flag",
+    "roles" : [ {
+      "normalizedRole" : "white",
+      "normalizedRoleHead" : "white",
+      "normalizedTrigger" : "white flag",
+      "roleHeadStartToken" : 145,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a86f63fd41e2ae8e9d438ead43d9c6b5",
+      "roleInContext" : "Similarly, use of the [[white]] flag to gain a military advantage over the enemy is unlawful.",
+      "roleStartToken" : 145,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "47d34a0d7fb610f4332c7f2b948d8ee1"
+    }, {
+      "normalizedRole" : "flag",
+      "normalizedRoleHead" : "flag",
+      "normalizedTrigger" : "white flag",
+      "roleHeadStartToken" : 146,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2ff671d70bbad2a710f902764b51dd38",
+      "roleInContext" : "Similarly, use of the white [[flag]] to gain a military advantage over the enemy is unlawful.",
+      "roleStartToken" : 146,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "47d34a0d7fb610f4332c7f2b948d8ee1"
+    } ],
+    "triggerInContext" : "Similarly, use of the [[white flag]] to gain a military advantage over the enemy is unlawful.",
+    "triggerStartToken" : 145,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 91,
+    "headTokenLength" : 1,
+    "id" : "1d5bb900dd945a1524f9d0c93d08af4a",
+    "normalizedHead" : "safety",
+    "normalizedTrigger" : "safety",
+    "roles" : [ {
+      "normalizedRole" : "noncombatants",
+      "normalizedRoleHead" : "noncombatants",
+      "normalizedTrigger" : "safety",
+      "roleHeadStartToken" : 93,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "de0705dfca889213c4b37a78aa135a3d",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of [[noncombatants]] and the immunity of protected structures and activities.",
+      "roleStartToken" : 93,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "1d5bb900dd945a1524f9d0c93d08af4a"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the [[safety]] of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 91,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 2,
+    "headTokenLength" : 1,
+    "id" : "4f1c3c1d858e086c54d4e304aeba7bab",
+    "normalizedHead" : "use",
+    "normalizedTrigger" : "use",
+    "roles" : [ {
+      "normalizedRole" : "Improper",
+      "normalizedRoleHead" : "Improper",
+      "normalizedTrigger" : "use",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8ccd3d4642c2a8a8d5e06be452f2233a",
+      "roleInContext" : "12.2 [[Improper]] use of protective signs, signals, and symbols",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "4f1c3c1d858e086c54d4e304aeba7bab"
+    }, {
+      "normalizedRole" : "protective signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "use",
+      "roleHeadStartToken" : 5,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "80c803888e550ba5641e82af43681100",
+      "roleInContext" : "12.2 Improper use of [[protective signs, signals, and symbols]]",
+      "roleStartToken" : 4,
+      "roleTokenLength" : 7,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "4f1c3c1d858e086c54d4e304aeba7bab"
+    } ],
+    "triggerInContext" : "12.2 Improper [[use]] of protective signs, signals, and symbols",
+    "triggerStartToken" : 2,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 112,
+    "headTokenLength" : 1,
+    "id" : "577bdc8404f614f0131259bb0f5ed456",
+    "normalizedHead" : "marked",
+    "normalizedTrigger" : "marked",
+    "roles" : [ {
+      "normalizedRole" : "an ambulance or medical aircraft",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "marked",
+      "roleHeadStartToken" : 111,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "81a7c688e9136945d7e987473b03ce75",
+      "roleInContext" : "For example, using [[an ambulance or medical aircraft]] marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 107,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "577bdc8404f614f0131259bb0f5ed456"
+    }, {
+      "normalizedRole" : "with the Red Cross or Red Crescent",
+      "normalizedRoleHead" : "Crescent",
+      "normalizedTrigger" : "marked",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3ad4a9988576d6abdd1a3a7170f240c0",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked [[with the Red Cross or Red Crescent]] to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 113,
+      "roleTokenLength" : 7,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "577bdc8404f614f0131259bb0f5ed456"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft [[marked]] with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 112,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 94,
+    "headTokenLength" : 1,
+    "id" : "51f57e40549636e6c185a193d30740b7",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "safety",
+      "normalizedRoleHead" : "safety",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 91,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "20e9d10a5f577421d3440227db8a5df6",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the [[safety]] of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 91,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "51f57e40549636e6c185a193d30740b7"
+    }, {
+      "normalizedRole" : "immunity",
+      "normalizedRoleHead" : "immunity",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 96,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9b0a1c22fa2e56b5277cfde88e6d6ff8",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the [[immunity]] of protected structures and activities.",
+      "roleStartToken" : 96,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "51f57e40549636e6c185a193d30740b7"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants [[and]] the immunity of protected structures and activities.",
+    "triggerStartToken" : 94,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 33,
+    "headTokenLength" : 1,
+    "id" : "5ee926ee3a2992d0ff875a93a48d555a",
+    "normalizedHead" : "capture",
+    "normalizedTrigger" : "capture",
+    "roles" : [ {
+      "normalizedRole" : "the enemy",
+      "normalizedRoleHead" : "enemy",
+      "normalizedTrigger" : "capture",
+      "roleHeadStartToken" : 35,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9f036b939adef83f83af648cce2899d1",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture [[the enemy]] is an act of perfidy.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "5ee926ee3a2992d0ff875a93a48d555a"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or [[capture]] the enemy is an act of perfidy.",
+    "triggerStartToken" : 33,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 67,
+    "headTokenLength" : 1,
+    "id" : "897826ed75593c48d6b1474efe3dba0b",
+    "normalizedHead" : "also",
+    "normalizedTrigger" : "also",
+    "roles" : [ {
+      "normalizedRole" : "is",
+      "normalizedRoleHead" : "is",
+      "normalizedTrigger" : "also",
+      "roleHeadStartToken" : 36,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b0d16196b95483d0b88e07b76342bba7",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy [[is]] an act of perfidy. Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 36,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#FIRST_PART",
+      "triggerID" : "897826ed75593c48d6b1474efe3dba0b"
+    }, {
+      "normalizedRole" : "prohibited",
+      "normalizedRoleHead" : "prohibited",
+      "normalizedTrigger" : "also",
+      "roleHeadStartToken" : 68,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5c84a0f1d7b11ab77674ed43336dfb7b",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy. Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is also [[prohibited]].",
+      "roleStartToken" : 68,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#SECOND_PART",
+      "triggerID" : "897826ed75593c48d6b1474efe3dba0b"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy. Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military operations is [[also]] prohibited.",
+    "triggerStartToken" : 67,
+    "triggerTokenLength" : 1,
+    "triggerType" : "MULTI_SENTENCE_LINK"
+  }, {
+    "headStartToken" : 5,
+    "headTokenLength" : 1,
+    "id" : "cb038ab5937a2254213fea2b4e32be10",
+    "normalizedHead" : "signs",
+    "normalizedTrigger" : "signs",
+    "roles" : [ ],
+    "triggerInContext" : "12.2 Improper use of protective [[signs]], signals, and symbols",
+    "triggerStartToken" : 5,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 32,
+    "headTokenLength" : 1,
+    "id" : "9c90c22e491ef10d46925f2f4c4dea55",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "injure",
+      "normalizedRoleHead" : "injure",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 28,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9ca6326c8873d74603462a2b3090db1d",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to [[injure]], kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 28,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "9c90c22e491ef10d46925f2f4c4dea55"
+    }, {
+      "normalizedRole" : "injure , kill , or capture",
+      "normalizedRoleHead" : "capture",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 33,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "13afdd1b9e8c52fb48c0609fd575d889",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to [[injure, kill, or capture]] the enemy is an act of perfidy.",
+      "roleStartToken" : 28,
+      "roleTokenLength" : 6,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "9c90c22e491ef10d46925f2f4c4dea55"
+    }, {
+      "normalizedRole" : "kill",
+      "normalizedRoleHead" : "kill",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6439fe4546301892542071d4cc1154c7",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, [[kill]], or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "9c90c22e491ef10d46925f2f4c4dea55"
+    }, {
+      "normalizedRole" : "capture",
+      "normalizedRoleHead" : "capture",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 33,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "fd26187dc018403d6b784faee8191b42",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or [[capture]] the enemy is an act of perfidy.",
+      "roleStartToken" : 33,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "9c90c22e491ef10d46925f2f4c4dea55"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, [[or]] capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 32,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 36,
+    "headTokenLength" : 1,
+    "id" : "cbef2c96c1f42eb6723527d23d29e1c9",
+    "normalizedHead" : "is",
+    "normalizedTrigger" : "is",
+    "roles" : [ {
+      "normalizedRole" : "Improperly using protective signs , signals , and symbols ( see paragraphs 8.5.1 and 8.5.2 ) to injure , kill , or capture the enemy",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "is",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1f33a2c4949a64fd79d1eb25111e6cbb",
+      "roleInContext" : "[[Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy]] is an act of perfidy.",
+      "roleStartToken" : 11,
+      "roleTokenLength" : 25,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "cbef2c96c1f42eb6723527d23d29e1c9"
+    }, {
+      "normalizedRole" : "an act of perfidy",
+      "normalizedRoleHead" : "act",
+      "normalizedTrigger" : "is",
+      "roleHeadStartToken" : 38,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "025a6d589d35b6ba6f25f5da75466d35",
+      "roleInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is [[an act of perfidy]].",
+      "roleStartToken" : 37,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "cbef2c96c1f42eb6723527d23d29e1c9"
+    } ],
+    "triggerInContext" : "Improperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy [[is]] an act of perfidy.",
+    "triggerStartToken" : 36,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 138,
+    "headTokenLength" : 1,
+    "id" : "0765d538e91d24b28d86c442d299bfc6",
+    "normalizedHead" : "prohibited",
+    "normalizedTrigger" : "prohibited",
+    "roles" : [ {
+      "normalizedRole" : "using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants , weapons , or ammunition with which to attack or elude enemy forces",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "prohibited",
+      "roleHeadStartToken" : 136,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8e6b72d4d31f38a78ac4d74aae618fcc",
+      "roleInContext" : "For example, [[using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces]] is prohibited.",
+      "roleStartToken" : 106,
+      "roleTokenLength" : 31,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "0765d538e91d24b28d86c442d299bfc6"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is [[prohibited]].",
+    "triggerStartToken" : 138,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 83,
+    "headTokenLength" : 1,
+    "id" : "a84086c7d5318ce96d8566b210f9130b",
+    "normalizedHead" : "signals",
+    "normalizedTrigger" : "signals",
+    "roles" : [ ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, [[signals]], and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 83,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 96,
+    "headTokenLength" : 1,
+    "id" : "51ce06699b0b85e2713ed0262c9c4fdb",
+    "normalizedHead" : "immunity",
+    "normalizedTrigger" : "immunity",
+    "roles" : [ {
+      "normalizedRole" : "protected structures and activities",
+      "normalizedRoleHead" : "activities",
+      "normalizedTrigger" : "immunity",
+      "roleHeadStartToken" : 101,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "38d26fb5dda8720930bbe90fc1d42969",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of [[protected structures and activities]].",
+      "roleStartToken" : 98,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "51ce06699b0b85e2713ed0262c9c4fdb"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the [[immunity]] of protected structures and activities.",
+    "triggerStartToken" : 96,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 9,
+    "headTokenLength" : 1,
+    "id" : "bc14fa8782d509621022fd8c7ae02495",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 5,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "892c1816c0a517b4ffc8871305854e2e",
+      "roleInContext" : "12.2 Improper use of protective [[signs, signals, and symbols]]",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 6,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "bc14fa8782d509621022fd8c7ae02495"
+    }, {
+      "normalizedRole" : "signs",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 5,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6bbe42cbe9636e870a11faf538580362",
+      "roleInContext" : "12.2 Improper use of protective [[signs]], signals, and symbols",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "bc14fa8782d509621022fd8c7ae02495"
+    }, {
+      "normalizedRole" : "signals",
+      "normalizedRoleHead" : "signals",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c7e36ec1e30cdc3e5187c216266159f4",
+      "roleInContext" : "12.2 Improper use of protective signs, [[signals]], and symbols",
+      "roleStartToken" : 7,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "bc14fa8782d509621022fd8c7ae02495"
+    }, {
+      "normalizedRole" : "symbols",
+      "normalizedRoleHead" : "symbols",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 10,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "db539b8a5c14104f1da3bd5421ace176",
+      "roleInContext" : "12.2 Improper use of protective signs, signals, and [[symbols]]",
+      "roleStartToken" : 10,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "bc14fa8782d509621022fd8c7ae02495"
+    } ],
+    "triggerInContext" : "12.2 Improper use of protective signs, signals, [[and]] symbols",
+    "triggerStartToken" : 9,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 51,
+    "headTokenLength" : 1,
+    "id" : "67d79497b29b4c4be0791cf7a00dddca",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 47,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ffe8f469f6c015a52d98d6bcb11c70ff",
+      "roleInContext" : "Additionally, use of protective [[signs, signals, and symbols]] to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 47,
+      "roleTokenLength" : 6,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "67d79497b29b4c4be0791cf7a00dddca"
+    }, {
+      "normalizedRole" : "signs",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 47,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "54634057bcf0026dd4f7636da6bfd473",
+      "roleInContext" : "Additionally, use of protective [[signs]], signals, and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 47,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "67d79497b29b4c4be0791cf7a00dddca"
+    }, {
+      "normalizedRole" : "signals",
+      "normalizedRoleHead" : "signals",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 49,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "04a094ecefaa89c5386eed72d7c84587",
+      "roleInContext" : "Additionally, use of protective signs, [[signals]], and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 49,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "67d79497b29b4c4be0791cf7a00dddca"
+    }, {
+      "normalizedRole" : "symbols",
+      "normalizedRoleHead" : "symbols",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 52,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0a6d49dd417a612e0874e562b0bf75d2",
+      "roleInContext" : "Additionally, use of protective signs, signals, and [[symbols]] to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 52,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "67d79497b29b4c4be0791cf7a00dddca"
+    } ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, [[and]] symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 51,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 47,
+    "headTokenLength" : 1,
+    "id" : "f9dc8b3baba2a6f8f0ae70e1e487baa9",
+    "normalizedHead" : "signs",
+    "normalizedTrigger" : "signs",
+    "roles" : [ ],
+    "triggerInContext" : "Additionally, use of protective [[signs]], signals, and symbols to impede enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 47,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 106,
+    "headTokenLength" : 1,
+    "id" : "207cded6236d86d31ac95084fc0e5b4a",
+    "normalizedHead" : "using",
+    "normalizedTrigger" : "using",
+    "roles" : [ {
+      "normalizedRole" : "an ambulance or medical aircraft marked with the Red Cross or Red Crescent",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "using",
+      "roleHeadStartToken" : 111,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0ba78e9ace01b3d9abd72b5ce254201b",
+      "roleInContext" : "For example, using [[an ambulance or medical aircraft marked with the Red Cross or Red Crescent]] to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 107,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "207cded6236d86d31ac95084fc0e5b4a"
+    }, {
+      "normalizedRole" : "to carry armed combatants , weapons , or ammunition with which to attack or elude enemy forces",
+      "normalizedRoleHead" : "carry",
+      "normalizedTrigger" : "using",
+      "roleHeadStartToken" : 121,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f020aa127181281747370589e9b4210c",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent [[to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces]] is prohibited.",
+      "roleStartToken" : 120,
+      "roleTokenLength" : 17,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "207cded6236d86d31ac95084fc0e5b4a"
+    } ],
+    "triggerInContext" : "For example, [[using]] an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 106,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 135,
+    "headTokenLength" : 1,
+    "id" : "67fcf7677aa272d7b0e050a7ce008347",
+    "normalizedHead" : "enemy",
+    "normalizedTrigger" : "enemy",
+    "roles" : [ ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude [[enemy]] forces is prohibited.",
+    "triggerStartToken" : 135,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 89,
+    "headTokenLength" : 1,
+    "id" : "f56ec1e9557dd4b3e51559b3282b62e8",
+    "normalizedHead" : "jeopardize",
+    "normalizedTrigger" : "jeopardize",
+    "roles" : [ {
+      "normalizedRole" : "the safety of noncombatants and the immunity of protected structures and activities",
+      "normalizedRoleHead" : "safety",
+      "normalizedTrigger" : "jeopardize",
+      "roleHeadStartToken" : 91,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7d686de2e168960cd4fce827473e4803",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize [[the safety of noncombatants and the immunity of protected structures and activities]].",
+      "roleStartToken" : 90,
+      "roleTokenLength" : 12,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "f56ec1e9557dd4b3e51559b3282b62e8"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby [[jeopardize]] the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 89,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 85,
+    "headTokenLength" : 1,
+    "id" : "436da981eb9ab1dc50ebd8bbcce3fc46",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "signs",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 81,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cc0df0e1221a1e7a21a0c6c99d9207e5",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective [[signs]], signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "436da981eb9ab1dc50ebd8bbcce3fc46"
+    }, {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 81,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d511f39fbb7b9557abbae18351687319",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective [[signs, signals, and symbols]] and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 6,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "436da981eb9ab1dc50ebd8bbcce3fc46"
+    }, {
+      "normalizedRole" : "signals",
+      "normalizedRoleHead" : "signals",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 83,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8994b2d5312d791b4a0fa3e981f0d196",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, [[signals]], and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 83,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "436da981eb9ab1dc50ebd8bbcce3fc46"
+    }, {
+      "normalizedRole" : "symbols",
+      "normalizedRoleHead" : "symbols",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 86,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0dcaf2a7b0c341c8d30d39fe77afe615",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and [[symbols]] and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+      "roleStartToken" : 86,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "436da981eb9ab1dc50ebd8bbcce3fc46"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, [[and]] symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 85,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 123,
+    "headTokenLength" : 1,
+    "id" : "42323ff3cbe155f294e731562e5c190a",
+    "normalizedHead" : "combatants",
+    "normalizedTrigger" : "combatants",
+    "roles" : [ {
+      "normalizedRole" : "armed",
+      "normalizedRoleHead" : "armed",
+      "normalizedTrigger" : "combatants",
+      "roleHeadStartToken" : 122,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "02dfb2ce86f3b7681f3c15f28090b0a4",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry [[armed]] combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "42323ff3cbe155f294e731562e5c190a"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed [[combatants]], weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 123,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 19,
+    "headTokenLength" : 1,
+    "id" : "fde44f25879d2aeb6291bd61e6ff1347",
+    "normalizedHead" : "symbols",
+    "normalizedTrigger" : "symbols",
+    "roles" : [ ],
+    "triggerInContext" : "Improperly using protective signs, signals, and [[symbols]] (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 19,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 57,
+    "headTokenLength" : 1,
+    "id" : "5d7562553a099b830fa041873d5396b9",
+    "normalizedHead" : "operations",
+    "normalizedTrigger" : "operations",
+    "roles" : [ {
+      "normalizedRole" : "enemy",
+      "normalizedRoleHead" : "enemy",
+      "normalizedTrigger" : "operations",
+      "roleHeadStartToken" : 55,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "075fba1264093750f09885183db14009",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede [[enemy]] military operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 55,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "5d7562553a099b830fa041873d5396b9"
+    }, {
+      "normalizedRole" : "military",
+      "normalizedRoleHead" : "military",
+      "normalizedTrigger" : "operations",
+      "roleHeadStartToken" : 56,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "36171cfe09c780368207ca200676d210",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy [[military]] operations or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 56,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "5d7562553a099b830fa041873d5396b9"
+    } ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military [[operations]] or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 57,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 104,
+    "headTokenLength" : 1,
+    "id" : "2f7617ec75adc0ece263993ee50048e8",
+    "normalizedHead" : "example",
+    "normalizedTrigger" : "For example",
+    "roles" : [ {
+      "normalizedRole" : "prohibited",
+      "normalizedRoleHead" : "prohibited",
+      "normalizedTrigger" : "For example",
+      "roleHeadStartToken" : 73,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "df7caf6745355881528035bc2d428cc3",
+      "roleInContext" : "Such acts are [[prohibited]] because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities. For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 73,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#FIRST_PART",
+      "triggerID" : "2f7617ec75adc0ece263993ee50048e8"
+    }, {
+      "normalizedRole" : "prohibited",
+      "normalizedRoleHead" : "prohibited",
+      "normalizedTrigger" : "For example",
+      "roleHeadStartToken" : 138,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2e84090faaa8b293b027e04b36b7a993",
+      "roleInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities. For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is [[prohibited]].",
+      "roleStartToken" : 138,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#SECOND_PART",
+      "triggerID" : "2f7617ec75adc0ece263993ee50048e8"
+    } ],
+    "triggerInContext" : "Such acts are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities. [[For example]], using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 103,
+    "triggerTokenLength" : 2,
+    "triggerType" : "MULTI_SENTENCE_LINK"
+  }, {
+    "headStartToken" : 119,
+    "headTokenLength" : 1,
+    "id" : "19a47fe5abe4e49895ae38220a7a993b",
+    "normalizedHead" : "Crescent",
+    "normalizedTrigger" : "Red Crescent",
+    "roles" : [ {
+      "normalizedRole" : "Red",
+      "normalizedRoleHead" : "Red",
+      "normalizedTrigger" : "Red Crescent",
+      "roleHeadStartToken" : 118,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "736d20424f0345b27cc076ea7ed749f4",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or [[Red]] Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 118,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "19a47fe5abe4e49895ae38220a7a993b"
+    }, {
+      "normalizedRole" : "Crescent",
+      "normalizedRoleHead" : "Crescent",
+      "normalizedTrigger" : "Red Crescent",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1f30c27d25894c7a9a73e15ef5151097",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red [[Crescent]] to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 119,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "19a47fe5abe4e49895ae38220a7a993b"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or [[Red Crescent]] to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited.",
+    "triggerStartToken" : 118,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 54,
+    "headTokenLength" : 1,
+    "id" : "4586ca791df6d09f075de2f2871eaede",
+    "normalizedHead" : "impede",
+    "normalizedTrigger" : "impede",
+    "roles" : [ {
+      "normalizedRole" : "enemy military operations",
+      "normalizedRoleHead" : "operations",
+      "normalizedTrigger" : "impede",
+      "roleHeadStartToken" : 57,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "db4535891b082a57334d76a934416199",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede [[enemy military operations]] or to protect one’s own military operations is also prohibited.",
+      "roleStartToken" : 55,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "4586ca791df6d09f075de2f2871eaede"
+    } ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and symbols to [[impede]] enemy military operations or to protect one’s own military operations is also prohibited.",
+    "triggerStartToken" : 54,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 65,
+    "headTokenLength" : 1,
+    "id" : "369aec86e00440d51242bfa57d4aa338",
+    "normalizedHead" : "operations",
+    "normalizedTrigger" : "operations",
+    "roles" : [ {
+      "normalizedRole" : "one",
+      "normalizedRoleHead" : "one",
+      "normalizedTrigger" : "operations",
+      "roleHeadStartToken" : 61,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b2380d1f9b8f513007e0cf187a52b92b",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect [[one]]’s own military operations is also prohibited.",
+      "roleStartToken" : 61,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "369aec86e00440d51242bfa57d4aa338"
+    }, {
+      "normalizedRole" : "own",
+      "normalizedRoleHead" : "own",
+      "normalizedTrigger" : "operations",
+      "roleHeadStartToken" : 63,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8d1c5d6a5be618b7e85dd06b95f9cef0",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s [[own]] military operations is also prohibited.",
+      "roleStartToken" : 63,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "369aec86e00440d51242bfa57d4aa338"
+    }, {
+      "normalizedRole" : "military",
+      "normalizedRoleHead" : "military",
+      "normalizedTrigger" : "operations",
+      "roleHeadStartToken" : 64,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7b8e51ae01c1739b455b3e79c2b6c2e3",
+      "roleInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own [[military]] operations is also prohibited.",
+      "roleStartToken" : 64,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "369aec86e00440d51242bfa57d4aa338"
+    } ],
+    "triggerInContext" : "Additionally, use of protective signs, signals, and symbols to impede enemy military operations or to protect one’s own military [[operations]] is also prohibited.",
+    "triggerStartToken" : 65,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 13,
+    "headTokenLength" : 1,
+    "id" : "7652462560b8d25596eb9271e815228b",
+    "normalizedHead" : "protective",
+    "normalizedTrigger" : "protective",
+    "roles" : [ {
+      "normalizedRole" : "signs , signals , and symbols",
+      "normalizedRoleHead" : "signs",
+      "normalizedTrigger" : "protective",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8bf0e17caf054c91b8e65f12911acd6d",
+      "roleInContext" : "Improperly using protective [[signs, signals, and symbols]] (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "7652462560b8d25596eb9271e815228b"
+    } ],
+    "triggerInContext" : "Improperly using [[protective]] signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture the enemy is an act of perfidy.",
+    "triggerStartToken" : 13,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 140,
+    "headTokenLength" : 1,
+    "id" : "bf2ea987404bac6d647c50bc353f02be",
+    "normalizedHead" : "Similarly",
+    "normalizedTrigger" : "Similarly",
+    "roles" : [ {
+      "normalizedRole" : "prohibited",
+      "normalizedRoleHead" : "prohibited",
+      "normalizedTrigger" : "Similarly",
+      "roleHeadStartToken" : 138,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "62f3159968a223f9d1e545b7274867fc",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is [[prohibited]]. Similarly, use of the white flag to gain a military advantage over the enemy is unlawful.",
+      "roleStartToken" : 138,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#FIRST_PART",
+      "triggerID" : "bf2ea987404bac6d647c50bc353f02be"
+    }, {
+      "normalizedRole" : "is",
+      "normalizedRoleHead" : "is",
+      "normalizedTrigger" : "Similarly",
+      "roleHeadStartToken" : 155,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "42f53b6156c0e1b08b6cdd73053f852f",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited. Similarly, use of the white flag to gain a military advantage over the enemy [[is]] unlawful.",
+      "roleStartToken" : 155,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#SECOND_PART",
+      "triggerID" : "bf2ea987404bac6d647c50bc353f02be"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude enemy forces is prohibited. [[Similarly]], use of the white flag to gain a military advantage over the enemy is unlawful.",
+    "triggerStartToken" : 140,
+    "triggerTokenLength" : 1,
+    "triggerType" : "MULTI_SENTENCE_LINK"
+  }, {
+    "headStartToken" : 71,
+    "headTokenLength" : 1,
+    "id" : "cbf0c511ba706bf6e94a359cc7822063",
+    "normalizedHead" : "acts",
+    "normalizedTrigger" : "acts",
+    "roles" : [ ],
+    "triggerInContext" : "Such [[acts]] are prohibited because they undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities.",
+    "triggerStartToken" : 71,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 134,
+    "headTokenLength" : 1,
+    "id" : "de66634567d522e70e1736b3d28acfdc",
+    "normalizedHead" : "elude",
+    "normalizedTrigger" : "elude",
+    "roles" : [ {
+      "normalizedRole" : "armed combatants , weapons , or ammunition with which",
+      "normalizedRoleHead" : "combatants",
+      "normalizedTrigger" : "elude",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b9e6a669a75adcad9d2a882916173fa7",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry [[armed combatants, weapons, or ammunition with which]] to attack or elude enemy forces is prohibited.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 9,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "de66634567d522e70e1736b3d28acfdc"
+    }, {
+      "normalizedRole" : "enemy forces",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "elude",
+      "roleHeadStartToken" : 136,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a1fe338085d50c01e56b0afbcb624aec",
+      "roleInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or elude [[enemy forces]] is prohibited.",
+      "roleStartToken" : 135,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "de66634567d522e70e1736b3d28acfdc"
+    } ],
+    "triggerInContext" : "For example, using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition with which to attack or [[elude]] enemy forces is prohibited.",
+    "triggerStartToken" : 134,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  } ],
+  "label" : "12.2 Improper use of protective signs, signals, and symbols",
+  "raw" : "12.2 Improper use of protective signs, signals, and symbols\n\nImproperly using protective signs, signals, and symbols (see paragraphs 8.5.1 and 8.5.2) to injure, kill, or capture\nthe enemy is an act of perfidy. Additionally, use of protective signs, signals, and symbols to impede enemy\nmilitary operations or to protect one’s own military operations is also prohibited. Such acts are prohibited because\nthey undermine the effectiveness of protective signs, signals, and symbols and thereby jeopardize the safety of\nnoncombatants and the immunity of protected structures and activities. For example, using an ambulance or\nmedical aircraft marked with the Red Cross or Red Crescent to carry armed combatants, weapons, or ammunition\nwith which to attack or elude enemy forces is prohibited. Similarly, use of the white flag to gain a military\nadvantage over the enemy is unlawful.",
+  "sentences" : [ {
+    "normalized" : "12.2 Improper use of protective signs , signals , and symbols",
+    "offset" : 0,
+    "startToken" : 0,
+    "tokenLength" : 11
+  }, {
+    "normalized" : "Improperly using protective signs , signals , and symbols ( see paragraphs 8.5.1 and 8.5.2 ) to injure , kill , or capture the enemy is an act of perfidy .",
+    "offset" : 1,
+    "startToken" : 11,
+    "tokenLength" : 31
+  }, {
+    "normalized" : "Additionally , use of protective signs , signals , and symbols to impede enemy military operations or to protect one ’s own military operations is also prohibited .",
+    "offset" : 2,
+    "startToken" : 42,
+    "tokenLength" : 28
+  }, {
+    "normalized" : "Such acts are prohibited because they undermine the effectiveness of protective signs , signals , and symbols and thereby jeopardize the safety of noncombatants and the immunity of protected structures and activities .",
+    "offset" : 3,
+    "startToken" : 70,
+    "tokenLength" : 33
+  }, {
+    "normalized" : "For example , using an ambulance or medical aircraft marked with the Red Cross or Red Crescent to carry armed combatants , weapons , or ammunition with which to attack or elude enemy forces is prohibited .",
+    "offset" : 4,
+    "startToken" : 103,
+    "tokenLength" : 37
+  }, {
+    "normalized" : "Similarly , use of the white flag to gain a military advantage over the enemy is unlawful .",
+    "offset" : 5,
+    "startToken" : 140,
+    "tokenLength" : 18
+  } ],
+  "tokens" : [ {
+    "charLength" : 4,
+    "normalized" : "12.2",
+    "offset" : 0,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 0,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 8,
+    "normalized" : "Improper",
+    "offset" : 1,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 5,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "use",
+    "offset" : 2,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 14,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 3,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 18,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 10,
+    "normalized" : "protective",
+    "offset" : 4,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 21,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 5,
+    "normalized" : "signs",
+    "offset" : 5,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 32,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 6,
+    "secondaryTokenTag" : ",",
+    "startChar" : 37,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "signals",
+    "offset" : 7,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 39,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 8,
+    "secondaryTokenTag" : ",",
+    "startChar" : 46,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 9,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 48,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "symbols",
+    "offset" : 10,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 52,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 10,
+    "normalized" : "Improperly",
+    "offset" : 11,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 61,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "using",
+    "offset" : 12,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 72,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 10,
+    "normalized" : "protective",
+    "offset" : 13,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 78,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 5,
+    "normalized" : "signs",
+    "offset" : 14,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 89,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 15,
+    "secondaryTokenTag" : ",",
+    "startChar" : 94,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "signals",
+    "offset" : 16,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 96,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 17,
+    "secondaryTokenTag" : ",",
+    "startChar" : 103,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 18,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 105,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "symbols",
+    "offset" : 19,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 109,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 20,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 117,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "see",
+    "offset" : 21,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 118,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 10,
+    "normalized" : "paragraphs",
+    "offset" : 22,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 122,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 5,
+    "normalized" : "8.5.1",
+    "offset" : 23,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 133,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 24,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 139,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 5,
+    "normalized" : "8.5.2",
+    "offset" : 25,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 143,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 26,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 148,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 27,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 150,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "injure",
+    "offset" : 28,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 153,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 29,
+    "secondaryTokenTag" : ",",
+    "startChar" : 159,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 4,
+    "normalized" : "kill",
+    "offset" : 30,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 161,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 31,
+    "secondaryTokenTag" : ",",
+    "startChar" : 165,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 32,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 167,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "capture",
+    "offset" : 33,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 170,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 34,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 178,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "enemy",
+    "offset" : 35,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 182,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 36,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 188,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 2,
+    "normalized" : "an",
+    "offset" : 37,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 191,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 3,
+    "normalized" : "act",
+    "offset" : 38,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 194,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 39,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 198,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "perfidy",
+    "offset" : 40,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 201,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 41,
+    "secondaryTokenTag" : ".",
+    "startChar" : 208,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 12,
+    "normalized" : "Additionally",
+    "offset" : 42,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 210,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 43,
+    "secondaryTokenTag" : ",",
+    "startChar" : 222,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "use",
+    "offset" : 44,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 224,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 45,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 228,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 10,
+    "normalized" : "protective",
+    "offset" : 46,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 231,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 5,
+    "normalized" : "signs",
+    "offset" : 47,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 242,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 48,
+    "secondaryTokenTag" : ",",
+    "startChar" : 247,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "signals",
+    "offset" : 49,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 249,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 50,
+    "secondaryTokenTag" : ",",
+    "startChar" : 256,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 51,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 258,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "symbols",
+    "offset" : 52,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 262,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 53,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 270,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "impede",
+    "offset" : 54,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 273,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "enemy",
+    "offset" : 55,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 280,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "military",
+    "offset" : 56,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 286,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "operations",
+    "offset" : 57,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 295,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 58,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 306,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 59,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 309,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 7,
+    "normalized" : "protect",
+    "offset" : 60,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 312,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "one",
+    "offset" : 61,
+    "secondaryTokenTag" : "PRP",
+    "startChar" : 320,
+    "tokenTag" : "PRP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "’s",
+    "offset" : 62,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 323,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 3,
+    "normalized" : "own",
+    "offset" : 63,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 326,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "military",
+    "offset" : 64,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 330,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "operations",
+    "offset" : 65,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 339,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 66,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 350,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 4,
+    "normalized" : "also",
+    "offset" : 67,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 353,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 10,
+    "normalized" : "prohibited",
+    "offset" : 68,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 358,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 69,
+    "secondaryTokenTag" : ".",
+    "startChar" : 368,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 4,
+    "normalized" : "Such",
+    "offset" : 70,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 370,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 4,
+    "normalized" : "acts",
+    "offset" : 71,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 375,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "are",
+    "offset" : 72,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 380,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 10,
+    "normalized" : "prohibited",
+    "offset" : 73,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 384,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 7,
+    "normalized" : "because",
+    "offset" : 74,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 395,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "they",
+    "offset" : 75,
+    "secondaryTokenTag" : "PRP",
+    "startChar" : 403,
+    "tokenTag" : "PRP"
+  }, {
+    "charLength" : 9,
+    "normalized" : "undermine",
+    "offset" : 76,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 408,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 77,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 418,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 13,
+    "normalized" : "effectiveness",
+    "offset" : 78,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 422,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 79,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 436,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 10,
+    "normalized" : "protective",
+    "offset" : 80,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 439,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 5,
+    "normalized" : "signs",
+    "offset" : 81,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 450,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 82,
+    "secondaryTokenTag" : ",",
+    "startChar" : 455,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "signals",
+    "offset" : 83,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 457,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 84,
+    "secondaryTokenTag" : ",",
+    "startChar" : 464,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 85,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 466,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "symbols",
+    "offset" : 86,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 470,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 87,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 478,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "thereby",
+    "offset" : 88,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 482,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 10,
+    "normalized" : "jeopardize",
+    "offset" : 89,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 490,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 90,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 501,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "safety",
+    "offset" : 91,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 505,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 92,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 512,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 13,
+    "normalized" : "noncombatants",
+    "offset" : 93,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 515,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 94,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 529,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 95,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 533,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 8,
+    "normalized" : "immunity",
+    "offset" : 96,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 537,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 97,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 546,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "protected",
+    "offset" : 98,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 549,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "structures",
+    "offset" : 99,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 559,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 100,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 570,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "activities",
+    "offset" : 101,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 574,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 102,
+    "secondaryTokenTag" : ".",
+    "startChar" : 584,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "For",
+    "offset" : 103,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 586,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "example",
+    "offset" : 104,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 590,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 105,
+    "secondaryTokenTag" : ",",
+    "startChar" : 597,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 5,
+    "normalized" : "using",
+    "offset" : 106,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 599,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 2,
+    "normalized" : "an",
+    "offset" : 107,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 605,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 9,
+    "normalized" : "ambulance",
+    "offset" : 108,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 608,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 109,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 618,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "medical",
+    "offset" : 110,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 621,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "aircraft",
+    "offset" : 111,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 629,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 6,
+    "normalized" : "marked",
+    "offset" : 112,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 638,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 113,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 645,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 114,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 650,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 3,
+    "normalized" : "Red",
+    "offset" : 115,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 654,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "Cross",
+    "offset" : 116,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 658,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 117,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 664,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 3,
+    "normalized" : "Red",
+    "offset" : 118,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 667,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 8,
+    "normalized" : "Crescent",
+    "offset" : 119,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 671,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 120,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 680,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 5,
+    "normalized" : "carry",
+    "offset" : 121,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 683,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "armed",
+    "offset" : 122,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 689,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "combatants",
+    "offset" : 123,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 695,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 124,
+    "secondaryTokenTag" : ",",
+    "startChar" : 705,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "weapons",
+    "offset" : 125,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 707,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 126,
+    "secondaryTokenTag" : ",",
+    "startChar" : 714,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 127,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 716,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "ammunition",
+    "offset" : 128,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 719,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 129,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 730,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "which",
+    "offset" : 130,
+    "secondaryTokenTag" : "WDT",
+    "startChar" : 735,
+    "tokenTag" : "WDT"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 131,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 741,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "attack",
+    "offset" : 132,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 744,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 133,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 751,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 5,
+    "normalized" : "elude",
+    "offset" : 134,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 754,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "enemy",
+    "offset" : 135,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 760,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 6,
+    "normalized" : "forces",
+    "offset" : 136,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 766,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 137,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 773,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "prohibited",
+    "offset" : 138,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 776,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 139,
+    "secondaryTokenTag" : ".",
+    "startChar" : 786,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 9,
+    "normalized" : "Similarly",
+    "offset" : 140,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 788,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 141,
+    "secondaryTokenTag" : ",",
+    "startChar" : 797,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "use",
+    "offset" : 142,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 799,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 143,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 803,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 144,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 806,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "white",
+    "offset" : 145,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 810,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 4,
+    "normalized" : "flag",
+    "offset" : 146,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 816,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 147,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 821,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 4,
+    "normalized" : "gain",
+    "offset" : 148,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 824,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 1,
+    "normalized" : "a",
+    "offset" : 149,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 829,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 8,
+    "normalized" : "military",
+    "offset" : 150,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 831,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 9,
+    "normalized" : "advantage",
+    "offset" : 151,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 840,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "over",
+    "offset" : 152,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 850,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 153,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 855,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "enemy",
+    "offset" : 154,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 859,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 155,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 865,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "unlawful",
+    "offset" : 156,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 868,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 157,
+    "secondaryTokenTag" : ".",
+    "startChar" : 876,
+    "tokenTag" : "."
+  } ],
+  "zones" : [ {
+    "lastSentence" : 0,
+    "normalized" : "12.2 Improper use of protective..., signals , and symbols",
+    "startSentence" : 0,
+    "type" : "Heading"
+  }, {
+    "lastSentence" : 5,
+    "normalized" : "12.2 Improper use of protective...the enemy is unlawful .",
+    "startSentence" : 0,
+    "type" : "HeadingWithContent"
+  }, {
+    "lastSentence" : 5,
+    "normalized" : "Improperly using protective signs ,...the enemy is unlawful .",
+    "startSentence" : 1,
+    "type" : "Paragraph"
+  } ]
+}

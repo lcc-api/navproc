@@ -1,0 +1,38 @@
+#SENT_OFFSET	TOK_OFFSET	TOK_LEN	TEXT
+0	0	6	Level A — Required Annual Training
+1	6	8	a. Ejection Seat Training ( EST ) .
+2	14	156	( 1 ) The training shall include but is not limited to the following topics : canopy system ( preflight checks , internal / external activation ) , ejection seat preflight checks IAW T / M / S NFM , strapping in ( e. g. , proper leg Restraint placement , as applicable ) , ejection decision , ejection envelope , optimal body position , ejection initiation , ejection sequences / phases / modes , Drogue / stabilization , main parachute deployment altitudes , seat / man separation , IROK / ADR , malfunctions ( back - up and manual overrides methods ) , and hazards ( flash burn , cockpit missile hazards / loose gear , poor body position , excessively heavy or light body weight , wind blast , ALSS fit , landing in winds in excess of 25 knots ) , and ground emergency egress ( with / without seat kit ) .
+3	170	22	Unless operationally unfeasible , an NAP , AMSO , or FS shall address the aeromedical aspects of ejection and ground egress .
+4	192	42	The transition training shall concentrate on the differences in the system ( i. e. , ejection decisions , the envelope of the new system , seat – man separation , ejection initiation , ejection Sequence , normal operations and malfunctions ) .
+5	234	25	( 2 ) EST − NVD — Aviators , aircrew and selected passengers flying with NVDs in ejection seat aircraft require additional egress training .
+6	259	15	Failure to remove NVDs prior to ejection may result in serious injury or death .
+7	274	17	NVD removal training shall be incorporated into initial training and annual ejection seat / egress training .
+8	291	14	This training will include actual drills on removal of NVDs prior to ejection .
+9	305	31	The pilot in command of any NVD flight shall ensure that non - NVD qualified personnel are thoroughly briefed and shall demonstrate proper technique of removing NVDs for ejection situations .
+10	336	29	Documentation of annual or transition ejection seat training with NVDs shall be entered into the individual ’s NATOPS Training / Qualification Jacket ( Opnav 3760 / 32 ) .
+11	365	24	b. EET Egress Emergency Egress Training — Training can be conducted by squadron personnel who are most familiar with egress procedures and devices .
+12	389	22	Unless operationally unfeasible , an NAP , AMSO , or FS shall address the aeromedical aspects of egress and survival considerations .
+13	411	19	Specific T / M / S training shall be accomplished and documented prior to flights in that aircraft .
+14	430	19	Specific training shall be conducted for flight personnel with regard to assisting passengers and non - essential aircrew .
+15	449	33	c. SDO / IGS Sensory Problems / Spatial Disorientation Training – Spatial disorientation , visual illusions , visual scanning , situational awareness ( including low level flights issues ) and disorientation countermeasures .
+16	482	23	This training will be specific to both the aircraft T / M / S and the environment in which it is flown .
+17	505	28	The following topics shall be covered at a minimum ; spatial disorientation / misorientation , visual illusions , visual scanning , situational awareness , and disorientation countermeasures .
+18	533	15	Unless operationally unfeasible , an NAP , AMSO or FS shall conduct this training .
+19	548	38	d. LEP Laser / Laser Eye Protection ( LEP ) . Laser Hazards , Operations and Safety / Laser Eye Protection for Class 3 a lasers and above for operators / maintainers per reference ( bc ) .
+20	586	23	This training will be specific to both the aircraft T / M / S and the environment in which it is flown .
+21	609	35	e. DHT Hypoxia Awareness Training ( Class 1 aircraft only ) — This training will be specific to both the aircraft T / M / S and the environment in which it is flown .
+22	644	30	The following topics shall be covered at a minimum ; types of hypoxia , signs , symptoms , situations which could lead to hypoxia , treatment , and countermeasures .
+23	674	12	Where available , dynamic hypoxia training with a ROBD is encouraged .
+24	686	15	Unless operationally unfeasible , an NAP , AMSO or FS shall conduct this training .
+25	701	20	Training may be accomplished as lecture only or by AMSO or NASTP provided Dynamic Hypoxia Training using a ROBD .
+26	721	17	f. GTIP G - Tolerance Improvement Program ( G - TIP ) ( as applicable ) .
+27	738	40	This brief should cover anti - G straining maneuver ( AGSM ) , push / pull phenomenon , G - suit fit , hydration , nutrition , fatigue , and exercises that will promote an increase in G tolerance .
+28	778	23	g. ALSS ALSS items – Platform specific survival items contained in the vest , seat kit and / or aircraft mounted kits .
+29	801	20	Survival radio training briefs shall be given by an AMSO , AMSC , or an aircrew subject matter expert .
+30	821	12	The training shall be documented on the OPNAV 3760 / 32 F.
+31	833	25	The 4 − year NASTP training does NOT meet the requirements of this section except in the case of the PRC − 149 radio .
+32	858	20	h. All aircrew shall receive a squadron applicable survival radio brief prior to their first flight with the squadron .
+33	878	22	If an aircrew member has previously documented training on the radio in the past year , this requirement does not apply .
+34	900	17	In addition , all aircrew should receive a squadron applicable aviation survival radio training brief annually .
+35	917	23	i. Within 90 days of deployment all aircrew shall receive a brief for all survival radios they will be using during deployment .
+36	940	16	The brief should cover all functions of the radio system and include a practical application .
