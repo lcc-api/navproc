@@ -1,0 +1,8 @@
+#START_SENT	LAST_SENT	TYPE	TEXT
+0	0	Heading	Model announcement - warning area
+0	7	HeadingWithContent	Model announcement - warning area...maintained as outlined above .
+1	2	ListItemInDocument	1 . Due to (...243.0 MHZ UHF ) .
+1	7	ListInDocument	1 . Due to (...maintained as outlined above .
+3	4	ListItemInDocument	2 . ( SPECIFY force...make their intentions clear .
+5	5	ListItemInDocument	3 . ( SPECIFY force...in their immediate vicinity .
+6	7	ListItemInDocument	4 . Nothing in this...maintained as outlined above .

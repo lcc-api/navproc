@@ -1,0 +1,4710 @@
+{
+  "frames" : [ {
+    "headStartToken" : 64,
+    "headTokenLength" : 1,
+    "id" : "1194f8ffa91d28651f83e3bae7bc108d",
+    "normalizedHead" : "maintain",
+    "normalizedTrigger" : "maintain",
+    "roles" : [ {
+      "normalizedRole" : "radio contact with ( SPECIFY force ) on bridge - to - bridge channel 16 , international air distress ( 121.5 MHZ VHF ) or military air distress ( 243.0 MHZ UHF )",
+      "normalizedRoleHead" : "contact",
+      "normalizedTrigger" : "maintain",
+      "roleHeadStartToken" : 66,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9e64b462509336f0edd83d37ce280cc8",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain [[radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF)]].",
+      "roleStartToken" : 65,
+      "roleTokenLength" : 33,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "1194f8ffa91d28651f83e3bae7bc108d"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to [[maintain]] radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 64,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 204,
+    "headTokenLength" : 1,
+    "id" : "e6725749383c5286c11caae86fd9162e",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "vessel",
+      "normalizedRoleHead" : "vessel",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 203,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1dd1e397a5dc7142c16059f4dbebed8b",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any [[vessel]] or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 203,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "e6725749383c5286c11caae86fd9162e"
+    }, {
+      "normalizedRole" : "aircraft",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 205,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cbfbe7b918963fc0953ec34a0886359b",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or [[aircraft]], or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 205,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "e6725749383c5286c11caae86fd9162e"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel [[or]] aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 204,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 50,
+    "headTokenLength" : 1,
+    "id" : "d20af2c79996009632e92155de95db40",
+    "normalizedHead" : "approaching",
+    "normalizedTrigger" : "approaching",
+    "roles" : [ {
+      "normalizedRole" : "all aircraft , surface vessels , and subsurface vessels",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "approaching",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "07456fa10833babedf623cae31ee1cdf",
+      "roleInContext" : "Consequently, [[all aircraft, surface vessels, and subsurface vessels]] approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 41,
+      "roleTokenLength" : 9,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "d20af2c79996009632e92155de95db40"
+    }, {
+      "normalizedRole" : "( SPECIFY object e. g. oil platform , warship",
+      "normalizedRoleHead" : "warship",
+      "normalizedTrigger" : "approaching",
+      "roleHeadStartToken" : 59,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "82ab3ca3c7aa2d88d0e20c24965cd8b7",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching [[(SPECIFY object e.g. oil platform, warship]]) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 51,
+      "roleTokenLength" : 9,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "d20af2c79996009632e92155de95db40"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels [[approaching]] (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 50,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 66,
+    "headTokenLength" : 1,
+    "id" : "8c721008782a28a943ddf47229621dd8",
+    "normalizedHead" : "contact",
+    "normalizedTrigger" : "contact",
+    "roles" : [ {
+      "normalizedRole" : "radio",
+      "normalizedRoleHead" : "radio",
+      "normalizedTrigger" : "contact",
+      "roleHeadStartToken" : 65,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a84b7a9bde7e615ee89f428b26b88dca",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain [[radio]] contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 65,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "8c721008782a28a943ddf47229621dd8"
+    }, {
+      "normalizedRole" : "with ( SPECIFY force ) on bridge - to - bridge channel 16 , international air distress ( 121.5 MHZ VHF ) or military air distress ( 243.0 MHZ UHF )",
+      "normalizedRoleHead" : "16",
+      "normalizedTrigger" : "contact",
+      "roleHeadStartToken" : 79,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "31106d353d74ca2baca4f48fb0dabfa7",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact [[with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF)]].",
+      "roleStartToken" : 67,
+      "roleTokenLength" : 31,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "8c721008782a28a943ddf47229621dd8"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio [[contact]] with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 66,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 190,
+    "headTokenLength" : 1,
+    "id" : "27b986c814e0b77cb4615274c65fd7b8",
+    "normalizedHead" : "impede",
+    "normalizedTrigger" : "impede",
+    "roles" : [ {
+      "normalizedRole" : "the freedom of navigation or overflight of any vessel or aircraft",
+      "normalizedRoleHead" : "freedom",
+      "normalizedTrigger" : "impede",
+      "roleHeadStartToken" : 196,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4dd1b79fe543c75f1fe24d4e48415616",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with [[the freedom of navigation or overflight of any vessel or aircraft]], or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 195,
+      "roleTokenLength" : 11,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "27b986c814e0b77cb4615274c65fd7b8"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to [[impede]] or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 190,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 13,
+    "headTokenLength" : 1,
+    "id" : "04f57c9a6e09654789ed4ad761c4ce42",
+    "normalizedHead" : "circumstances",
+    "normalizedTrigger" : "circumstances",
+    "roles" : [ ],
+    "triggerInContext" : "1. Due to (SPECIFY event or [[circumstances]]), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 13,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 11,
+    "headTokenLength" : 1,
+    "id" : "fba49fad37828138b6c97b3379e1160c",
+    "normalizedHead" : "event",
+    "normalizedTrigger" : "event",
+    "roles" : [ ],
+    "triggerInContext" : "1. Due to (SPECIFY [[event]] or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 11,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 156,
+    "headTokenLength" : 1,
+    "id" : "a0f499d731d06c98545466937681f58e",
+    "normalizedHead" : "operating",
+    "normalizedTrigger" : "operating",
+    "roles" : [ {
+      "normalizedRole" : "( SPECIFY force )",
+      "normalizedRoleHead" : "force",
+      "normalizedTrigger" : "operating",
+      "roleHeadStartToken" : 152,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "65f2460c47f00675f767c3aded309b8c",
+      "roleInContext" : "3. [[(SPECIFY force)]], when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 150,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "a0f499d731d06c98545466937681f58e"
+    }, {
+      "normalizedRole" : "in confined waters",
+      "normalizedRoleHead" : "waters",
+      "normalizedTrigger" : "operating",
+      "roleHeadStartToken" : 159,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1c6b51e868f2046abcdfef54fe935fc9",
+      "roleInContext" : "3. (SPECIFY force), when operating [[in confined waters]], shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 157,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "a0f499d731d06c98545466937681f58e"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when [[operating]] in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 156,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 209,
+    "headTokenLength" : 1,
+    "id" : "685eb1bf8290d1689a44d1700dff2bda",
+    "normalizedHead" : "limit",
+    "normalizedTrigger" : "limit",
+    "roles" : [ {
+      "normalizedRole" : "the right of self - defence of ( SPECIFY force )",
+      "normalizedRoleHead" : "right",
+      "normalizedTrigger" : "limit",
+      "roleHeadStartToken" : 213,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2b466df389c2c877cbf059a97f76db97",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand [[the right of self-defence of (SPECIFY force)]].",
+      "roleStartToken" : 212,
+      "roleTokenLength" : 11,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "685eb1bf8290d1689a44d1700dff2bda"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to [[limit]] or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 209,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 244,
+    "headTokenLength" : 1,
+    "id" : "946bd25d0156e643e146500879901fd2",
+    "normalizedHead" : "Request",
+    "normalizedTrigger" : "Request",
+    "roles" : [ {
+      "normalizedRole" : "that radio contact be maintained as outlined above",
+      "normalizedRoleHead" : "maintained",
+      "normalizedTrigger" : "Request",
+      "roleHeadStartToken" : 249,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f3ca017d136bcbd54d66a4ddff4708b5",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request [[that radio contact be maintained as outlined above]].",
+      "roleStartToken" : 245,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "946bd25d0156e643e146500879901fd2"
+    } ],
+    "triggerInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to [[Request]] that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 244,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 124,
+    "headTokenLength" : 1,
+    "id" : "57ff51ea93a50a3c1b5e36dc96f77eba",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "Aircraft , surface vessels , and subsurface vessels",
+      "normalizedRoleHead" : "Aircraft",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bf05d8d3fa7f0908cb21bda7d2a84633",
+      "roleInContext" : "[[Aircraft, surface vessels, and subsurface vessels]] approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 119,
+      "roleTokenLength" : 8,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "57ff51ea93a50a3c1b5e36dc96f77eba"
+    }, {
+      "normalizedRole" : "Aircraft",
+      "normalizedRoleHead" : "Aircraft",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8e18a536e06a22da56dc31429741670d",
+      "roleInContext" : "[[Aircraft]], surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 119,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "57ff51ea93a50a3c1b5e36dc96f77eba"
+    }, {
+      "normalizedRole" : "surface vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 122,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "703056771ac7dca0d2796077807b227d",
+      "roleInContext" : "Aircraft, [[surface vessels]], and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 121,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "57ff51ea93a50a3c1b5e36dc96f77eba"
+    }, {
+      "normalizedRole" : "subsurface vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 126,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0554de0445361d28cec0f1d9cf649c6b",
+      "roleInContext" : "Aircraft, surface vessels, and [[subsurface vessels]] approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 125,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "57ff51ea93a50a3c1b5e36dc96f77eba"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, [[and]] subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+    "triggerStartToken" : 124,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 21,
+    "headTokenLength" : 1,
+    "id" : "3121bb768669dbc0172486e4ce5d3b72",
+    "normalizedHead" : "operating",
+    "normalizedTrigger" : "operating",
+    "roles" : [ {
+      "normalizedRole" : "SPECIFY forces",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "operating",
+      "roleHeadStartToken" : 18,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8a095184ad8c9afa5ed31e9e748c3f85",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), ([[SPECIFY forces]]) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 17,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "3121bb768669dbc0172486e4ce5d3b72"
+    }, {
+      "normalizedRole" : "at a heightened state of readiness",
+      "normalizedRoleHead" : "state",
+      "normalizedTrigger" : "operating",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "13e5d5f8343a6453870a91525b22e96a",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating [[at a heightened state of readiness]] and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 22,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "3121bb768669dbc0172486e4ce5d3b72"
+    } ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are [[operating]] at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 21,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 211,
+    "headTokenLength" : 1,
+    "id" : "6062b8bdf7b0878e20ded17874dabf22",
+    "normalizedHead" : "expand",
+    "normalizedTrigger" : "expand",
+    "roles" : [ {
+      "normalizedRole" : "the right of self - defence of ( SPECIFY force )",
+      "normalizedRoleHead" : "right",
+      "normalizedTrigger" : "expand",
+      "roleHeadStartToken" : 213,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "38e96aa54444e131027f8f1bffbbaeb5",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand [[the right of self-defence of (SPECIFY force)]].",
+      "roleStartToken" : 212,
+      "roleTokenLength" : 11,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "6062b8bdf7b0878e20ded17874dabf22"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or [[expand]] the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 211,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 188,
+    "headTokenLength" : 1,
+    "id" : "e185c4ff21201b647e7054edc0574078",
+    "normalizedHead" : "intended",
+    "normalizedTrigger" : "intended",
+    "roles" : [ {
+      "normalizedRole" : "Nothing in this warning",
+      "normalizedRoleHead" : "Nothing",
+      "normalizedTrigger" : "intended",
+      "roleHeadStartToken" : 183,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e67504669d45602fb5ce30fbc78283bd",
+      "roleInContext" : "4. [[Nothing in this warning]] is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 183,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "e185c4ff21201b647e7054edc0574078"
+    }, {
+      "normalizedRole" : "to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft",
+      "normalizedRoleHead" : "impede",
+      "normalizedTrigger" : "intended",
+      "roleHeadStartToken" : 190,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7505605029209b3d5ab6f18372f5d844",
+      "roleInContext" : "4. Nothing in this warning is intended [[to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft]], or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 189,
+      "roleTokenLength" : 17,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "e185c4ff21201b647e7054edc0574078"
+    }, {
+      "normalizedRole" : "to limit or expand the right of self - defence of ( SPECIFY force )",
+      "normalizedRoleHead" : "expand",
+      "normalizedTrigger" : "intended",
+      "roleHeadStartToken" : 211,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0a5ca8be25ec480e1571d9806f8016b2",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or [[to limit or expand the right of self-defence of (SPECIFY force)]].",
+      "roleStartToken" : 208,
+      "roleTokenLength" : 15,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "e185c4ff21201b647e7054edc0574078"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is [[intended]] to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 188,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 191,
+    "headTokenLength" : 1,
+    "id" : "ca77da3cbb386f2faba9d47154874852",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "impede",
+      "normalizedRoleHead" : "impede",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 190,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9667ad9ddfe40f3e1bf8e632664dee71",
+      "roleInContext" : "4. Nothing in this warning is intended to [[impede]] or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 190,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "ca77da3cbb386f2faba9d47154874852"
+    }, {
+      "normalizedRole" : "interfere",
+      "normalizedRoleHead" : "interfere",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 193,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "01bbdc5154519683c5f72f9b698ac2d3",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise [[interfere]] with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 193,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "ca77da3cbb386f2faba9d47154874852"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede [[or]] otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 191,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 113,
+    "headTokenLength" : 1,
+    "id" : "17f3ddedb714bee62c8686d1cc9e1243",
+    "normalizedHead" : "if",
+    "normalizedTrigger" : "if",
+    "roles" : [ {
+      "normalizedRole" : "take",
+      "normalizedRoleHead" : "take",
+      "normalizedTrigger" : "if",
+      "roleHeadStartToken" : 106,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "40fbbcc82da13e81ebedeae09d6911cb",
+      "roleInContext" : "2. (SPECIFY force) will [[take]] appropriate measures in self-defence if warranted by the circumstances.",
+      "roleStartToken" : 106,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "17f3ddedb714bee62c8686d1cc9e1243"
+    }, {
+      "normalizedRole" : "warranted",
+      "normalizedRoleHead" : "warranted",
+      "normalizedTrigger" : "if",
+      "roleHeadStartToken" : 114,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "53be4ebfd8c20aa29225ed3314dd7501",
+      "roleInContext" : "2. (SPECIFY force) will take appropriate measures in self-defence if [[warranted]] by the circumstances.",
+      "roleStartToken" : 114,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "17f3ddedb714bee62c8686d1cc9e1243"
+    } ],
+    "triggerInContext" : "2. (SPECIFY force) will take appropriate measures in self-defence [[if]] warranted by the circumstances.",
+    "triggerStartToken" : 113,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 117,
+    "headTokenLength" : 1,
+    "id" : "7317e33d09d9bdd729972415e50f74c1",
+    "normalizedHead" : "circumstances",
+    "normalizedTrigger" : "circumstances",
+    "roles" : [ ],
+    "triggerInContext" : "2. (SPECIFY force) will take appropriate measures in self-defence if warranted by the [[circumstances]].",
+    "triggerStartToken" : 117,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 217,
+    "headTokenLength" : 1,
+    "id" : "ae8d89be1b26455cc735b82c21b74e58",
+    "normalizedHead" : "defence",
+    "normalizedTrigger" : "defence",
+    "roles" : [ {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "defence",
+      "roleHeadStartToken" : 215,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "204d2cc28839e77fa12efac580b11536",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of [[self]]-defence of (SPECIFY force).",
+      "roleStartToken" : 215,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "ae8d89be1b26455cc735b82c21b74e58"
+    }, {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "defence",
+      "roleHeadStartToken" : 215,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6e0dec6f43e7973a47a277369b83e06b",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of [[self]]-defence of (SPECIFY force).",
+      "roleStartToken" : 215,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "ae8d89be1b26455cc735b82c21b74e58"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-[[defence]] of (SPECIFY force).",
+    "triggerStartToken" : 217,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 207,
+    "headTokenLength" : 1,
+    "id" : "c1a09c14e327952b400a5de3c98964c3",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "impede",
+      "normalizedRoleHead" : "impede",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 190,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b254f02088f00dbbb745c531b27e29d9",
+      "roleInContext" : "4. Nothing in this warning is intended to [[impede]] or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 190,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "c1a09c14e327952b400a5de3c98964c3"
+    }, {
+      "normalizedRole" : "limit",
+      "normalizedRoleHead" : "limit",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 209,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2a8da291dd94f9f54265760d4423d01a",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to [[limit]] or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 209,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "c1a09c14e327952b400a5de3c98964c3"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, [[or]] to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 207,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 96,
+    "headTokenLength" : 1,
+    "id" : "3ac9ab835977f4c3f3920a27ce2ba532",
+    "normalizedHead" : "UHF",
+    "normalizedTrigger" : "military air distress ( 243.0 MHZ UHF )",
+    "roles" : [ {
+      "normalizedRole" : "military air distress",
+      "normalizedRoleHead" : "distress",
+      "normalizedTrigger" : "military air distress ( 243.0 MHZ UHF )",
+      "roleHeadStartToken" : 92,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e5ad8fd890fba2f1d4d6d996bf703f61",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or [[military air distress]] (243.0 MHZ UHF).",
+      "roleStartToken" : 90,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#ENTITY",
+      "triggerID" : "3ac9ab835977f4c3f3920a27ce2ba532"
+    }, {
+      "normalizedRole" : "243.0 MHZ UHF",
+      "normalizedRoleHead" : "UHF",
+      "normalizedTrigger" : "military air distress ( 243.0 MHZ UHF )",
+      "roleHeadStartToken" : 96,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ef70f0cd2640f423181c177a2188626f",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress ([[243.0 MHZ UHF]]).",
+      "roleStartToken" : 94,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#OTHER_ENTITY",
+      "triggerID" : "3ac9ab835977f4c3f3920a27ce2ba532"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or [[military air distress (243.0 MHZ UHF)]].",
+    "triggerStartToken" : 90,
+    "triggerTokenLength" : 8,
+    "triggerType" : "APPOS"
+  }, {
+    "headStartToken" : 162,
+    "headTokenLength" : 1,
+    "id" : "488158b9707d166828659e230ae9eab7",
+    "normalizedHead" : "remain",
+    "normalizedTrigger" : "remain",
+    "roles" : [ {
+      "normalizedRole" : "( SPECIFY force )",
+      "normalizedRoleHead" : "force",
+      "normalizedTrigger" : "remain",
+      "roleHeadStartToken" : 152,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c236a950a495698491e6eb0cc9dc064e",
+      "roleInContext" : "3. [[(SPECIFY force)]], when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 150,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "488158b9707d166828659e230ae9eab7"
+    }, {
+      "normalizedRole" : "mindful of navigational considerations of aircraft , surface vessels , and subsurface Vessels in their immediate vicinity",
+      "normalizedRoleHead" : "mindful",
+      "normalizedTrigger" : "remain",
+      "roleHeadStartToken" : 163,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "80da4940a9fe78ecaa01a55ecc4e454d",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain [[mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity]].",
+      "roleStartToken" : 163,
+      "roleTokenLength" : 17,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "488158b9707d166828659e230ae9eab7"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall [[remain]] mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 162,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 166,
+    "headTokenLength" : 1,
+    "id" : "2c0963c5b7ab99f73b531ad285fd9ece",
+    "normalizedHead" : "considerations",
+    "normalizedTrigger" : "considerations",
+    "roles" : [ {
+      "normalizedRole" : "navigational",
+      "normalizedRoleHead" : "navigational",
+      "normalizedTrigger" : "considerations",
+      "roleHeadStartToken" : 165,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "62863be789d877c759dd212283647676",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of [[navigational]] considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 165,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "2c0963c5b7ab99f73b531ad285fd9ece"
+    }, {
+      "normalizedRole" : "aircraft , surface vessels , and subsurface Vessels in their immediate vicinity",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "considerations",
+      "roleHeadStartToken" : 168,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7a8567964dff82f382f62dde52c6ed5b",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of [[aircraft, surface vessels, and subsurface Vessels in their immediate vicinity]].",
+      "roleStartToken" : 168,
+      "roleTokenLength" : 12,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "2c0963c5b7ab99f73b531ad285fd9ece"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational [[considerations]] of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 166,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 126,
+    "headTokenLength" : 1,
+    "id" : "5a5672882805786cbadaf888d6cc40b6",
+    "normalizedHead" : "vessels",
+    "normalizedTrigger" : "subsurface vessels",
+    "roles" : [ {
+      "normalizedRole" : "subsurface",
+      "normalizedRoleHead" : "subsurface",
+      "normalizedTrigger" : "subsurface vessels",
+      "roleHeadStartToken" : 125,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1b4439a0f80ccbce38a2068dc70fd6f7",
+      "roleInContext" : "Aircraft, surface vessels, and [[subsurface]] vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 125,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "5a5672882805786cbadaf888d6cc40b6"
+    }, {
+      "normalizedRole" : "vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "subsurface vessels",
+      "roleHeadStartToken" : 126,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cac1215303c1cd1d0d060ea7cbbb4775",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface [[vessels]] approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 126,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "5a5672882805786cbadaf888d6cc40b6"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and [[subsurface vessels]] approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+    "triggerStartToken" : 125,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 210,
+    "headTokenLength" : 1,
+    "id" : "453e5236cf0582ac93aeae014fd37fdb",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "limit",
+      "normalizedRoleHead" : "limit",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 209,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8bbf1af3c7f9764b23c12ee01ce0d840",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to [[limit]] or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 209,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "453e5236cf0582ac93aeae014fd37fdb"
+    }, {
+      "normalizedRole" : "expand",
+      "normalizedRoleHead" : "expand",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 211,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e7c620f40148587e1a8f5dc887cc4f2c",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or [[expand]] the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 211,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "453e5236cf0582ac93aeae014fd37fdb"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit [[or]] expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 210,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 179,
+    "headTokenLength" : 1,
+    "id" : "78e161a9eb132b8924206d58d0e835f0",
+    "normalizedHead" : "vicinity",
+    "normalizedTrigger" : "vicinity",
+    "roles" : [ {
+      "normalizedRole" : "their",
+      "normalizedRoleHead" : "their",
+      "normalizedTrigger" : "vicinity",
+      "roleHeadStartToken" : 177,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "526024f09c1527466c2211f35e47f451",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in [[their]] immediate vicinity.",
+      "roleStartToken" : 177,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "78e161a9eb132b8924206d58d0e835f0"
+    }, {
+      "normalizedRole" : "immediate",
+      "normalizedRoleHead" : "immediate",
+      "normalizedTrigger" : "vicinity",
+      "roleHeadStartToken" : 178,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b6990e52bc7f61377a245327f6fb51f1",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their [[immediate]] vicinity.",
+      "roleStartToken" : 178,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "78e161a9eb132b8924206d58d0e835f0"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate [[vicinity]].",
+    "triggerStartToken" : 179,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 12,
+    "headTokenLength" : 1,
+    "id" : "7816555ac8d0942986b6c68a5f506992",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "event",
+      "normalizedRoleHead" : "event",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 11,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f14b691be0f413b2970a64d1b95c9197",
+      "roleInContext" : "1. Due to (SPECIFY [[event]] or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 11,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "7816555ac8d0942986b6c68a5f506992"
+    }, {
+      "normalizedRole" : "circumstances",
+      "normalizedRoleHead" : "circumstances",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9c2a0aebf5ff3bdd3063318d33ba39a0",
+      "roleInContext" : "1. Due to (SPECIFY event or [[circumstances]]), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 13,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "7816555ac8d0942986b6c68a5f506992"
+    } ],
+    "triggerInContext" : "1. Due to (SPECIFY event [[or]] circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 12,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 171,
+    "headTokenLength" : 1,
+    "id" : "01f4db8f487f49fd5248f290e2be5719",
+    "normalizedHead" : "vessels",
+    "normalizedTrigger" : "surface vessels",
+    "roles" : [ {
+      "normalizedRole" : "surface",
+      "normalizedRoleHead" : "surface",
+      "normalizedTrigger" : "surface vessels",
+      "roleHeadStartToken" : 170,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "870d59cec1d9707d0f74f164aea33ddf",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, [[surface]] vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 170,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "01f4db8f487f49fd5248f290e2be5719"
+    }, {
+      "normalizedRole" : "vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "surface vessels",
+      "roleHeadStartToken" : 171,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f97bac7ba9b75942f52c905b7daa72f8",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface [[vessels]], and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 171,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "01f4db8f487f49fd5248f290e2be5719"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, [[surface vessels]], and subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 170,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 183,
+    "headTokenLength" : 1,
+    "id" : "f33103e4dcaa9e757d41f6b0e7ef5342",
+    "normalizedHead" : "Nothing",
+    "normalizedTrigger" : "Nothing",
+    "roles" : [ {
+      "normalizedRole" : "Nothing",
+      "normalizedRoleHead" : "Nothing",
+      "normalizedTrigger" : "Nothing",
+      "roleHeadStartToken" : 183,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b256437c1fdaac494eadadf17cd0874a",
+      "roleInContext" : "4. [[Nothing]] in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 183,
+      "roleTokenLength" : 1,
+      "roleType" : "LOGIC_MARKER#MARKER",
+      "triggerID" : "f33103e4dcaa9e757d41f6b0e7ef5342"
+    }, {
+      "normalizedRole" : "Nothing",
+      "normalizedRoleHead" : "Nothing",
+      "normalizedTrigger" : "Nothing",
+      "roleHeadStartToken" : 183,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "fe140ffa86f6cd0c8a44e61b99c01a21",
+      "roleInContext" : "4. [[Nothing]] in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 183,
+      "roleTokenLength" : 1,
+      "roleType" : "LOGIC_MARKER#BASE_WORD",
+      "triggerID" : "f33103e4dcaa9e757d41f6b0e7ef5342"
+    } ],
+    "triggerInContext" : "4. [[Nothing]] in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 183,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LOGIC_MARKER"
+  }, {
+    "headStartToken" : 198,
+    "headTokenLength" : 1,
+    "id" : "22d9dfccba7a1daff8559bb879369102",
+    "normalizedHead" : "navigation",
+    "normalizedTrigger" : "navigation",
+    "roles" : [ ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of [[navigation]] or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 198,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 139,
+    "headTokenLength" : 1,
+    "id" : "639ca190a701e53ec4a9cabea857f226",
+    "normalizedHead" : "described",
+    "normalizedTrigger" : "described",
+    "roles" : [ {
+      "normalizedRole" : "above",
+      "normalizedRoleHead" : "above",
+      "normalizedTrigger" : "described",
+      "roleHeadStartToken" : 140,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a7216bc2b39a2bef93429f005304dc5e",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described [[above]], help make their intentions clear.",
+      "roleStartToken" : 140,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#LOC",
+      "triggerID" : "639ca190a701e53ec4a9cabea857f226"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as [[described]] above, help make their intentions clear.",
+    "triggerStartToken" : 139,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 32,
+    "headTokenLength" : 1,
+    "id" : "47f5639cf01a11f058a4f514e2f5aa01",
+    "normalizedHead" : "precautions",
+    "normalizedTrigger" : "precautions",
+    "roles" : [ {
+      "normalizedRole" : "additional",
+      "normalizedRoleHead" : "additional",
+      "normalizedTrigger" : "precautions",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e59aee721ef94c043b926f829aca17e1",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking [[additional]] defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "47f5639cf01a11f058a4f514e2f5aa01"
+    }, {
+      "normalizedRole" : "defensive",
+      "normalizedRoleHead" : "defensive",
+      "normalizedTrigger" : "precautions",
+      "roleHeadStartToken" : 31,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4fe4df9a8fdb7542883c5f87bd52f862",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional [[defensive]] precautions against (SPECIFY threat).",
+      "roleStartToken" : 31,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "47f5639cf01a11f058a4f514e2f5aa01"
+    }, {
+      "normalizedRole" : "against ( SPECIFY threat )",
+      "normalizedRoleHead" : "threat",
+      "normalizedTrigger" : "precautions",
+      "roleHeadStartToken" : 36,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "148adbaa6e5890bb86cd90195bfbd5a3",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions [[against (SPECIFY threat)]].",
+      "roleStartToken" : 33,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "47f5639cf01a11f058a4f514e2f5aa01"
+    } ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive [[precautions]] against (SPECIFY threat).",
+    "triggerStartToken" : 32,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 251,
+    "headTokenLength" : 1,
+    "id" : "715b81cb0e1148ae5d04e8e3e35885de",
+    "normalizedHead" : "outlined",
+    "normalizedTrigger" : "outlined",
+    "roles" : [ {
+      "normalizedRole" : "above",
+      "normalizedRoleHead" : "above",
+      "normalizedTrigger" : "outlined",
+      "roleHeadStartToken" : 252,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6c9b8702c9afc642fc8760d7118dc98c",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined [[above]].",
+      "roleStartToken" : 252,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#LOC",
+      "triggerID" : "715b81cb0e1148ae5d04e8e3e35885de"
+    } ],
+    "triggerInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as [[outlined]] above.",
+    "triggerStartToken" : 251,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 31,
+    "headTokenLength" : 1,
+    "id" : "8b73ef54e677fb96da2bbce2d95a8ca8",
+    "normalizedHead" : "defensive",
+    "normalizedTrigger" : "defensive",
+    "roles" : [ ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional [[defensive]] precautions against (SPECIFY threat).",
+    "triggerStartToken" : 31,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 24,
+    "headTokenLength" : 1,
+    "id" : "049577108e1aba5ab089c644970b701b",
+    "normalizedHead" : "heightened",
+    "normalizedTrigger" : "heightened",
+    "roles" : [ {
+      "normalizedRole" : "state of readiness",
+      "normalizedRoleHead" : "state",
+      "normalizedTrigger" : "heightened",
+      "roleHeadStartToken" : 25,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "911dcb55780846b7b4abae819ca629c0",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened [[state of readiness]] and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 25,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "049577108e1aba5ab089c644970b701b"
+    } ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a [[heightened]] state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 24,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 145,
+    "headTokenLength" : 1,
+    "id" : "0d71bad37a53f02e0d89d37a5bdacc1d",
+    "normalizedHead" : "intentions",
+    "normalizedTrigger" : "intentions",
+    "roles" : [ {
+      "normalizedRole" : "their",
+      "normalizedRoleHead" : "their",
+      "normalizedTrigger" : "intentions",
+      "roleHeadStartToken" : 144,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a7647d3628bdc99e923edb174a99183d",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make [[their]] intentions clear.",
+      "roleStartToken" : 144,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "0d71bad37a53f02e0d89d37a5bdacc1d"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their [[intentions]] clear.",
+    "triggerStartToken" : 145,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 28,
+    "headTokenLength" : 1,
+    "id" : "23842956ba2e2b4cb23d89378e7079e4",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "operating",
+      "normalizedRoleHead" : "operating",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 21,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "50d34d623059f4f53fde4855477ba307",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are [[operating]] at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 21,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "23842956ba2e2b4cb23d89378e7079e4"
+    }, {
+      "normalizedRole" : "taking",
+      "normalizedRoleHead" : "taking",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 29,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "709c2797ef793bd57db4e3cba42c360f",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and [[taking]] additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 29,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "23842956ba2e2b4cb23d89378e7079e4"
+    } ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness [[and]] taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 28,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 186,
+    "headTokenLength" : 1,
+    "id" : "533e3ea1999d9324015f866613c7a402",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "warning",
+    "roles" : [ ],
+    "triggerInContext" : "4. Nothing in this [[warning]] is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 186,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 122,
+    "headTokenLength" : 1,
+    "id" : "606dc042400a8a7321b402b3b383e9c4",
+    "normalizedHead" : "vessels",
+    "normalizedTrigger" : "surface vessels",
+    "roles" : [ {
+      "normalizedRole" : "surface",
+      "normalizedRoleHead" : "surface",
+      "normalizedTrigger" : "surface vessels",
+      "roleHeadStartToken" : 121,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "843316883aed37116b77a06baaef429d",
+      "roleInContext" : "Aircraft, [[surface]] vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 121,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "606dc042400a8a7321b402b3b383e9c4"
+    }, {
+      "normalizedRole" : "vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "surface vessels",
+      "roleHeadStartToken" : 122,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a31195b691fa4c4e73463c12694d521a",
+      "roleInContext" : "Aircraft, surface [[vessels]], and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 122,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "606dc042400a8a7321b402b3b383e9c4"
+    } ],
+    "triggerInContext" : "Aircraft, [[surface vessels]], and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+    "triggerStartToken" : 121,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 186,
+    "headTokenLength" : 1,
+    "id" : "2503f9cb60a63fc0c3c8c69db2910bbd",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "this warning",
+    "roles" : [ {
+      "normalizedRole" : "this",
+      "normalizedRoleHead" : "this",
+      "normalizedTrigger" : "this warning",
+      "roleHeadStartToken" : 185,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "20ee4f37f6ffed9bb64490ec62d76b06",
+      "roleInContext" : "4. Nothing in [[this]] warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 185,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "2503f9cb60a63fc0c3c8c69db2910bbd"
+    }, {
+      "normalizedRole" : "warning",
+      "normalizedRoleHead" : "warning",
+      "normalizedTrigger" : "this warning",
+      "roleHeadStartToken" : 186,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4730e90d793de4e5f6fb6148ee72eb5a",
+      "roleInContext" : "4. Nothing in this [[warning]] is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 186,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "2503f9cb60a63fc0c3c8c69db2910bbd"
+    } ],
+    "triggerInContext" : "4. Nothing in [[this warning]] is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 185,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 54,
+    "headTokenLength" : 2,
+    "id" : "28e5124ea5e990fd1dca53206be5aad8",
+    "normalizedHead" : "e. g.",
+    "normalizedTrigger" : "e. g.",
+    "roles" : [ {
+      "normalizedRole" : "SPECIFY object",
+      "normalizedRoleHead" : "object",
+      "normalizedTrigger" : "e. g.",
+      "roleHeadStartToken" : 53,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "248290faf5e0c7f126ce5b4d575d7c3b",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching ([[SPECIFY object]] e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 52,
+      "roleTokenLength" : 2,
+      "roleType" : "MEMBERSHIP#GROUP",
+      "triggerID" : "28e5124ea5e990fd1dca53206be5aad8"
+    }, {
+      "normalizedRole" : "oil platform",
+      "normalizedRoleHead" : "platform",
+      "normalizedTrigger" : "e. g.",
+      "roleHeadStartToken" : 57,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "16a0b6110ebf92ac6da0c13b2e74d4fa",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. [[oil platform]], warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 56,
+      "roleTokenLength" : 2,
+      "roleType" : "MEMBERSHIP#MEMBER",
+      "triggerID" : "28e5124ea5e990fd1dca53206be5aad8"
+    }, {
+      "normalizedRole" : "warship",
+      "normalizedRoleHead" : "warship",
+      "normalizedTrigger" : "e. g.",
+      "roleHeadStartToken" : 59,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5663291c510ee1ebbda70e60bbd8c498",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, [[warship]]) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 59,
+      "roleTokenLength" : 1,
+      "roleType" : "MEMBERSHIP#MEMBER",
+      "triggerID" : "28e5124ea5e990fd1dca53206be5aad8"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object [[e.g.]] oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 54,
+    "triggerTokenLength" : 2,
+    "triggerType" : "MEMBERSHIP"
+  }, {
+    "headStartToken" : 225,
+    "headTokenLength" : 1,
+    "id" : "892a47c5c4d71ed568c570dc546c617b",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "warning",
+    "roles" : [ ],
+    "triggerInContext" : "This [[warning]] is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 225,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 83,
+    "headTokenLength" : 1,
+    "id" : "1bcb41dcf763a0bc63e08614d57fe61b",
+    "normalizedHead" : "distress",
+    "normalizedTrigger" : "distress",
+    "roles" : [ {
+      "normalizedRole" : "international",
+      "normalizedRoleHead" : "international",
+      "normalizedTrigger" : "distress",
+      "roleHeadStartToken" : 81,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e6b4d3e1cfa85b6324341d3f51c67a24",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, [[international]] air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "1bcb41dcf763a0bc63e08614d57fe61b"
+    }, {
+      "normalizedRole" : "air",
+      "normalizedRoleHead" : "air",
+      "normalizedTrigger" : "distress",
+      "roleHeadStartToken" : 82,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9cc96973ef6151cb5cd040f88afda5a8",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international [[air]] distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 82,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "1bcb41dcf763a0bc63e08614d57fe61b"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air [[distress]] (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 83,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 175,
+    "headTokenLength" : 1,
+    "id" : "a8558fb724cd3e7bb9acb22b1785db0e",
+    "normalizedHead" : "Vessels",
+    "normalizedTrigger" : "subsurface Vessels",
+    "roles" : [ {
+      "normalizedRole" : "subsurface",
+      "normalizedRoleHead" : "subsurface",
+      "normalizedTrigger" : "subsurface Vessels",
+      "roleHeadStartToken" : 174,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "675f456dbfb090797d99f3e66fd02733",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and [[subsurface]] Vessels in their immediate vicinity.",
+      "roleStartToken" : 174,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "a8558fb724cd3e7bb9acb22b1785db0e"
+    }, {
+      "normalizedRole" : "Vessels",
+      "normalizedRoleHead" : "Vessels",
+      "normalizedTrigger" : "subsurface Vessels",
+      "roleHeadStartToken" : 175,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e9517ccac836be87989b22c13bc2a11b",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface [[Vessels]] in their immediate vicinity.",
+      "roleStartToken" : 175,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "a8558fb724cd3e7bb9acb22b1785db0e"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and [[subsurface Vessels]] in their immediate vicinity.",
+    "triggerStartToken" : 174,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 168,
+    "headTokenLength" : 1,
+    "id" : "ef573b3d384495979082cc62444eaa76",
+    "normalizedHead" : "aircraft",
+    "normalizedTrigger" : "aircraft , surface vessels , and subsurface Vessels in their immediate vicinity",
+    "roles" : [ {
+      "normalizedRole" : "aircraft , surface vessels , and subsurface Vessels",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "aircraft , surface vessels , and subsurface Vessels in their immediate vicinity",
+      "roleHeadStartToken" : 168,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "dffd5509a8c1a3163ad90bbad8617e19",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of [[aircraft, surface vessels, and subsurface Vessels]] in their immediate vicinity.",
+      "roleStartToken" : 168,
+      "roleTokenLength" : 8,
+      "roleType" : "PREP_MODIFIER#ENTITY",
+      "triggerID" : "ef573b3d384495979082cc62444eaa76"
+    }, {
+      "normalizedRole" : "in their immediate vicinity",
+      "normalizedRoleHead" : "vicinity",
+      "normalizedTrigger" : "aircraft , surface vessels , and subsurface Vessels in their immediate vicinity",
+      "roleHeadStartToken" : 179,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1e6cb65243428d9c071f017e3fd673ae",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels [[in their immediate vicinity]].",
+      "roleStartToken" : 176,
+      "roleTokenLength" : 4,
+      "roleType" : "PREP_MODIFIER#PHRASE",
+      "triggerID" : "ef573b3d384495979082cc62444eaa76"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of [[aircraft, surface vessels, and subsurface Vessels in their immediate vicinity]].",
+    "triggerStartToken" : 168,
+    "triggerTokenLength" : 12,
+    "triggerType" : "PREP_MODIFIER"
+  }, {
+    "headStartToken" : 199,
+    "headTokenLength" : 1,
+    "id" : "71ca03fc609d9fe7049f7bc6bf79d718",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "navigation",
+      "normalizedRoleHead" : "navigation",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 198,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0cb713608db680bdc1b7df2d562f6f3a",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of [[navigation]] or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 198,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "71ca03fc609d9fe7049f7bc6bf79d718"
+    }, {
+      "normalizedRole" : "overflight",
+      "normalizedRoleHead" : "overflight",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 200,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b6788d826bc684c47479168a56bd0569",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or [[overflight]] of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 200,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "71ca03fc609d9fe7049f7bc6bf79d718"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation [[or]] overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 199,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 227,
+    "headTokenLength" : 1,
+    "id" : "652869e002db3900e910d8220e92738d",
+    "normalizedHead" : "published",
+    "normalizedTrigger" : "published",
+    "roles" : [ {
+      "normalizedRole" : "This warning",
+      "normalizedRoleHead" : "warning",
+      "normalizedTrigger" : "published",
+      "roleHeadStartToken" : 225,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5eda1d53d305366092011ece0df37ae9",
+      "roleInContext" : "[[This warning]] is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 224,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "652869e002db3900e910d8220e92738d"
+    }, {
+      "normalizedRole" : "to advise of the heightened state of readiness of ( SPECIFY force )",
+      "normalizedRoleHead" : "advise",
+      "normalizedTrigger" : "published",
+      "roleHeadStartToken" : 230,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c2f4fae270bf1d0889f15273f40cda5e",
+      "roleInContext" : "This warning is published solely [[to advise of the heightened state of readiness of (SPECIFY force)]] and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 229,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "652869e002db3900e910d8220e92738d"
+    }, {
+      "normalizedRole" : "to Request that radio contact be maintained as outlined above",
+      "normalizedRoleHead" : "Request",
+      "normalizedTrigger" : "published",
+      "roleHeadStartToken" : 244,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0258bd5fc0ce0a13ce6a80505767a68c",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and [[to Request that radio contact be maintained as outlined above]].",
+      "roleStartToken" : 243,
+      "roleTokenLength" : 10,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "652869e002db3900e910d8220e92738d"
+    } ],
+    "triggerInContext" : "This warning is [[published]] solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 227,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 58,
+    "headTokenLength" : 1,
+    "id" : "58ffd5e3d09220f76fca7ed309c1c0ac",
+    "normalizedHead" : ",",
+    "normalizedTrigger" : ",",
+    "roles" : [ {
+      "normalizedRole" : "oil platform",
+      "normalizedRoleHead" : "platform",
+      "normalizedTrigger" : ",",
+      "roleHeadStartToken" : 57,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "881824b1263d4bb6375c5a04a4d9f6fb",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. [[oil platform]], warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 56,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "58ffd5e3d09220f76fca7ed309c1c0ac"
+    }, {
+      "normalizedRole" : "warship",
+      "normalizedRoleHead" : "warship",
+      "normalizedTrigger" : ",",
+      "roleHeadStartToken" : 59,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "22481cd21e037d12a61bf1ba2b052f90",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, [[warship]]) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 59,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "58ffd5e3d09220f76fca7ed309c1c0ac"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform[[,]] warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 58,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 106,
+    "headTokenLength" : 1,
+    "id" : "8cc6744952529a17212f8dde990d4f95",
+    "normalizedHead" : "take",
+    "normalizedTrigger" : "take",
+    "roles" : [ {
+      "normalizedRole" : "( SPECIFY force )",
+      "normalizedRoleHead" : "force",
+      "normalizedTrigger" : "take",
+      "roleHeadStartToken" : 103,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "761632b1024b362a8ee1c367d5e631e4",
+      "roleInContext" : "2. [[(SPECIFY force)]] will take appropriate measures in self-defence if warranted by the circumstances.",
+      "roleStartToken" : 101,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "8cc6744952529a17212f8dde990d4f95"
+    } ],
+    "triggerInContext" : "2. (SPECIFY force) will [[take]] appropriate measures in self-defence if warranted by the circumstances.",
+    "triggerStartToken" : 106,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 87,
+    "headTokenLength" : 1,
+    "id" : "a3831b06046dbb3d1ee9682dae18a9c8",
+    "normalizedHead" : "VHF",
+    "normalizedTrigger" : "international air distress ( 121.5 MHZ VHF )",
+    "roles" : [ {
+      "normalizedRole" : "international air distress",
+      "normalizedRoleHead" : "distress",
+      "normalizedTrigger" : "international air distress ( 121.5 MHZ VHF )",
+      "roleHeadStartToken" : 83,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "87629bed7971920cd07f1f034f384e81",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, [[international air distress]] (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#ENTITY",
+      "triggerID" : "a3831b06046dbb3d1ee9682dae18a9c8"
+    }, {
+      "normalizedRole" : "121.5 MHZ VHF",
+      "normalizedRoleHead" : "VHF",
+      "normalizedTrigger" : "international air distress ( 121.5 MHZ VHF )",
+      "roleHeadStartToken" : 87,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7712717a15da8782a97df860ae8a5fb7",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress ([[121.5 MHZ VHF]]) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 85,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#OTHER_ENTITY",
+      "triggerID" : "a3831b06046dbb3d1ee9682dae18a9c8"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, [[international air distress (121.5 MHZ VHF)]] or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 81,
+    "triggerTokenLength" : 8,
+    "triggerType" : "APPOS"
+  }, {
+    "headStartToken" : 173,
+    "headTokenLength" : 1,
+    "id" : "69b768c8ea3300fc18b6ea9e8998cbaa",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "aircraft , surface vessels , and subsurface Vessels",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 168,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0c97d80e63218aa997f041d7a6be37cb",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of [[aircraft, surface vessels, and subsurface Vessels]] in their immediate vicinity.",
+      "roleStartToken" : 168,
+      "roleTokenLength" : 8,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "69b768c8ea3300fc18b6ea9e8998cbaa"
+    }, {
+      "normalizedRole" : "aircraft",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 168,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9abdf8d38cd9ed0e8c883ee8512a5d9c",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of [[aircraft]], surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 168,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "69b768c8ea3300fc18b6ea9e8998cbaa"
+    }, {
+      "normalizedRole" : "surface vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 171,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d5575748faa878d71f8cbe5f79f1c9b0",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, [[surface vessels]], and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 170,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "69b768c8ea3300fc18b6ea9e8998cbaa"
+    }, {
+      "normalizedRole" : "subsurface Vessels",
+      "normalizedRoleHead" : "Vessels",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 175,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "abca323eed60961d80fa0bbbe599affa",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and [[subsurface Vessels]] in their immediate vicinity.",
+      "roleStartToken" : 174,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "69b768c8ea3300fc18b6ea9e8998cbaa"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, [[and]] subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 173,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 137,
+    "headTokenLength" : 1,
+    "id" : "8132b61c98b2c1c13c9d782a836fdfe6",
+    "normalizedHead" : "contact",
+    "normalizedTrigger" : "contact",
+    "roles" : [ {
+      "normalizedRole" : "prior",
+      "normalizedRoleHead" : "prior",
+      "normalizedTrigger" : "contact",
+      "roleHeadStartToken" : 136,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e9af5f73e5488fb3879cf50faf10ba4d",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making [[prior]] contact as described above, help make their intentions clear.",
+      "roleStartToken" : 136,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "8132b61c98b2c1c13c9d782a836fdfe6"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior [[contact]] as described above, help make their intentions clear.",
+    "triggerStartToken" : 137,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 158,
+    "headTokenLength" : 1,
+    "id" : "d38960620db44eb23bb04551cb375a37",
+    "normalizedHead" : "confined",
+    "normalizedTrigger" : "confined",
+    "roles" : [ {
+      "normalizedRole" : "waters",
+      "normalizedRoleHead" : "waters",
+      "normalizedTrigger" : "confined",
+      "roleHeadStartToken" : 159,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b66dd3f4fc95f84ced2519fccd34e1cb",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined [[waters]], shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 159,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "d38960620db44eb23bb04551cb375a37"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in [[confined]] waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 158,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 3,
+    "headTokenLength" : 1,
+    "id" : "2775ecc7649410e8e40257b11247023b",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "warning",
+    "roles" : [ ],
+    "triggerInContext" : "Model announcement - [[warning]] area",
+    "triggerStartToken" : 3,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 143,
+    "headTokenLength" : 1,
+    "id" : "70b5e47557e8415b9cd134759775d4a2",
+    "normalizedHead" : "make",
+    "normalizedTrigger" : "make",
+    "roles" : [ {
+      "normalizedRole" : "their intentions",
+      "normalizedRoleHead" : "intentions",
+      "normalizedTrigger" : "make",
+      "roleHeadStartToken" : 145,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e58dd69bfe34c7d2d6b0776e5dba29b6",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make [[their intentions]] clear.",
+      "roleStartToken" : 144,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "70b5e47557e8415b9cd134759775d4a2"
+    }, {
+      "normalizedRole" : "clear",
+      "normalizedRoleHead" : "clear",
+      "normalizedTrigger" : "make",
+      "roleHeadStartToken" : 146,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0157ae0a3425ef1bffb984dc068ef028",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions [[clear]].",
+      "roleStartToken" : 146,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "70b5e47557e8415b9cd134759775d4a2"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help [[make]] their intentions clear.",
+    "triggerStartToken" : 143,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 155,
+    "headTokenLength" : 1,
+    "id" : "21d5256dc274c4542e708b8938618eb0",
+    "normalizedHead" : "when",
+    "normalizedTrigger" : "when",
+    "roles" : [ {
+      "normalizedRole" : "operating",
+      "normalizedRoleHead" : "operating",
+      "normalizedTrigger" : "when",
+      "roleHeadStartToken" : 156,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "07cef2ac630fb6bff31e4e8142e55bb8",
+      "roleInContext" : "3. (SPECIFY force), when [[operating]] in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 156,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "21d5256dc274c4542e708b8938618eb0"
+    }, {
+      "normalizedRole" : "remain",
+      "normalizedRoleHead" : "remain",
+      "normalizedTrigger" : "when",
+      "roleHeadStartToken" : 162,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "405b35f526011e0da6cf356394ae104c",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall [[remain]] mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 162,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "21d5256dc274c4542e708b8938618eb0"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), [[when]] operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 155,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 110,
+    "headTokenLength" : 3,
+    "id" : "555d6a8dd186a342b37be31271d129ff",
+    "normalizedHead" : "self - defence",
+    "normalizedTrigger" : "self - defence",
+    "roles" : [ {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "self - defence",
+      "roleHeadStartToken" : 110,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3e07524176a9f9531707789c8bc7c946",
+      "roleInContext" : "2. (SPECIFY force) will take appropriate measures in [[self]]-defence if warranted by the circumstances.",
+      "roleStartToken" : 110,
+      "roleTokenLength" : 1,
+      "roleType" : "HYPHEN_VERB#NONVERB",
+      "triggerID" : "555d6a8dd186a342b37be31271d129ff"
+    }, {
+      "normalizedRole" : "defence",
+      "normalizedRoleHead" : "defence",
+      "normalizedTrigger" : "self - defence",
+      "roleHeadStartToken" : 112,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "af6ceee8adf29f76fd3f14615a43af50",
+      "roleInContext" : "2. (SPECIFY force) will take appropriate measures in self-[[defence]] if warranted by the circumstances.",
+      "roleStartToken" : 112,
+      "roleTokenLength" : 1,
+      "roleType" : "HYPHEN_VERB#VERB",
+      "triggerID" : "555d6a8dd186a342b37be31271d129ff"
+    } ],
+    "triggerInContext" : "2. (SPECIFY force) will take appropriate measures in [[self-defence]] if warranted by the circumstances.",
+    "triggerStartToken" : 110,
+    "triggerTokenLength" : 3,
+    "triggerType" : "HYPHEN_VERB"
+  }, {
+    "headStartToken" : 47,
+    "headTokenLength" : 1,
+    "id" : "b408388bbde58164587a3e5bed2f3dfd",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "aircraft , surface vessels , and subsurface vessels",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "df964c69f10ec71c6a34f89c9f5ae9c4",
+      "roleInContext" : "Consequently, all [[aircraft, surface vessels, and subsurface vessels]] approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 8,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "b408388bbde58164587a3e5bed2f3dfd"
+    }, {
+      "normalizedRole" : "aircraft",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cd8524bf5fcc89b1748d41d76e707c7a",
+      "roleInContext" : "Consequently, all [[aircraft]], surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 1,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "b408388bbde58164587a3e5bed2f3dfd"
+    }, {
+      "normalizedRole" : "surface vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 45,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d4c788680fe3961d09151e8aefa78ac5",
+      "roleInContext" : "Consequently, all aircraft, [[surface vessels]], and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 44,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "b408388bbde58164587a3e5bed2f3dfd"
+    }, {
+      "normalizedRole" : "subsurface vessels",
+      "normalizedRoleHead" : "vessels",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 49,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a133f1c6ecb1008371fab8444951b650",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and [[subsurface vessels]] approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 48,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "b408388bbde58164587a3e5bed2f3dfd"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, [[and]] subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 47,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 193,
+    "headTokenLength" : 1,
+    "id" : "4fbc02973f674f13c8185dbf73d172be",
+    "normalizedHead" : "interfere",
+    "normalizedTrigger" : "interfere",
+    "roles" : [ {
+      "normalizedRole" : "with the freedom of navigation or overflight of any vessel or aircraft",
+      "normalizedRoleHead" : "freedom",
+      "normalizedTrigger" : "interfere",
+      "roleHeadStartToken" : 196,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7f5fa600d14969c4c95508e17b1f3c73",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere [[with the freedom of navigation or overflight of any vessel or aircraft]], or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 194,
+      "roleTokenLength" : 12,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "4fbc02973f674f13c8185dbf73d172be"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise [[interfere]] with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 193,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 138,
+    "headTokenLength" : 1,
+    "id" : "725ae2ad0ccefd1b4dff94650ec7d9f0",
+    "normalizedHead" : "as",
+    "normalizedTrigger" : "as",
+    "roles" : [ {
+      "normalizedRole" : "making",
+      "normalizedRoleHead" : "making",
+      "normalizedTrigger" : "as",
+      "roleHeadStartToken" : 135,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "30ab62065913b099cd451415c90ba252",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by [[making]] prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 135,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "725ae2ad0ccefd1b4dff94650ec7d9f0"
+    }, {
+      "normalizedRole" : "described",
+      "normalizedRoleHead" : "described",
+      "normalizedTrigger" : "as",
+      "roleHeadStartToken" : 139,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ad9660d0f4608d352410745ebf8dd24a",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as [[described]] above, help make their intentions clear.",
+      "roleStartToken" : 139,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "725ae2ad0ccefd1b4dff94650ec7d9f0"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact [[as]] described above, help make their intentions clear.",
+    "triggerStartToken" : 138,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 29,
+    "headTokenLength" : 1,
+    "id" : "bf84dbba0c710da9b0fdefbd5e94b7d0",
+    "normalizedHead" : "taking",
+    "normalizedTrigger" : "taking",
+    "roles" : [ {
+      "normalizedRole" : "SPECIFY forces",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "taking",
+      "roleHeadStartToken" : 18,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e3ddc31134fbc7bb1f265ac692edb9e7",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), ([[SPECIFY forces]]) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 17,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "bf84dbba0c710da9b0fdefbd5e94b7d0"
+    }, {
+      "normalizedRole" : "additional defensive precautions against ( SPECIFY threat )",
+      "normalizedRoleHead" : "precautions",
+      "normalizedTrigger" : "taking",
+      "roleHeadStartToken" : 32,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "95ba5e2cb81534bf0df19405a0b8e4d5",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking [[additional defensive precautions against (SPECIFY threat)]].",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "bf84dbba0c710da9b0fdefbd5e94b7d0"
+    } ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and [[taking]] additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 29,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 1,
+    "headTokenLength" : 1,
+    "id" : "bcdfb4ad1173b1be9fb1289d7e7d2f08",
+    "normalizedHead" : "announcement",
+    "normalizedTrigger" : "announcement",
+    "roles" : [ {
+      "normalizedRole" : "Model",
+      "normalizedRoleHead" : "Model",
+      "normalizedTrigger" : "announcement",
+      "roleHeadStartToken" : 0,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "393ac21fac05f716347ed80f8cd67e84",
+      "roleInContext" : "[[Model]] announcement - warning area",
+      "roleStartToken" : 0,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "bcdfb4ad1173b1be9fb1289d7e7d2f08"
+    } ],
+    "triggerInContext" : "Model [[announcement]] - warning area",
+    "triggerStartToken" : 1,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 27,
+    "headTokenLength" : 1,
+    "id" : "18db7b4dc75a462ee244e0f2b1dc76b0",
+    "normalizedHead" : "readiness",
+    "normalizedTrigger" : "readiness",
+    "roles" : [ ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of [[readiness]] and taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 27,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 78,
+    "headTokenLength" : 1,
+    "id" : "5ffe1b5ea637a2cdb4557fe739788471",
+    "normalizedHead" : "channel",
+    "normalizedTrigger" : "bridge - to - bridge channel",
+    "roles" : [ {
+      "normalizedRole" : "bridge - to - bridge",
+      "normalizedRoleHead" : "bridge",
+      "normalizedTrigger" : "bridge - to - bridge channel",
+      "roleHeadStartToken" : 77,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "411a54a5f4c511a44220f1420ca2225e",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on [[bridge-to- bridge]] channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 73,
+      "roleTokenLength" : 5,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "5ffe1b5ea637a2cdb4557fe739788471"
+    }, {
+      "normalizedRole" : "channel 16",
+      "normalizedRoleHead" : "16",
+      "normalizedTrigger" : "bridge - to - bridge channel",
+      "roleHeadStartToken" : 79,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1495500493dfb2a00666bba763f4328a",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge [[channel 16]], international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 78,
+      "roleTokenLength" : 2,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "5ffe1b5ea637a2cdb4557fe739788471"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on [[bridge-to- bridge channel]] 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 73,
+    "triggerTokenLength" : 6,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 127,
+    "headTokenLength" : 1,
+    "id" : "591923c5ebd9f28a93eda5c47e6e0d8f",
+    "normalizedHead" : "approaching",
+    "normalizedTrigger" : "approaching",
+    "roles" : [ {
+      "normalizedRole" : "Aircraft , surface vessels , and subsurface vessels",
+      "normalizedRoleHead" : "Aircraft",
+      "normalizedTrigger" : "approaching",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f8898595d16571cb6a40527a295e6c9c",
+      "roleInContext" : "[[Aircraft, surface vessels, and subsurface vessels]] approaching (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 119,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "591923c5ebd9f28a93eda5c47e6e0d8f"
+    }, {
+      "normalizedRole" : "( SPECIFY force )",
+      "normalizedRoleHead" : "force",
+      "normalizedTrigger" : "approaching",
+      "roleHeadStartToken" : 130,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e2bac35037045a52adf7a3c1fdee7163",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching [[(SPECIFY force)]] will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 128,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "591923c5ebd9f28a93eda5c47e6e0d8f"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels [[approaching]] (SPECIFY force) will, by making prior contact as described above, help make their intentions clear.",
+    "triggerStartToken" : 127,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 193,
+    "headTokenLength" : 1,
+    "id" : "3bd57aed22b2b8d8fba439ce10568ab3",
+    "normalizedHead" : "interfere",
+    "normalizedTrigger" : "otherwise interfere",
+    "roles" : [ {
+      "normalizedRole" : "otherwise",
+      "normalizedRoleHead" : "otherwise",
+      "normalizedTrigger" : "otherwise interfere",
+      "roleHeadStartToken" : 192,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e8e5a7157a12f1a21d185fd0c005a912",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or [[otherwise]] interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 192,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "3bd57aed22b2b8d8fba439ce10568ab3"
+    }, {
+      "normalizedRole" : "interfere",
+      "normalizedRoleHead" : "interfere",
+      "normalizedTrigger" : "otherwise interfere",
+      "roleHeadStartToken" : 193,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3777eac6c4719513499d2690cfd16c7b",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise [[interfere]] with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 193,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "3bd57aed22b2b8d8fba439ce10568ab3"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or [[otherwise interfere]] with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 192,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 196,
+    "headTokenLength" : 1,
+    "id" : "41c5505e91d8fd7327a46b36cde5442d",
+    "normalizedHead" : "freedom",
+    "normalizedTrigger" : "freedom",
+    "roles" : [ {
+      "normalizedRole" : "of navigation or overflight of any vessel or aircraft",
+      "normalizedRoleHead" : "overflight",
+      "normalizedTrigger" : "freedom",
+      "roleHeadStartToken" : 200,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e185dacb305dd60fc70c3e1923c800b8",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom [[of navigation or overflight of any vessel or aircraft]], or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 197,
+      "roleTokenLength" : 9,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "41c5505e91d8fd7327a46b36cde5442d"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the [[freedom]] of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 196,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 36,
+    "headTokenLength" : 1,
+    "id" : "d0bb35e3a7ab63999beada4298cb6d1a",
+    "normalizedHead" : "threat",
+    "normalizedTrigger" : "threat",
+    "roles" : [ ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY [[threat]]).",
+    "triggerStartToken" : 36,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 57,
+    "headTokenLength" : 1,
+    "id" : "aa42a85625ee958b3d0bcc7c5bd49c8d",
+    "normalizedHead" : "platform",
+    "normalizedTrigger" : "oil platform",
+    "roles" : [ {
+      "normalizedRole" : "g.",
+      "normalizedRoleHead" : "g.",
+      "normalizedTrigger" : "oil platform",
+      "roleHeadStartToken" : 55,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c37e0cf2a42510919e5c30422305735b",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.[[g.]] oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 55,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "aa42a85625ee958b3d0bcc7c5bd49c8d"
+    }, {
+      "normalizedRole" : "platform",
+      "normalizedRoleHead" : "platform",
+      "normalizedTrigger" : "oil platform",
+      "roleHeadStartToken" : 57,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a9e82dcb09ac7cb8806aed47a6ca8ef9",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil [[platform]], warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 57,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "aa42a85625ee958b3d0bcc7c5bd49c8d"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. [[oil platform]], warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 56,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 89,
+    "headTokenLength" : 1,
+    "id" : "b1bd5dff03016adeb35c9b83483a8840",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "bridge - to - bridge channel 16 , international air distress ( 121.5 MHZ VHF ) or military air distress ( 243.0 MHZ UHF )",
+      "normalizedRoleHead" : "16",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 79,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5b4169018008ada2739b76e732dc7a32",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on [[bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF)]].",
+      "roleStartToken" : 73,
+      "roleTokenLength" : 25,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "b1bd5dff03016adeb35c9b83483a8840"
+    }, {
+      "normalizedRole" : "bridge - to - bridge channel 16",
+      "normalizedRoleHead" : "16",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 79,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d83e5008f8bc87b7207024b873ce8b9e",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on [[bridge-to- bridge channel 16]], international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 73,
+      "roleTokenLength" : 7,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "b1bd5dff03016adeb35c9b83483a8840"
+    }, {
+      "normalizedRole" : "international air distress ( 121.5 MHZ VHF )",
+      "normalizedRoleHead" : "VHF",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 87,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6cb9cd2e6eb4711561ed804c127d0a4b",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, [[international air distress (121.5 MHZ VHF)]] or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 8,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "b1bd5dff03016adeb35c9b83483a8840"
+    }, {
+      "normalizedRole" : "military air distress ( 243.0 MHZ UHF )",
+      "normalizedRoleHead" : "UHF",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 96,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e0180a1a49383007e3c6536e6c934c7f",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or [[military air distress (243.0 MHZ UHF)]].",
+      "roleStartToken" : 90,
+      "roleTokenLength" : 8,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "b1bd5dff03016adeb35c9b83483a8840"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) [[or]] military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 89,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 135,
+    "headTokenLength" : 1,
+    "id" : "2f2a5111a4162fc544aa9863768a083a",
+    "normalizedHead" : "making",
+    "normalizedTrigger" : "making",
+    "roles" : [ {
+      "normalizedRole" : "Aircraft , surface vessels , and subsurface vessels approaching ( SPECIFY force )",
+      "normalizedRoleHead" : "Aircraft",
+      "normalizedTrigger" : "making",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8102aeafe124e53afccd1c8b9e6097ef",
+      "roleInContext" : "[[Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force)]] will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 119,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "2f2a5111a4162fc544aa9863768a083a"
+    }, {
+      "normalizedRole" : "prior contact",
+      "normalizedRoleHead" : "contact",
+      "normalizedTrigger" : "making",
+      "roleHeadStartToken" : 137,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "41cee36dad187ee2301e6d3d4564a6fa",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making [[prior contact]] as described above, help make their intentions clear.",
+      "roleStartToken" : 136,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "2f2a5111a4162fc544aa9863768a083a"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by [[making]] prior contact as described above, help make their intentions clear.",
+    "triggerStartToken" : 135,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 39,
+    "headTokenLength" : 1,
+    "id" : "c0c05928169d8eae734fca8b940df439",
+    "normalizedHead" : "Consequently",
+    "normalizedTrigger" : "Consequently",
+    "roles" : [ {
+      "normalizedRole" : "operating",
+      "normalizedRoleHead" : "operating",
+      "normalizedTrigger" : "Consequently",
+      "roleHeadStartToken" : 21,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7b7096cd7693a1b6dcabefc0ecaeb310",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are [[operating]] at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat). Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 21,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#FIRST_PART",
+      "triggerID" : "c0c05928169d8eae734fca8b940df439"
+    }, {
+      "normalizedRole" : "requested",
+      "normalizedRoleHead" : "requested",
+      "normalizedTrigger" : "Consequently",
+      "roleHeadStartToken" : 62,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bf28e04aea410d1cf48c505e8a2d8fc0",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat). Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are [[requested]] to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 62,
+      "roleTokenLength" : 1,
+      "roleType" : "MULTI_SENTENCE_LINK#SECOND_PART",
+      "triggerID" : "c0c05928169d8eae734fca8b940df439"
+    } ],
+    "triggerInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat). [[Consequently]], all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 39,
+    "triggerTokenLength" : 1,
+    "triggerType" : "MULTI_SENTENCE_LINK"
+  }, {
+    "headStartToken" : 41,
+    "headTokenLength" : 1,
+    "id" : "5e528e872bee96368e86a490fe7967d9",
+    "normalizedHead" : "all",
+    "normalizedTrigger" : "all",
+    "roles" : [ {
+      "normalizedRole" : ",",
+      "normalizedRoleHead" : ",",
+      "normalizedTrigger" : "all",
+      "roleHeadStartToken" : 40,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d4cf70dda67477815cbb0acf3aa4ac20",
+      "roleInContext" : "Consequently[[,]] all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 40,
+      "roleTokenLength" : 1,
+      "roleType" : "LOGIC_MARKER#MARKER",
+      "triggerID" : "5e528e872bee96368e86a490fe7967d9"
+    }, {
+      "normalizedRole" : "aircraft , surface vessels , and subsurface vessels approaching ( SPECIFY object e. g. oil platform , warship )",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "all",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a6fc62c6c34eb4c2b8ab7de9fe5882fe",
+      "roleInContext" : "Consequently, all [[aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship)]] are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 19,
+      "roleType" : "LOGIC_MARKER#BASE_WORD",
+      "triggerID" : "5e528e872bee96368e86a490fe7967d9"
+    } ],
+    "triggerInContext" : "Consequently, [[all]] aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 41,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LOGIC_MARKER"
+  }, {
+    "headStartToken" : 249,
+    "headTokenLength" : 1,
+    "id" : "8c059c8b0d9e25750e90c4bb541b29da",
+    "normalizedHead" : "maintained",
+    "normalizedTrigger" : "maintained",
+    "roles" : [ {
+      "normalizedRole" : "radio contact",
+      "normalizedRoleHead" : "contact",
+      "normalizedTrigger" : "maintained",
+      "roleHeadStartToken" : 247,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "931333282767d37b36385caba8e26c48",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that [[radio contact]] be maintained as outlined above.",
+      "roleStartToken" : 246,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "8c059c8b0d9e25750e90c4bb541b29da"
+    }, {
+      "normalizedRole" : "as outlined above",
+      "normalizedRoleHead" : "as",
+      "normalizedTrigger" : "maintained",
+      "roleHeadStartToken" : 250,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b5aa363cf01d86c9ac38a8537d0b7a26",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained [[as outlined above]].",
+      "roleStartToken" : 250,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "8c059c8b0d9e25750e90c4bb541b29da"
+    } ],
+    "triggerInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be [[maintained]] as outlined above.",
+    "triggerStartToken" : 249,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 114,
+    "headTokenLength" : 1,
+    "id" : "94137ff2286c6fd8cf7512409dbf04b2",
+    "normalizedHead" : "warranted",
+    "normalizedTrigger" : "warranted",
+    "roles" : [ {
+      "normalizedRole" : "appropriate measures in self - defence",
+      "normalizedRoleHead" : "self - defence",
+      "normalizedTrigger" : "warranted",
+      "roleHeadStartToken" : 110,
+      "roleHeadTokenLength" : 3,
+      "roleID" : "54bd40b30ce95f26bf71e2c84f9ff36d",
+      "roleInContext" : "2. (SPECIFY force) will take [[appropriate measures in self-defence]] if warranted by the circumstances.",
+      "roleStartToken" : 107,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "94137ff2286c6fd8cf7512409dbf04b2"
+    }, {
+      "normalizedRole" : "the circumstances",
+      "normalizedRoleHead" : "circumstances",
+      "normalizedTrigger" : "warranted",
+      "roleHeadStartToken" : 117,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e702c4886254998fb367b294c0fd9b62",
+      "roleInContext" : "2. (SPECIFY force) will take appropriate measures in self-defence if warranted by [[the circumstances]].",
+      "roleStartToken" : 116,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "94137ff2286c6fd8cf7512409dbf04b2"
+    } ],
+    "triggerInContext" : "2. (SPECIFY force) will take appropriate measures in self-defence if [[warranted]] by the circumstances.",
+    "triggerStartToken" : 114,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 7,
+    "headTokenLength" : 1,
+    "id" : "19aa4b00c4601682b513dc6c64650937",
+    "normalizedHead" : "Due",
+    "normalizedTrigger" : "Due to",
+    "roles" : [ {
+      "normalizedRole" : "event",
+      "normalizedRoleHead" : "event",
+      "normalizedTrigger" : "Due to",
+      "roleHeadStartToken" : 11,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "805638deeb620122536af7881eeb615b",
+      "roleInContext" : "1. Due to (SPECIFY [[event]] or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 11,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "19aa4b00c4601682b513dc6c64650937"
+    }, {
+      "normalizedRole" : "operating",
+      "normalizedRoleHead" : "operating",
+      "normalizedTrigger" : "Due to",
+      "roleHeadStartToken" : 21,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2963e0f9664f5cd4238c8767d2df0782",
+      "roleInContext" : "1. Due to (SPECIFY event or circumstances), (SPECIFY forces) are [[operating]] at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+      "roleStartToken" : 21,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "19aa4b00c4601682b513dc6c64650937"
+    } ],
+    "triggerInContext" : "1. [[Due to]] (SPECIFY event or circumstances), (SPECIFY forces) are operating at a heightened state of readiness and taking additional defensive precautions against (SPECIFY threat).",
+    "triggerStartToken" : 7,
+    "triggerTokenLength" : 2,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 215,
+    "headTokenLength" : 3,
+    "id" : "bbc811f3f98b82df425804c83c5ef5af",
+    "normalizedHead" : "self - defence",
+    "normalizedTrigger" : "self - defence",
+    "roles" : [ {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "self - defence",
+      "roleHeadStartToken" : 215,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ea94b6012ac9e982256fc560267f5e1d",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of [[self]]-defence of (SPECIFY force).",
+      "roleStartToken" : 215,
+      "roleTokenLength" : 1,
+      "roleType" : "HYPHEN_VERB#NONVERB",
+      "triggerID" : "bbc811f3f98b82df425804c83c5ef5af"
+    }, {
+      "normalizedRole" : "defence",
+      "normalizedRoleHead" : "defence",
+      "normalizedTrigger" : "self - defence",
+      "roleHeadStartToken" : 217,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "76afe600c321e7f9e9fbf420529dec46",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of self-[[defence]] of (SPECIFY force).",
+      "roleStartToken" : 217,
+      "roleTokenLength" : 1,
+      "roleType" : "HYPHEN_VERB#VERB",
+      "triggerID" : "bbc811f3f98b82df425804c83c5ef5af"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft, or to limit or expand the right of [[self-defence]] of (SPECIFY force).",
+    "triggerStartToken" : 215,
+    "triggerTokenLength" : 3,
+    "triggerType" : "HYPHEN_VERB"
+  }, {
+    "headStartToken" : 230,
+    "headTokenLength" : 1,
+    "id" : "b4d78001b31aa1b9f18faf6cb2946cba",
+    "normalizedHead" : "advise",
+    "normalizedTrigger" : "advise",
+    "roles" : [ {
+      "normalizedRole" : "solely",
+      "normalizedRoleHead" : "solely",
+      "normalizedTrigger" : "advise",
+      "roleHeadStartToken" : 228,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "32ea00ba72d887981785293dc2b46825",
+      "roleInContext" : "This warning is published [[solely]] to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 228,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "b4d78001b31aa1b9f18faf6cb2946cba"
+    }, {
+      "normalizedRole" : "of the heightened state of readiness of ( SPECIFY force )",
+      "normalizedRoleHead" : "state",
+      "normalizedTrigger" : "advise",
+      "roleHeadStartToken" : 234,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7d21d80f96d7667fa43cf3bee3f64d9c",
+      "roleInContext" : "This warning is published solely to advise [[of the heightened state of readiness of (SPECIFY force)]] and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 231,
+      "roleTokenLength" : 11,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "b4d78001b31aa1b9f18faf6cb2946cba"
+    } ],
+    "triggerInContext" : "This warning is published solely to [[advise]] of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 230,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 242,
+    "headTokenLength" : 1,
+    "id" : "8f4603cbb4c515617e3d68572d5e6b78",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "advise",
+      "normalizedRoleHead" : "advise",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 230,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e672d7c4a7461af3ecfe62c9f176289f",
+      "roleInContext" : "This warning is published solely to [[advise]] of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 230,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "8f4603cbb4c515617e3d68572d5e6b78"
+    }, {
+      "normalizedRole" : "Request",
+      "normalizedRoleHead" : "Request",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 244,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "077fde0b8c9795f7f51a83a032267587",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to [[Request]] that radio contact be maintained as outlined above.",
+      "roleStartToken" : 244,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "8f4603cbb4c515617e3d68572d5e6b78"
+    } ],
+    "triggerInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) [[and]] to Request that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 242,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 92,
+    "headTokenLength" : 1,
+    "id" : "9d47b0921cecb263645369dbf22e5c43",
+    "normalizedHead" : "distress",
+    "normalizedTrigger" : "distress",
+    "roles" : [ {
+      "normalizedRole" : "military",
+      "normalizedRoleHead" : "military",
+      "normalizedTrigger" : "distress",
+      "roleHeadStartToken" : 90,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "11bfdef2fec09772195bbd14ecfa2f07",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or [[military]] air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 90,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "9d47b0921cecb263645369dbf22e5c43"
+    }, {
+      "normalizedRole" : "air",
+      "normalizedRoleHead" : "air",
+      "normalizedTrigger" : "distress",
+      "roleHeadStartToken" : 91,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c84b7eedc2203c7270bf247ddbd915e1",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military [[air]] distress (243.0 MHZ UHF).",
+      "roleStartToken" : 91,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "9d47b0921cecb263645369dbf22e5c43"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air [[distress]] (243.0 MHZ UHF).",
+    "triggerStartToken" : 92,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 134,
+    "headTokenLength" : 1,
+    "id" : "924a030ac8a2e634ad6e44da2bceeac0",
+    "normalizedHead" : "by",
+    "normalizedTrigger" : "by",
+    "roles" : [ {
+      "normalizedRole" : "making",
+      "normalizedRoleHead" : "making",
+      "normalizedTrigger" : "by",
+      "roleHeadStartToken" : 135,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e3474acdd0b1d24570dfee99451d0035",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by [[making]] prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 135,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "924a030ac8a2e634ad6e44da2bceeac0"
+    }, {
+      "normalizedRole" : "help",
+      "normalizedRoleHead" : "help",
+      "normalizedTrigger" : "by",
+      "roleHeadStartToken" : 142,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "dc53c169cba9493ad2378d3a3b4f915b",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, [[help]] make their intentions clear.",
+      "roleStartToken" : 142,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "924a030ac8a2e634ad6e44da2bceeac0"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, [[by]] making prior contact as described above, help make their intentions clear.",
+    "triggerStartToken" : 134,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 200,
+    "headTokenLength" : 1,
+    "id" : "8b00c458ac6e49c2a68bee05506253b1",
+    "normalizedHead" : "overflight",
+    "normalizedTrigger" : "overflight",
+    "roles" : [ ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or [[overflight]] of any vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 200,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 163,
+    "headTokenLength" : 1,
+    "id" : "d4682ccba74e6abeb2be1e35214a6d94",
+    "normalizedHead" : "mindful",
+    "normalizedTrigger" : "mindful",
+    "roles" : [ {
+      "normalizedRole" : "( SPECIFY force )",
+      "normalizedRoleHead" : "force",
+      "normalizedTrigger" : "mindful",
+      "roleHeadStartToken" : 152,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "af692cd4c1597b8f9a9f87c18bd4a4ee",
+      "roleInContext" : "3. [[(SPECIFY force)]], when operating in confined waters, shall remain mindful of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+      "roleStartToken" : 150,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "d4682ccba74e6abeb2be1e35214a6d94"
+    }, {
+      "normalizedRole" : "of navigational considerations of aircraft , surface vessels , and subsurface Vessels in their immediate vicinity",
+      "normalizedRoleHead" : "considerations",
+      "normalizedTrigger" : "mindful",
+      "roleHeadStartToken" : 166,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ab9d38e251a6807e12badf9fdbafafbb",
+      "roleInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain mindful [[of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity]].",
+      "roleStartToken" : 164,
+      "roleTokenLength" : 16,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "d4682ccba74e6abeb2be1e35214a6d94"
+    } ],
+    "triggerInContext" : "3. (SPECIFY force), when operating in confined waters, shall remain [[mindful]] of navigational considerations of aircraft, surface vessels, and subsurface Vessels in their immediate vicinity.",
+    "triggerStartToken" : 163,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 236,
+    "headTokenLength" : 1,
+    "id" : "08cbe7acb19dcc7a62ab3d1670f0a910",
+    "normalizedHead" : "readiness",
+    "normalizedTrigger" : "readiness",
+    "roles" : [ {
+      "normalizedRole" : "( SPECIFY force )",
+      "normalizedRoleHead" : "force",
+      "normalizedTrigger" : "readiness",
+      "roleHeadStartToken" : 240,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6e5d5359aa13f24261dd760b9225b413",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of [[(SPECIFY force)]] and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 238,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "08cbe7acb19dcc7a62ab3d1670f0a910"
+    } ],
+    "triggerInContext" : "This warning is published solely to advise of the heightened state of [[readiness]] of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 236,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 4,
+    "headTokenLength" : 1,
+    "id" : "786f11351813842a7d4dea705596b10a",
+    "normalizedHead" : "area",
+    "normalizedTrigger" : "warning area",
+    "roles" : [ {
+      "normalizedRole" : "warning",
+      "normalizedRoleHead" : "warning",
+      "normalizedTrigger" : "warning area",
+      "roleHeadStartToken" : 3,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "634f90cefbb8bed609783185b9cb0548",
+      "roleInContext" : "Model announcement - [[warning]] area",
+      "roleStartToken" : 3,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "786f11351813842a7d4dea705596b10a"
+    }, {
+      "normalizedRole" : "area",
+      "normalizedRoleHead" : "area",
+      "normalizedTrigger" : "warning area",
+      "roleHeadStartToken" : 4,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8e324ef9977c24b3c5dc4413b0986a6a",
+      "roleInContext" : "Model announcement - warning [[area]]",
+      "roleStartToken" : 4,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "786f11351813842a7d4dea705596b10a"
+    } ],
+    "triggerInContext" : "Model announcement - [[warning area]]",
+    "triggerStartToken" : 3,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 142,
+    "headTokenLength" : 1,
+    "id" : "9309272ec98acb81a2ccf38f7be15a5d",
+    "normalizedHead" : "help",
+    "normalizedTrigger" : "help",
+    "roles" : [ {
+      "normalizedRole" : "Aircraft , surface vessels , and subsurface vessels approaching ( SPECIFY force )",
+      "normalizedRoleHead" : "Aircraft",
+      "normalizedTrigger" : "help",
+      "roleHeadStartToken" : 119,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e0a93463c6cf8e81c8bcaa00bfb45359",
+      "roleInContext" : "[[Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force)]] will, by making prior contact as described above, help make their intentions clear.",
+      "roleStartToken" : 119,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "9309272ec98acb81a2ccf38f7be15a5d"
+    }, {
+      "normalizedRole" : "make their intentions clear",
+      "normalizedRoleHead" : "clear",
+      "normalizedTrigger" : "help",
+      "roleHeadStartToken" : 146,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5fe83ed191b4583f0a165c1717545e16",
+      "roleInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, help [[make their intentions clear]].",
+      "roleStartToken" : 143,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "9309272ec98acb81a2ccf38f7be15a5d"
+    } ],
+    "triggerInContext" : "Aircraft, surface vessels, and subsurface vessels approaching (SPECIFY force) will, by making prior contact as described above, [[help]] make their intentions clear.",
+    "triggerStartToken" : 142,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 62,
+    "headTokenLength" : 1,
+    "id" : "1b3990a1329b1d42c4b2b164595fb78f",
+    "normalizedHead" : "requested",
+    "normalizedTrigger" : "requested",
+    "roles" : [ {
+      "normalizedRole" : "all aircraft , surface vessels , and subsurface vessels approaching ( SPECIFY object e. g. oil platform , warship )",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "requested",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b17c7d6c8c3d0f178a4c8dce8cf71a8f",
+      "roleInContext" : "Consequently, [[all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship)]] are requested to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+      "roleStartToken" : 41,
+      "roleTokenLength" : 20,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "1b3990a1329b1d42c4b2b164595fb78f"
+    }, {
+      "normalizedRole" : "to maintain radio contact with ( SPECIFY force ) on bridge - to - bridge channel 16 , international air distress ( 121.5 MHZ VHF ) or military air distress ( 243.0 MHZ UHF )",
+      "normalizedRoleHead" : "maintain",
+      "normalizedTrigger" : "requested",
+      "roleHeadStartToken" : 64,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b8387b14478a2fd4797cd7cd7a279966",
+      "roleInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are requested [[to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF)]].",
+      "roleStartToken" : 63,
+      "roleTokenLength" : 35,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "1b3990a1329b1d42c4b2b164595fb78f"
+    } ],
+    "triggerInContext" : "Consequently, all aircraft, surface vessels, and subsurface vessels approaching (SPECIFY object e.g. oil platform, warship) are [[requested]] to maintain radio contact with (SPECIFY force) on bridge-to- bridge channel 16, international air distress (121.5 MHZ VHF) or military air distress (243.0 MHZ UHF).",
+    "triggerStartToken" : 62,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 247,
+    "headTokenLength" : 1,
+    "id" : "3a8170345282683da97f86bc78f75591",
+    "normalizedHead" : "contact",
+    "normalizedTrigger" : "contact",
+    "roles" : [ {
+      "normalizedRole" : "radio",
+      "normalizedRoleHead" : "radio",
+      "normalizedTrigger" : "contact",
+      "roleHeadStartToken" : 246,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "96ac18660a63a1a6ff3b768a8eea8f7e",
+      "roleInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that [[radio]] contact be maintained as outlined above.",
+      "roleStartToken" : 246,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "3a8170345282683da97f86bc78f75591"
+    } ],
+    "triggerInContext" : "This warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio [[contact]] be maintained as outlined above.",
+    "triggerStartToken" : 247,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 112,
+    "headTokenLength" : 1,
+    "id" : "1aac7c6abdbd39a5f512c11ac92873cd",
+    "normalizedHead" : "defence",
+    "normalizedTrigger" : "defence",
+    "roles" : [ {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "defence",
+      "roleHeadStartToken" : 110,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c4a194737e1cbba9cb17895008814da2",
+      "roleInContext" : "2. (SPECIFY force) will take appropriate measures in [[self]]-defence if warranted by the circumstances.",
+      "roleStartToken" : 110,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "1aac7c6abdbd39a5f512c11ac92873cd"
+    }, {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "defence",
+      "roleHeadStartToken" : 110,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3475daf1c53b98799676fe1029f131c4",
+      "roleInContext" : "2. (SPECIFY force) will take appropriate measures in [[self]]-defence if warranted by the circumstances.",
+      "roleStartToken" : 110,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "1aac7c6abdbd39a5f512c11ac92873cd"
+    } ],
+    "triggerInContext" : "2. (SPECIFY force) will take appropriate measures in self-[[defence]] if warranted by the circumstances.",
+    "triggerStartToken" : 112,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 225,
+    "headTokenLength" : 1,
+    "id" : "56a60d0a5f99349633138536446f64c7",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "This warning",
+    "roles" : [ {
+      "normalizedRole" : "This",
+      "normalizedRoleHead" : "This",
+      "normalizedTrigger" : "This warning",
+      "roleHeadStartToken" : 224,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "96080fde1fe6de5f8ee43190fe674777",
+      "roleInContext" : "[[This]] warning is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 224,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "56a60d0a5f99349633138536446f64c7"
+    }, {
+      "normalizedRole" : "warning",
+      "normalizedRoleHead" : "warning",
+      "normalizedTrigger" : "This warning",
+      "roleHeadStartToken" : 225,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d1477a16b8ffe7f135039a24eee60e0f",
+      "roleInContext" : "This [[warning]] is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 225,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "56a60d0a5f99349633138536446f64c7"
+    } ],
+    "triggerInContext" : "[[This warning]] is published solely to advise of the heightened state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 224,
+    "triggerTokenLength" : 2,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 233,
+    "headTokenLength" : 1,
+    "id" : "a203e0e57e931587f44f7e109117328e",
+    "normalizedHead" : "heightened",
+    "normalizedTrigger" : "heightened",
+    "roles" : [ {
+      "normalizedRole" : "state of readiness of ( SPECIFY force )",
+      "normalizedRoleHead" : "state",
+      "normalizedTrigger" : "heightened",
+      "roleHeadStartToken" : 234,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b77c5e41534176de6be9752bb58152f9",
+      "roleInContext" : "This warning is published solely to advise of the heightened [[state of readiness of (SPECIFY force)]] and to Request that radio contact be maintained as outlined above.",
+      "roleStartToken" : 234,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "a203e0e57e931587f44f7e109117328e"
+    } ],
+    "triggerInContext" : "This warning is published solely to advise of the [[heightened]] state of readiness of (SPECIFY force) and to Request that radio contact be maintained as outlined above.",
+    "triggerStartToken" : 233,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 202,
+    "headTokenLength" : 1,
+    "id" : "1538183b42951b21d8a7db6ae06ace63",
+    "normalizedHead" : "any",
+    "normalizedTrigger" : "any",
+    "roles" : [ {
+      "normalizedRole" : "any",
+      "normalizedRoleHead" : "any",
+      "normalizedTrigger" : "any",
+      "roleHeadStartToken" : 202,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "10dd7640376d17275835ab2ab487c0aa",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of [[any]] vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 202,
+      "roleTokenLength" : 1,
+      "roleType" : "LOGIC_MARKER#MARKER",
+      "triggerID" : "1538183b42951b21d8a7db6ae06ace63"
+    }, {
+      "normalizedRole" : "vessel or aircraft",
+      "normalizedRoleHead" : "aircraft",
+      "normalizedTrigger" : "any",
+      "roleHeadStartToken" : 205,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "16a8c3e609fcb03b47bec55be7903939",
+      "roleInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any [[vessel or aircraft]], or to limit or expand the right of self-defence of (SPECIFY force).",
+      "roleStartToken" : 203,
+      "roleTokenLength" : 3,
+      "roleType" : "LOGIC_MARKER#BASE_WORD",
+      "triggerID" : "1538183b42951b21d8a7db6ae06ace63"
+    } ],
+    "triggerInContext" : "4. Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of [[any]] vessel or aircraft, or to limit or expand the right of self-defence of (SPECIFY force).",
+    "triggerStartToken" : 202,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LOGIC_MARKER"
+  } ],
+  "label" : "Model announcement-warning area",
+  "raw" : "Model announcement - warning area\n\n1.  Due to (SPECIFY event or circumstances), (SPECIFY forces) are operating\nat a heightened state of readiness and taking additional defensive precautions\nagainst (SPECIFY threat).  Consequently, all aircraft, surface vessels, and\nsubsurface vessels approaching (SPECIFY object e.g. oil platform, warship)\nare requested to maintain radio contact with (SPECIFY force) on bridge-to-\nbridge channel 16, international air distress (121.5 MHZ VHF) or military air\ndistress (243.0 MHZ UHF).\n\n2.  (SPECIFY force) will take appropriate measures in self-defence if warranted\nby the circumstances.  Aircraft, surface vessels, and subsurface vessels\napproaching (SPECIFY force) will, by making prior contact as described above,\nhelp make their intentions clear.\n\n3.  (SPECIFY force), when operating in confined waters, shall remain mindful\nof navigational considerations of aircraft, surface vessels, and subsurface\nVessels in their immediate vicinity.\n\n4.  Nothing in this warning is intended to impede or otherwise interfere with the\nfreedom of navigation or overflight of any vessel or aircraft, or to limit or\nexpand the right of self-defence of (SPECIFY force).  This warning is published\nsolely to advise of the heightened state of readiness of (SPECIFY force) and to\nRequest that radio contact be maintained as outlined above.",
+  "sentences" : [ {
+    "normalized" : "Model announcement - warning area",
+    "offset" : 0,
+    "startToken" : 0,
+    "tokenLength" : 5
+  }, {
+    "normalized" : "1 . Due to ( SPECIFY event or circumstances ) , ( SPECIFY forces ) are operating at a heightened state of readiness and taking additional defensive precautions against ( SPECIFY threat ) .",
+    "offset" : 1,
+    "startToken" : 5,
+    "tokenLength" : 34
+  }, {
+    "normalized" : "Consequently , all aircraft , surface vessels , and subsurface vessels approaching ( SPECIFY object e. g. oil platform , warship ) are requested to maintain radio contact with ( SPECIFY force ) on bridge - to - bridge channel 16 , international air distress ( 121.5 MHZ VHF ) or military air distress ( 243.0 MHZ UHF ) .",
+    "offset" : 2,
+    "startToken" : 39,
+    "tokenLength" : 60
+  }, {
+    "normalized" : "2 . ( SPECIFY force ) will take appropriate measures in self - defence if warranted by the circumstances .",
+    "offset" : 3,
+    "startToken" : 99,
+    "tokenLength" : 20
+  }, {
+    "normalized" : "Aircraft , surface vessels , and subsurface vessels approaching ( SPECIFY force ) will , by making prior contact as described above , help make their intentions clear .",
+    "offset" : 4,
+    "startToken" : 119,
+    "tokenLength" : 29
+  }, {
+    "normalized" : "3 . ( SPECIFY force ) , when operating in confined waters , shall remain mindful of navigational considerations of aircraft , surface vessels , and subsurface Vessels in their immediate vicinity .",
+    "offset" : 5,
+    "startToken" : 148,
+    "tokenLength" : 33
+  }, {
+    "normalized" : "4 . Nothing in this warning is intended to impede or otherwise interfere with the freedom of navigation or overflight of any vessel or aircraft , or to limit or expand the right of self - defence of ( SPECIFY force ) .",
+    "offset" : 6,
+    "startToken" : 181,
+    "tokenLength" : 43
+  }, {
+    "normalized" : "This warning is published solely to advise of the heightened state of readiness of ( SPECIFY force ) and to Request that radio contact be maintained as outlined above .",
+    "offset" : 7,
+    "startToken" : 224,
+    "tokenLength" : 30
+  } ],
+  "tokens" : [ {
+    "charLength" : 5,
+    "normalized" : "Model",
+    "offset" : 0,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 0,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 12,
+    "normalized" : "announcement",
+    "offset" : 1,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 6,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 2,
+    "secondaryTokenTag" : "-",
+    "startChar" : 19,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "warning",
+    "offset" : 3,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 21,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 4,
+    "normalized" : "area",
+    "offset" : 4,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 29,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "1",
+    "offset" : 5,
+    "secondaryTokenTag" : "LS",
+    "startChar" : 35,
+    "tokenTag" : "LS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 6,
+    "secondaryTokenTag" : ".",
+    "startChar" : 36,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "Due",
+    "offset" : 7,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 39,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 8,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 43,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 9,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 46,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 10,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 47,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "event",
+    "offset" : 11,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 55,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 12,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 61,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 13,
+    "normalized" : "circumstances",
+    "offset" : 13,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 64,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 14,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 77,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 15,
+    "secondaryTokenTag" : ",",
+    "startChar" : 78,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 16,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 80,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 17,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 81,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 6,
+    "normalized" : "forces",
+    "offset" : 18,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 89,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 19,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 95,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "are",
+    "offset" : 20,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 97,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 9,
+    "normalized" : "operating",
+    "offset" : 21,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 101,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 2,
+    "normalized" : "at",
+    "offset" : 22,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 111,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "a",
+    "offset" : 23,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 114,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 10,
+    "normalized" : "heightened",
+    "offset" : 24,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 116,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "state",
+    "offset" : 25,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 127,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 26,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 133,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "readiness",
+    "offset" : 27,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 136,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 28,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 146,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 6,
+    "normalized" : "taking",
+    "offset" : 29,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 150,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 10,
+    "normalized" : "additional",
+    "offset" : 30,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 157,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 9,
+    "normalized" : "defensive",
+    "offset" : 31,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 168,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 11,
+    "normalized" : "precautions",
+    "offset" : 32,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 178,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 7,
+    "normalized" : "against",
+    "offset" : 33,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 190,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 34,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 198,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 35,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 199,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 6,
+    "normalized" : "threat",
+    "offset" : 36,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 207,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 37,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 213,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 38,
+    "secondaryTokenTag" : ".",
+    "startChar" : 214,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 12,
+    "normalized" : "Consequently",
+    "offset" : 39,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 217,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 40,
+    "secondaryTokenTag" : ",",
+    "startChar" : 229,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "all",
+    "offset" : 41,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 231,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 8,
+    "normalized" : "aircraft",
+    "offset" : 42,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 235,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 43,
+    "secondaryTokenTag" : ",",
+    "startChar" : 243,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "surface",
+    "offset" : 44,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 245,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "vessels",
+    "offset" : 45,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 253,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 46,
+    "secondaryTokenTag" : ",",
+    "startChar" : 260,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 47,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 262,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "subsurface",
+    "offset" : 48,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 266,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "vessels",
+    "offset" : 49,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 277,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 11,
+    "normalized" : "approaching",
+    "offset" : 50,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 285,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 51,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 297,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 52,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 298,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 6,
+    "normalized" : "object",
+    "offset" : 53,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 306,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "e.",
+    "offset" : 54,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 313,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "g.",
+    "offset" : 55,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 315,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "oil",
+    "offset" : 56,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 318,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "platform",
+    "offset" : 57,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 322,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 58,
+    "secondaryTokenTag" : ",",
+    "startChar" : 330,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "warship",
+    "offset" : 59,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 332,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 60,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 339,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "are",
+    "offset" : 61,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 341,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 9,
+    "normalized" : "requested",
+    "offset" : 62,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 345,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 63,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 355,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 8,
+    "normalized" : "maintain",
+    "offset" : 64,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 358,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "radio",
+    "offset" : 65,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 367,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "contact",
+    "offset" : 66,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 373,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 67,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 381,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 68,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 386,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 69,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 387,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "force",
+    "offset" : 70,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 395,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 71,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 400,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 2,
+    "normalized" : "on",
+    "offset" : 72,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 402,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 6,
+    "normalized" : "bridge",
+    "offset" : 73,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 405,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 74,
+    "secondaryTokenTag" : "-",
+    "startChar" : 411,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 75,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 412,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 76,
+    "secondaryTokenTag" : "-",
+    "startChar" : 414,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 6,
+    "normalized" : "bridge",
+    "offset" : 77,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 416,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "channel",
+    "offset" : 78,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 423,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "16",
+    "offset" : 79,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 431,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 80,
+    "secondaryTokenTag" : ",",
+    "startChar" : 433,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 13,
+    "normalized" : "international",
+    "offset" : 81,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 435,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 3,
+    "normalized" : "air",
+    "offset" : 82,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 449,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "distress",
+    "offset" : 83,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 453,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 84,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 462,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 5,
+    "normalized" : "121.5",
+    "offset" : 85,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 463,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 3,
+    "normalized" : "MHZ",
+    "offset" : 86,
+    "secondaryTokenTag" : "NNP",
+    "startChar" : 469,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "VHF",
+    "offset" : 87,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 473,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 88,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 476,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 89,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 478,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 8,
+    "normalized" : "military",
+    "offset" : 90,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 481,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 3,
+    "normalized" : "air",
+    "offset" : 91,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 490,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "distress",
+    "offset" : 92,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 494,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 93,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 503,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 5,
+    "normalized" : "243.0",
+    "offset" : 94,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 504,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 3,
+    "normalized" : "MHZ",
+    "offset" : 95,
+    "secondaryTokenTag" : "NNP",
+    "startChar" : 510,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "UHF",
+    "offset" : 96,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 514,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 97,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 517,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 98,
+    "secondaryTokenTag" : ".",
+    "startChar" : 518,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 1,
+    "normalized" : "2",
+    "offset" : 99,
+    "secondaryTokenTag" : "LS",
+    "startChar" : 521,
+    "tokenTag" : "LS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 100,
+    "secondaryTokenTag" : ".",
+    "startChar" : 522,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 101,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 525,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 102,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 526,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "force",
+    "offset" : 103,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 534,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 104,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 539,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 4,
+    "normalized" : "will",
+    "offset" : 105,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 541,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 4,
+    "normalized" : "take",
+    "offset" : 106,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 546,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 11,
+    "normalized" : "appropriate",
+    "offset" : 107,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 551,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "measures",
+    "offset" : 108,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 563,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 109,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 572,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "self",
+    "offset" : 110,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 575,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 111,
+    "secondaryTokenTag" : "-",
+    "startChar" : 579,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "defence",
+    "offset" : 112,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 580,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "if",
+    "offset" : 113,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 588,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "warranted",
+    "offset" : 114,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 591,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "by",
+    "offset" : 115,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 601,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 116,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 604,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 13,
+    "normalized" : "circumstances",
+    "offset" : 117,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 608,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 118,
+    "secondaryTokenTag" : ".",
+    "startChar" : 621,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 8,
+    "normalized" : "Aircraft",
+    "offset" : 119,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 624,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 120,
+    "secondaryTokenTag" : ",",
+    "startChar" : 632,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "surface",
+    "offset" : 121,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 634,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "vessels",
+    "offset" : 122,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 642,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 123,
+    "secondaryTokenTag" : ",",
+    "startChar" : 649,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 124,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 651,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "subsurface",
+    "offset" : 125,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 655,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "vessels",
+    "offset" : 126,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 666,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 11,
+    "normalized" : "approaching",
+    "offset" : 127,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 674,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 128,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 686,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 129,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 687,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "force",
+    "offset" : 130,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 695,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 131,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 700,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 4,
+    "normalized" : "will",
+    "offset" : 132,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 702,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 133,
+    "secondaryTokenTag" : ",",
+    "startChar" : 706,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 2,
+    "normalized" : "by",
+    "offset" : 134,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 708,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 6,
+    "normalized" : "making",
+    "offset" : 135,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 711,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 5,
+    "normalized" : "prior",
+    "offset" : 136,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 718,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "contact",
+    "offset" : 137,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 724,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "as",
+    "offset" : 138,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 732,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "described",
+    "offset" : 139,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 735,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "above",
+    "offset" : 140,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 745,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 141,
+    "secondaryTokenTag" : ",",
+    "startChar" : 750,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 4,
+    "normalized" : "help",
+    "offset" : 142,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 752,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 4,
+    "normalized" : "make",
+    "offset" : 143,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 757,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 5,
+    "normalized" : "their",
+    "offset" : 144,
+    "secondaryTokenTag" : "PRP$",
+    "startChar" : 762,
+    "tokenTag" : "PRP$"
+  }, {
+    "charLength" : 10,
+    "normalized" : "intentions",
+    "offset" : 145,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 768,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 5,
+    "normalized" : "clear",
+    "offset" : 146,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 779,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 147,
+    "secondaryTokenTag" : ".",
+    "startChar" : 784,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 1,
+    "normalized" : "3",
+    "offset" : 148,
+    "secondaryTokenTag" : "LS",
+    "startChar" : 787,
+    "tokenTag" : "LS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 149,
+    "secondaryTokenTag" : ".",
+    "startChar" : 788,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 150,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 791,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 151,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 792,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "force",
+    "offset" : 152,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 800,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 153,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 805,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 154,
+    "secondaryTokenTag" : ",",
+    "startChar" : 806,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 4,
+    "normalized" : "when",
+    "offset" : 155,
+    "secondaryTokenTag" : "WRB",
+    "startChar" : 808,
+    "tokenTag" : "WRB"
+  }, {
+    "charLength" : 9,
+    "normalized" : "operating",
+    "offset" : 156,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 813,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 157,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 823,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "confined",
+    "offset" : 158,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 826,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 6,
+    "normalized" : "waters",
+    "offset" : 159,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 835,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 160,
+    "secondaryTokenTag" : ",",
+    "startChar" : 841,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 5,
+    "normalized" : "shall",
+    "offset" : 161,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 843,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 6,
+    "normalized" : "remain",
+    "offset" : 162,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 849,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 7,
+    "normalized" : "mindful",
+    "offset" : 163,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 856,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 164,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 864,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 12,
+    "normalized" : "navigational",
+    "offset" : 165,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 867,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 14,
+    "normalized" : "considerations",
+    "offset" : 166,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 880,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 167,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 895,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "aircraft",
+    "offset" : 168,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 898,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 169,
+    "secondaryTokenTag" : ",",
+    "startChar" : 906,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 7,
+    "normalized" : "surface",
+    "offset" : 170,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 908,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "vessels",
+    "offset" : 171,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 916,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 172,
+    "secondaryTokenTag" : ",",
+    "startChar" : 923,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 173,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 925,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "subsurface",
+    "offset" : 174,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 929,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Vessels",
+    "offset" : 175,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 940,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 176,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 948,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "their",
+    "offset" : 177,
+    "secondaryTokenTag" : "PRP$",
+    "startChar" : 951,
+    "tokenTag" : "PRP$"
+  }, {
+    "charLength" : 9,
+    "normalized" : "immediate",
+    "offset" : 178,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 957,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "vicinity",
+    "offset" : 179,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 967,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 180,
+    "secondaryTokenTag" : ".",
+    "startChar" : 975,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 1,
+    "normalized" : "4",
+    "offset" : 181,
+    "secondaryTokenTag" : "LS",
+    "startChar" : 978,
+    "tokenTag" : "LS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 182,
+    "secondaryTokenTag" : ".",
+    "startChar" : 979,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 7,
+    "normalized" : "Nothing",
+    "offset" : 183,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 982,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 184,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 990,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "this",
+    "offset" : 185,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 993,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 7,
+    "normalized" : "warning",
+    "offset" : 186,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 998,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 187,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 1006,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "intended",
+    "offset" : 188,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 1009,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 189,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 1018,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "impede",
+    "offset" : 190,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1021,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 191,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 1028,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 9,
+    "normalized" : "otherwise",
+    "offset" : 192,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 1031,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 9,
+    "normalized" : "interfere",
+    "offset" : 193,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1041,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 194,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1051,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 195,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 1056,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 7,
+    "normalized" : "freedom",
+    "offset" : 196,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1060,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 197,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1068,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 10,
+    "normalized" : "navigation",
+    "offset" : 198,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1071,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 199,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 1082,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 10,
+    "normalized" : "overflight",
+    "offset" : 200,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1085,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 201,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1096,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "any",
+    "offset" : 202,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 1099,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "vessel",
+    "offset" : 203,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1103,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 204,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 1110,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 8,
+    "normalized" : "aircraft",
+    "offset" : 205,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1113,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 206,
+    "secondaryTokenTag" : ",",
+    "startChar" : 1121,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 207,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 1123,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 208,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 1126,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 5,
+    "normalized" : "limit",
+    "offset" : 209,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1129,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 210,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 1135,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 6,
+    "normalized" : "expand",
+    "offset" : 211,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1138,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 212,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 1145,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "right",
+    "offset" : 213,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1149,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 214,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1155,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "self",
+    "offset" : 215,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1158,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 216,
+    "secondaryTokenTag" : "-",
+    "startChar" : 1162,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "defence",
+    "offset" : 217,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1163,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 218,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1171,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 219,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 1174,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 220,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1175,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "force",
+    "offset" : 221,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1183,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 222,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 1188,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 223,
+    "secondaryTokenTag" : ".",
+    "startChar" : 1189,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 4,
+    "normalized" : "This",
+    "offset" : 224,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 1192,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 7,
+    "normalized" : "warning",
+    "offset" : 225,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1197,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 226,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 1205,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 9,
+    "normalized" : "published",
+    "offset" : 227,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 1208,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 6,
+    "normalized" : "solely",
+    "offset" : 228,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 1218,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 229,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 1225,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "advise",
+    "offset" : 230,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1228,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 231,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1235,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 232,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 1238,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 10,
+    "normalized" : "heightened",
+    "offset" : 233,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 1242,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "state",
+    "offset" : 234,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1253,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 235,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1259,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "readiness",
+    "offset" : 236,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1262,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 237,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1272,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 238,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 1275,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 239,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1276,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "force",
+    "offset" : 240,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1284,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 241,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 1289,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 242,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 1291,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 243,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 1295,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Request",
+    "offset" : 244,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1298,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 4,
+    "normalized" : "that",
+    "offset" : 245,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 1306,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "radio",
+    "offset" : 246,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1311,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "contact",
+    "offset" : 247,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1317,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "be",
+    "offset" : 248,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 1325,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 10,
+    "normalized" : "maintained",
+    "offset" : 249,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 1328,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "as",
+    "offset" : 250,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1339,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "outlined",
+    "offset" : 251,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 1342,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "above",
+    "offset" : 252,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 1351,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 253,
+    "secondaryTokenTag" : ".",
+    "startChar" : 1356,
+    "tokenTag" : "."
+  } ],
+  "zones" : [ {
+    "lastSentence" : 0,
+    "normalized" : "Model announcement - warning area",
+    "startSentence" : 0,
+    "type" : "Heading"
+  }, {
+    "lastSentence" : 7,
+    "normalized" : "Model announcement - warning area...maintained as outlined above .",
+    "startSentence" : 0,
+    "type" : "HeadingWithContent"
+  }, {
+    "lastSentence" : 2,
+    "normalized" : "1 . Due to (...243.0 MHZ UHF ) .",
+    "startSentence" : 1,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 7,
+    "normalized" : "1 . Due to (...maintained as outlined above .",
+    "startSentence" : 1,
+    "type" : "ListInDocument"
+  }, {
+    "lastSentence" : 4,
+    "normalized" : "2 . ( SPECIFY force...make their intentions clear .",
+    "startSentence" : 3,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 5,
+    "normalized" : "3 . ( SPECIFY force...in their immediate vicinity .",
+    "startSentence" : 5,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 7,
+    "normalized" : "4 . Nothing in this...maintained as outlined above .",
+    "startSentence" : 6,
+    "type" : "ListItemInDocument"
+  } ]
+}

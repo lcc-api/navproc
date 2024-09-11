@@ -1,0 +1,998 @@
+{
+  "frames" : [ {
+    "headStartToken" : 24,
+    "headTokenLength" : 1,
+    "id" : "41d56afb7fdad71f1b1fcf65ad91ca94",
+    "normalizedHead" : "verify",
+    "normalizedTrigger" : "verify",
+    "roles" : [ {
+      "normalizedRole" : "that the VRs were satisfactorily completed",
+      "normalizedRoleHead" : "completed",
+      "normalizedTrigger" : "verify",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9d1c7add488523d0a8345415a12e7814",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify [[that the VRs were satisfactorily completed]].",
+      "roleStartToken" : 25,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "41d56afb7fdad71f1b1fcf65ad91ca94"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to [[verify]] that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 24,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 14,
+    "headTokenLength" : 1,
+    "id" : "4ddd8edc53685008855a5c5125d40b1c",
+    "normalizedHead" : "all",
+    "normalizedTrigger" : "all",
+    "roles" : [ {
+      "normalizedRole" : "all",
+      "normalizedRoleHead" : "all",
+      "normalizedTrigger" : "all appropriate documentation",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "903d1ab7958447e75edca4ece9e5234e",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force [[all]] appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 1,
+      "roleType" : "LOGIC_MARKER#MARKER",
+      "triggerID" : "4ddd8edc53685008855a5c5125d40b1c"
+    }, {
+      "normalizedRole" : "appropriate documentation",
+      "normalizedRoleHead" : "documentation",
+      "normalizedTrigger" : "all appropriate documentation",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "85cdb2efaa5abc7a987db4c541cc0742",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all [[appropriate documentation]], including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 15,
+      "roleTokenLength" : 2,
+      "roleType" : "LOGIC_MARKER#BASE_WORD",
+      "triggerID" : "4ddd8edc53685008855a5c5125d40b1c"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force [[all]] appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 14,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LOGIC_MARKER"
+  }, {
+    "headStartToken" : 27,
+    "headTokenLength" : 1,
+    "id" : "6c74d79831b6c45ab954657d505329b8",
+    "normalizedHead" : "VRs",
+    "normalizedTrigger" : "VRs",
+    "roles" : [ ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the [[VRs]] were satisfactorily completed.",
+    "triggerStartToken" : 27,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 16,
+    "headTokenLength" : 1,
+    "id" : "15157ac44d41bbae8057b372a927c514",
+    "normalizedHead" : "documentation",
+    "normalizedTrigger" : "documentation",
+    "roles" : [ {
+      "normalizedRole" : "appropriate",
+      "normalizedRoleHead" : "appropriate",
+      "normalizedTrigger" : "documentation",
+      "roleHeadStartToken" : 15,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7569776f382e2b01d8d7647bd9c823ba",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all [[appropriate]] documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 15,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "15157ac44d41bbae8057b372a927c514"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force all appropriate [[documentation]], including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 16,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 13,
+    "headTokenLength" : 1,
+    "id" : "f40a8fc091d7a02da8ec9b9842c8f073",
+    "normalizedHead" : "Force",
+    "normalizedTrigger" : "Ship ’s Force",
+    "roles" : [ {
+      "normalizedRole" : "Ship",
+      "normalizedRoleHead" : "Ship",
+      "normalizedTrigger" : "Ship ’s Force",
+      "roleHeadStartToken" : 11,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "139b5f6dfcd72dfdd269c4c430becea4",
+      "roleInContext" : "The Surveyor will provide to [[Ship]]’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 11,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSOR",
+      "triggerID" : "f40a8fc091d7a02da8ec9b9842c8f073"
+    }, {
+      "normalizedRole" : "Force",
+      "normalizedRoleHead" : "Force",
+      "normalizedTrigger" : "Ship ’s Force",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3edf399a998913f4fce8a4c9f5c935f5",
+      "roleInContext" : "The Surveyor will provide to Ship’s [[Force]] all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 13,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSION",
+      "triggerID" : "f40a8fc091d7a02da8ec9b9842c8f073"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to [[Ship’s Force]] all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 11,
+    "triggerTokenLength" : 3,
+    "triggerType" : "POSSESSIVE"
+  }, {
+    "headStartToken" : 45,
+    "headTokenLength" : 1,
+    "id" : "75ad4dfd6e0a0d28079840e764ef3bcc",
+    "normalizedHead" : "request",
+    "normalizedTrigger" : "request",
+    "roles" : [ {
+      "normalizedRole" : "Departure from Specification",
+      "normalizedRoleHead" : "Departure",
+      "normalizedTrigger" : "request",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8fe26fae46dbeefd15e1f3ea3b60e952",
+      "roleInContext" : "As necessary, technical justification will be provided when a [[Departure from Specification]] request is required to be submitted.",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "75ad4dfd6e0a0d28079840e764ef3bcc"
+    } ],
+    "triggerInContext" : "As necessary, technical justification will be provided when a Departure from Specification [[request]] is required to be submitted.",
+    "triggerStartToken" : 45,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 36,
+    "headTokenLength" : 1,
+    "id" : "d9ab2b08d6521e288204515a822dc591",
+    "normalizedHead" : "justification",
+    "normalizedTrigger" : "justification",
+    "roles" : [ {
+      "normalizedRole" : "technical",
+      "normalizedRoleHead" : "technical",
+      "normalizedTrigger" : "justification",
+      "roleHeadStartToken" : 35,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1a9408e74dac6c9084f3a245121d5f92",
+      "roleInContext" : "As necessary, [[technical]] justification will be provided when a Departure from Specification request is required to be submitted.",
+      "roleStartToken" : 35,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "d9ab2b08d6521e288204515a822dc591"
+    } ],
+    "triggerInContext" : "As necessary, technical [[justification]] will be provided when a Departure from Specification request is required to be submitted.",
+    "triggerStartToken" : 36,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 42,
+    "headTokenLength" : 1,
+    "id" : "340340cfd8ba052c512c53407bc1161e",
+    "normalizedHead" : "Departure",
+    "normalizedTrigger" : "Departure",
+    "roles" : [ {
+      "normalizedRole" : "from Specification",
+      "normalizedRoleHead" : "Specification",
+      "normalizedTrigger" : "Departure",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f8aecc19fb0328f2add1db7c5abae040",
+      "roleInContext" : "As necessary, technical justification will be provided when a Departure [[from Specification]] request is required to be submitted.",
+      "roleStartToken" : 43,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "340340cfd8ba052c512c53407bc1161e"
+    } ],
+    "triggerInContext" : "As necessary, technical justification will be provided when a [[Departure]] from Specification request is required to be submitted.",
+    "triggerStartToken" : 42,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 9,
+    "headTokenLength" : 1,
+    "id" : "6bcaed300a4839a226ed11e27a4c9012",
+    "normalizedHead" : "provide",
+    "normalizedTrigger" : "provide",
+    "roles" : [ {
+      "normalizedRole" : "The Surveyor",
+      "normalizedRoleHead" : "Surveyor",
+      "normalizedTrigger" : "provide",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "873b0755c4ede49a2121595a53215c86",
+      "roleInContext" : "[[The Surveyor]] will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 6,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "6bcaed300a4839a226ed11e27a4c9012"
+    }, {
+      "normalizedRole" : "Ship ’s Force",
+      "normalizedRoleHead" : "Force",
+      "normalizedTrigger" : "provide",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "eeed519009c9dc9b8f493585db875fa4",
+      "roleInContext" : "The Surveyor will provide to [[Ship’s Force]] all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 11,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A2",
+      "triggerID" : "6bcaed300a4839a226ed11e27a4c9012"
+    }, {
+      "normalizedRole" : "all appropriate documentation",
+      "normalizedRoleHead" : "documentation",
+      "normalizedTrigger" : "provide",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "622b90ab3ab74fb964f57d2b49fb7c8f",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force [[all appropriate documentation]], including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "6bcaed300a4839a226ed11e27a4c9012"
+    } ],
+    "triggerInContext" : "The Surveyor will [[provide]] to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 9,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 4,
+    "headTokenLength" : 1,
+    "id" : "2d010736ae086add624c685c0e306d2b",
+    "normalizedHead" : "Meeting",
+    "normalizedTrigger" : "Meeting",
+    "roles" : [ {
+      "normalizedRole" : "Post - Production",
+      "normalizedRoleHead" : "Post - Production",
+      "normalizedTrigger" : "Meeting",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 3,
+      "roleID" : "a2279f0ba4f94f43542664dfe308f4e9",
+      "roleInContext" : "3.4.2.1.11 [[Post-Production]] Meeting.",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#TMP",
+      "triggerID" : "2d010736ae086add624c685c0e306d2b"
+    } ],
+    "triggerInContext" : "3.4.2.1.11 Post-Production [[Meeting]].",
+    "triggerStartToken" : 4,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 39,
+    "headTokenLength" : 1,
+    "id" : "140c6ab45ea5eee407b1a2698acccd8c",
+    "normalizedHead" : "provided",
+    "normalizedTrigger" : "provided",
+    "roles" : [ {
+      "normalizedRole" : "technical justification",
+      "normalizedRoleHead" : "justification",
+      "normalizedTrigger" : "provided",
+      "roleHeadStartToken" : 36,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4c5de71b16ec8aa0013d357991d50a03",
+      "roleInContext" : "As necessary, [[technical justification]] will be provided when a Departure from Specification request is required to be submitted.",
+      "roleStartToken" : 35,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "140c6ab45ea5eee407b1a2698acccd8c"
+    } ],
+    "triggerInContext" : "As necessary, technical justification will be [[provided]] when a Departure from Specification request is required to be submitted.",
+    "triggerStartToken" : 39,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 21,
+    "headTokenLength" : 1,
+    "id" : "63e8e0eb34c9a18e96fea46ea7bc926f",
+    "normalizedHead" : "evidence",
+    "normalizedTrigger" : "evidence",
+    "roles" : [ {
+      "normalizedRole" : "objective",
+      "normalizedRoleHead" : "objective",
+      "normalizedTrigger" : "evidence",
+      "roleHeadStartToken" : 19,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9316dfc935f725754c8339a9b1bbc267",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including [[objective]] quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "63e8e0eb34c9a18e96fea46ea7bc926f"
+    }, {
+      "normalizedRole" : "quality",
+      "normalizedRoleHead" : "quality",
+      "normalizedTrigger" : "evidence",
+      "roleHeadStartToken" : 20,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "548fc48f4b9326c73166f38af817885b",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective [[quality]] evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 20,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "63e8e0eb34c9a18e96fea46ea7bc926f"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality [[evidence]], to verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 21,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 18,
+    "headTokenLength" : 1,
+    "id" : "bf6ae2e2fc652eca12d3c6d41641553d",
+    "normalizedHead" : "including",
+    "normalizedTrigger" : "including",
+    "roles" : [ {
+      "normalizedRole" : "all appropriate documentation",
+      "normalizedRoleHead" : "documentation",
+      "normalizedTrigger" : "including",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "76003823b3a452141c07e48a52e95e7e",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force [[all appropriate documentation]], including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 3,
+      "roleType" : "MEMBERSHIP#GROUP",
+      "triggerID" : "bf6ae2e2fc652eca12d3c6d41641553d"
+    }, {
+      "normalizedRole" : "objective quality evidence",
+      "normalizedRoleHead" : "evidence",
+      "normalizedTrigger" : "including",
+      "roleHeadStartToken" : 21,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "3dd07db63d4c422c691d40e84c686b25",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including [[objective quality evidence]], to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 3,
+      "roleType" : "MEMBERSHIP#MEMBER",
+      "triggerID" : "bf6ae2e2fc652eca12d3c6d41641553d"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, [[including]] objective quality evidence, to verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 18,
+    "triggerTokenLength" : 1,
+    "triggerType" : "MEMBERSHIP"
+  }, {
+    "headStartToken" : 24,
+    "headTokenLength" : 1,
+    "id" : "3c32a09d519605c680bd26e636d7b5ef",
+    "normalizedHead" : "verify",
+    "normalizedTrigger" : "to",
+    "roles" : [ {
+      "normalizedRole" : "provide",
+      "normalizedRoleHead" : "provide",
+      "normalizedTrigger" : "to",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e0b9f26cc0be13f3bf180a79d9d533dd",
+      "roleInContext" : "The Surveyor will [[provide]] to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 9,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "3c32a09d519605c680bd26e636d7b5ef"
+    }, {
+      "normalizedRole" : "verify",
+      "normalizedRoleHead" : "verify",
+      "normalizedTrigger" : "to",
+      "roleHeadStartToken" : 24,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9569e17c382a1990e59488b3692eede9",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to [[verify]] that the VRs were satisfactorily completed.",
+      "roleStartToken" : 24,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "3c32a09d519605c680bd26e636d7b5ef"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, [[to]] verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 23,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 47,
+    "headTokenLength" : 1,
+    "id" : "011a53028a7c9411a8dc91f8dcd20e9a",
+    "normalizedHead" : "required",
+    "normalizedTrigger" : "required",
+    "roles" : [ {
+      "normalizedRole" : "to be submitted",
+      "normalizedRoleHead" : "submitted",
+      "normalizedTrigger" : "required",
+      "roleHeadStartToken" : 50,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "43928bb8c14948b010e7df3101afa174",
+      "roleInContext" : "As necessary, technical justification will be provided when a Departure from Specification request is required [[to be submitted]].",
+      "roleStartToken" : 48,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "011a53028a7c9411a8dc91f8dcd20e9a"
+    } ],
+    "triggerInContext" : "As necessary, technical justification will be provided when a Departure from Specification request is [[required]] to be submitted.",
+    "triggerStartToken" : 47,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 40,
+    "headTokenLength" : 1,
+    "id" : "54e1684c9db91149308116673f76c5e8",
+    "normalizedHead" : "when",
+    "normalizedTrigger" : "when",
+    "roles" : [ {
+      "normalizedRole" : "provided",
+      "normalizedRoleHead" : "provided",
+      "normalizedTrigger" : "when",
+      "roleHeadStartToken" : 39,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6e532df844fd449a43a5b536ee54b05c",
+      "roleInContext" : "As necessary, technical justification will be [[provided]] when a Departure from Specification request is required to be submitted.",
+      "roleStartToken" : 39,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "54e1684c9db91149308116673f76c5e8"
+    }, {
+      "normalizedRole" : "required",
+      "normalizedRoleHead" : "required",
+      "normalizedTrigger" : "when",
+      "roleHeadStartToken" : 47,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "940f5dc797f083e72ff02fb20c4c1db9",
+      "roleInContext" : "As necessary, technical justification will be provided when a Departure from Specification request is [[required]] to be submitted.",
+      "roleStartToken" : 47,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "54e1684c9db91149308116673f76c5e8"
+    } ],
+    "triggerInContext" : "As necessary, technical justification will be provided [[when]] a Departure from Specification request is required to be submitted.",
+    "triggerStartToken" : 40,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 44,
+    "headTokenLength" : 1,
+    "id" : "8af9176da26acfcc8d8fff8dd891e25b",
+    "normalizedHead" : "Specification",
+    "normalizedTrigger" : "Specification",
+    "roles" : [ ],
+    "triggerInContext" : "As necessary, technical justification will be provided when a Departure from [[Specification]] request is required to be submitted.",
+    "triggerStartToken" : 44,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 32,
+    "headTokenLength" : 1,
+    "id" : "ced7dd9915855d16cff18beea78f1546",
+    "normalizedHead" : "As",
+    "normalizedTrigger" : "As",
+    "roles" : [ {
+      "normalizedRole" : "necessary",
+      "normalizedRoleHead" : "necessary",
+      "normalizedTrigger" : "As",
+      "roleHeadStartToken" : 33,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "69ee5855ef360372fd1eaf14ba681efd",
+      "roleInContext" : "As [[necessary]], technical justification will be provided when a Departure from Specification request is required to be submitted.",
+      "roleStartToken" : 33,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "ced7dd9915855d16cff18beea78f1546"
+    }, {
+      "normalizedRole" : "provided",
+      "normalizedRoleHead" : "provided",
+      "normalizedTrigger" : "As",
+      "roleHeadStartToken" : 39,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4f6db9c95b243ed40d2a0c756ef7fbf9",
+      "roleInContext" : "As necessary, technical justification will be [[provided]] when a Departure from Specification request is required to be submitted.",
+      "roleStartToken" : 39,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "ced7dd9915855d16cff18beea78f1546"
+    } ],
+    "triggerInContext" : "[[As]] necessary, technical justification will be provided when a Departure from Specification request is required to be submitted.",
+    "triggerStartToken" : 32,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 7,
+    "headTokenLength" : 1,
+    "id" : "4e3b00bbe6895b0ed811bc23842c6018",
+    "normalizedHead" : "Surveyor",
+    "normalizedTrigger" : "Surveyor",
+    "roles" : [ {
+      "normalizedRole" : "Surveyor",
+      "normalizedRoleHead" : "Surveyor",
+      "normalizedTrigger" : "Surveyor",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f13ce5e4f14fd231b87fe6b548d572fe",
+      "roleInContext" : "The [[Surveyor]] will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+      "roleStartToken" : 7,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "4e3b00bbe6895b0ed811bc23842c6018"
+    } ],
+    "triggerInContext" : "The [[Surveyor]] will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily completed.",
+    "triggerStartToken" : 7,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 30,
+    "headTokenLength" : 1,
+    "id" : "e4f940eca4ee28d5336e9f05a86b8d8b",
+    "normalizedHead" : "completed",
+    "normalizedTrigger" : "completed",
+    "roles" : [ {
+      "normalizedRole" : "the VRs",
+      "normalizedRoleHead" : "VRs",
+      "normalizedTrigger" : "completed",
+      "roleHeadStartToken" : 27,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c5ec7e8e35c6592e1bc96e4a35ac1651",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that [[the VRs]] were satisfactorily completed.",
+      "roleStartToken" : 26,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "e4f940eca4ee28d5336e9f05a86b8d8b"
+    }, {
+      "normalizedRole" : "satisfactorily",
+      "normalizedRoleHead" : "satisfactorily",
+      "normalizedTrigger" : "completed",
+      "roleHeadStartToken" : 29,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "02d25424aa17db56b7e80f8e21576049",
+      "roleInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were [[satisfactorily]] completed.",
+      "roleStartToken" : 29,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "e4f940eca4ee28d5336e9f05a86b8d8b"
+    } ],
+    "triggerInContext" : "The Surveyor will provide to Ship’s Force all appropriate documentation, including objective quality evidence, to verify that the VRs were satisfactorily [[completed]].",
+    "triggerStartToken" : 30,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 33,
+    "headTokenLength" : 1,
+    "id" : "1f25dd90e0aa05e14a113131e53869f3",
+    "normalizedHead" : "necessary",
+    "normalizedTrigger" : "necessary",
+    "roles" : [ ],
+    "triggerInContext" : "As [[necessary]], technical justification will be provided when a Departure from Specification request is required to be submitted.",
+    "triggerStartToken" : 33,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 3,
+    "headTokenLength" : 1,
+    "id" : "c3223ed53ea0408126105781f1fe78a3",
+    "normalizedHead" : "Production",
+    "normalizedTrigger" : "Production",
+    "roles" : [ ],
+    "triggerInContext" : "3.4.2.1.11 Post-[[Production]] Meeting.",
+    "triggerStartToken" : 3,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 50,
+    "headTokenLength" : 1,
+    "id" : "e1e8c4f541bc2d46819141e52d9222ce",
+    "normalizedHead" : "submitted",
+    "normalizedTrigger" : "submitted",
+    "roles" : [ {
+      "normalizedRole" : "a Departure from Specification request",
+      "normalizedRoleHead" : "Departure",
+      "normalizedTrigger" : "submitted",
+      "roleHeadStartToken" : 42,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "91fb9ec25e5a3c28613c2b1d2ddbd1f2",
+      "roleInContext" : "As necessary, technical justification will be provided when [[a Departure from Specification request]] is required to be submitted.",
+      "roleStartToken" : 41,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "e1e8c4f541bc2d46819141e52d9222ce"
+    } ],
+    "triggerInContext" : "As necessary, technical justification will be provided when a Departure from Specification request is required to be [[submitted]].",
+    "triggerStartToken" : 50,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  } ],
+  "label" : "3.4.2.1.11 Post-Production Meeting.",
+  "raw" : "3.4.2.1.11  Post-Production Meeting.  The Surveyor will provide to Ship’s Force all appropriate\ndocumentation, including objective quality evidence, to verify that the VRs were satisfactorily\ncompleted.  As necessary, technical justification will be provided when a Departure from\nSpecification request is required to be submitted.",
+  "sentences" : [ {
+    "normalized" : "3.4.2.1.11 Post - Production Meeting .",
+    "offset" : 0,
+    "startToken" : 0,
+    "tokenLength" : 6
+  }, {
+    "normalized" : "The Surveyor will provide to Ship ’s Force all appropriate documentation , including objective quality evidence , to verify that the VRs were satisfactorily completed .",
+    "offset" : 1,
+    "startToken" : 6,
+    "tokenLength" : 26
+  }, {
+    "normalized" : "As necessary , technical justification will be provided when a Departure from Specification request is required to be submitted .",
+    "offset" : 2,
+    "startToken" : 32,
+    "tokenLength" : 20
+  } ],
+  "tokens" : [ {
+    "charLength" : 10,
+    "normalized" : "3.4.2.1.11",
+    "offset" : 0,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 0,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Post",
+    "offset" : 1,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 12,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 2,
+    "secondaryTokenTag" : "-",
+    "startChar" : 16,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 10,
+    "normalized" : "Production",
+    "offset" : 3,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 17,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Meeting",
+    "offset" : 4,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 28,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 5,
+    "secondaryTokenTag" : ".",
+    "startChar" : 35,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "The",
+    "offset" : 6,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 38,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 8,
+    "normalized" : "Surveyor",
+    "offset" : 7,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 42,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 4,
+    "normalized" : "will",
+    "offset" : 8,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 51,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 7,
+    "normalized" : "provide",
+    "offset" : 9,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 56,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 10,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 64,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Ship",
+    "offset" : 11,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 67,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "’s",
+    "offset" : 12,
+    "secondaryTokenTag" : "POS",
+    "startChar" : 71,
+    "tokenTag" : "POS"
+  }, {
+    "charLength" : 5,
+    "normalized" : "Force",
+    "offset" : 13,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 74,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "all",
+    "offset" : 14,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 80,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "appropriate",
+    "offset" : 15,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 84,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 13,
+    "normalized" : "documentation",
+    "offset" : 16,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 96,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 17,
+    "secondaryTokenTag" : ",",
+    "startChar" : 109,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 9,
+    "normalized" : "including",
+    "offset" : 18,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 111,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 9,
+    "normalized" : "objective",
+    "offset" : 19,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 121,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "quality",
+    "offset" : 20,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 131,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 8,
+    "normalized" : "evidence",
+    "offset" : 21,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 139,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 22,
+    "secondaryTokenTag" : ",",
+    "startChar" : 147,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 23,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 149,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "verify",
+    "offset" : 24,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 152,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 4,
+    "normalized" : "that",
+    "offset" : 25,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 159,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 26,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 164,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 3,
+    "normalized" : "VRs",
+    "offset" : 27,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 168,
+    "tokenTag" : "NNPS"
+  }, {
+    "charLength" : 4,
+    "normalized" : "were",
+    "offset" : 28,
+    "secondaryTokenTag" : "VBD",
+    "startChar" : 172,
+    "tokenTag" : "VBD"
+  }, {
+    "charLength" : 14,
+    "normalized" : "satisfactorily",
+    "offset" : 29,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 177,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 9,
+    "normalized" : "completed",
+    "offset" : 30,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 192,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 31,
+    "secondaryTokenTag" : ".",
+    "startChar" : 201,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 2,
+    "normalized" : "As",
+    "offset" : 32,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 204,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 9,
+    "normalized" : "necessary",
+    "offset" : 33,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 207,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 34,
+    "secondaryTokenTag" : ",",
+    "startChar" : 216,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 9,
+    "normalized" : "technical",
+    "offset" : 35,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 218,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 13,
+    "normalized" : "justification",
+    "offset" : 36,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 228,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "will",
+    "offset" : 37,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 242,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 2,
+    "normalized" : "be",
+    "offset" : 38,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 247,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 8,
+    "normalized" : "provided",
+    "offset" : 39,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 250,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "when",
+    "offset" : 40,
+    "secondaryTokenTag" : "WRB",
+    "startChar" : 259,
+    "tokenTag" : "WRB"
+  }, {
+    "charLength" : 1,
+    "normalized" : "a",
+    "offset" : 41,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 264,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 9,
+    "normalized" : "Departure",
+    "offset" : 42,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 266,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "from",
+    "offset" : 43,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 276,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 13,
+    "normalized" : "Specification",
+    "offset" : 44,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 281,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "request",
+    "offset" : 45,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 295,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 46,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 303,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "required",
+    "offset" : 47,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 306,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 48,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 315,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 2,
+    "normalized" : "be",
+    "offset" : 49,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 318,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 9,
+    "normalized" : "submitted",
+    "offset" : 50,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 321,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 51,
+    "secondaryTokenTag" : ".",
+    "startChar" : 330,
+    "tokenTag" : "."
+  } ],
+  "zones" : [ {
+    "lastSentence" : 0,
+    "normalized" : "3.4.2.1.11 Post - Production Meeting .",
+    "startSentence" : 0,
+    "type" : "Heading"
+  }, {
+    "lastSentence" : 2,
+    "normalized" : "3.4.2.1.11 Post - Production Meeting...required to be submitted .",
+    "startSentence" : 0,
+    "type" : "HeadingWithContent"
+  } ]
+}

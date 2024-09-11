@@ -1,0 +1,704 @@
+{
+  "frames" : [ {
+    "headStartToken" : 1,
+    "headTokenLength" : 1,
+    "id" : "50de868e7a4b6643a6978ee1ed2494d9",
+    "normalizedHead" : "Assessment",
+    "normalizedTrigger" : "Assessment",
+    "roles" : [ ],
+    "triggerInContext" : "3.4.2.1.12 [[Assessment]] Report.",
+    "triggerStartToken" : 1,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 26,
+    "headTokenLength" : 1,
+    "id" : "39236bb746954690a64c71726efa871e",
+    "normalizedHead" : "transmission",
+    "normalizedTrigger" : "transmission",
+    "roles" : [ {
+      "normalizedRole" : "via message or e - mail",
+      "normalizedRoleHead" : "mail",
+      "normalizedTrigger" : "transmission",
+      "roleHeadStartToken" : 32,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b398f888d468ae2546142eee47e82b7a",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission [[via message or e- mail]].",
+      "roleStartToken" : 27,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "39236bb746954690a64c71726efa871e"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for [[transmission]] via message or e- mail.",
+    "triggerStartToken" : 26,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 25,
+    "headTokenLength" : 1,
+    "id" : "592da8c70a470aa360e326ea9477b343",
+    "normalizedHead" : "for",
+    "normalizedTrigger" : "for",
+    "roles" : [ {
+      "normalizedRole" : "transmit",
+      "normalizedRoleHead" : "transmit",
+      "normalizedTrigger" : "for",
+      "roleHeadStartToken" : 18,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bea51edaceb92e0a19ecf3d94fe96a98",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and [[transmit]] a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 18,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "592da8c70a470aa360e326ea9477b343"
+    }, {
+      "normalizedRole" : "transmission",
+      "normalizedRoleHead" : "transmission",
+      "normalizedTrigger" : "for",
+      "roleHeadStartToken" : 26,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e5074a0764f3499d9f02ba968b694f48",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for [[transmission]] via message or e- mail.",
+      "roleStartToken" : 26,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "592da8c70a470aa360e326ea9477b343"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report [[for]] transmission via message or e- mail.",
+    "triggerStartToken" : 25,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 24,
+    "headTokenLength" : 1,
+    "id" : "3da294fa613c7bec115084f56758ab0d",
+    "normalizedHead" : "Report",
+    "normalizedTrigger" : "Report",
+    "roles" : [ {
+      "normalizedRole" : "Post - VR Assessment",
+      "normalizedRoleHead" : "Assessment",
+      "normalizedTrigger" : "Report",
+      "roleHeadStartToken" : 23,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "59f48cb44a3cc4fc41c5e0f111bbe15b",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a [[Post-VR Assessment]] Report for transmission via message or e- mail.",
+      "roleStartToken" : 20,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "3da294fa613c7bec115084f56758ab0d"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment [[Report]] for transmission via message or e- mail.",
+    "triggerStartToken" : 24,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 17,
+    "headTokenLength" : 1,
+    "id" : "4ad0237ce2bfc39ce412577d9368870d",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "generate",
+      "normalizedRoleHead" : "generate",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e23670fe7190fb0fe45ebddab1949eab",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must [[generate]] and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 16,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "4ad0237ce2bfc39ce412577d9368870d"
+    }, {
+      "normalizedRole" : "transmit",
+      "normalizedRoleHead" : "transmit",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 18,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8294ebcf55daafed3c64d737161029ff",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and [[transmit]] a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 18,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "4ad0237ce2bfc39ce412577d9368870d"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate [[and]] transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 17,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 18,
+    "headTokenLength" : 1,
+    "id" : "4c94f232b17fb88f9a28cd5efc382358",
+    "normalizedHead" : "transmit",
+    "normalizedTrigger" : "transmit",
+    "roles" : [ {
+      "normalizedRole" : "Ship ’s Force",
+      "normalizedRoleHead" : "Force",
+      "normalizedTrigger" : "transmit",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e6430d479c12f2bb5d24479490033b1a",
+      "roleInContext" : "Following the completion of the VR Availability, [[Ship’s Force]] must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "4c94f232b17fb88f9a28cd5efc382358"
+    }, {
+      "normalizedRole" : "a Post - VR Assessment Report",
+      "normalizedRoleHead" : "Report",
+      "normalizedTrigger" : "transmit",
+      "roleHeadStartToken" : 24,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "32feddd2748d85585246ad6de065822b",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit [[a Post-VR Assessment Report]] for transmission via message or e- mail.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "4c94f232b17fb88f9a28cd5efc382358"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and [[transmit]] a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 18,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 32,
+    "headTokenLength" : 1,
+    "id" : "6fa2e43c4615183572ca13c88ca8fdf6",
+    "normalizedHead" : "mail",
+    "normalizedTrigger" : "e - mail",
+    "roles" : [ ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or [[e- mail]].",
+    "triggerStartToken" : 30,
+    "triggerTokenLength" : 3,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 9,
+    "headTokenLength" : 1,
+    "id" : "7c0c358a639edb3eaa1a467ed5643773",
+    "normalizedHead" : "VR",
+    "normalizedTrigger" : "VR",
+    "roles" : [ ],
+    "triggerInContext" : "Following the completion of the [[VR]] Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 9,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 22,
+    "headTokenLength" : 1,
+    "id" : "580bb527956d0655e7e239d3068998ed",
+    "normalizedHead" : "VR",
+    "normalizedTrigger" : "VR",
+    "roles" : [ ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-[[VR]] Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 22,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 14,
+    "headTokenLength" : 1,
+    "id" : "1ccdb2feea2ee45bab0d3a39ff3a2b04",
+    "normalizedHead" : "Force",
+    "normalizedTrigger" : "Ship ’s Force",
+    "roles" : [ {
+      "normalizedRole" : "Ship",
+      "normalizedRoleHead" : "Ship",
+      "normalizedTrigger" : "Ship ’s Force",
+      "roleHeadStartToken" : 12,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "18d2cfe206cb07d930f3dafde9bf6d95",
+      "roleInContext" : "Following the completion of the VR Availability, [[Ship]]’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSOR",
+      "triggerID" : "1ccdb2feea2ee45bab0d3a39ff3a2b04"
+    }, {
+      "normalizedRole" : "Force",
+      "normalizedRoleHead" : "Force",
+      "normalizedTrigger" : "Ship ’s Force",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c2b0ef147cb656fd5b5b7b53e61a8e5d",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s [[Force]] must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSION",
+      "triggerID" : "1ccdb2feea2ee45bab0d3a39ff3a2b04"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, [[Ship’s Force]] must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 12,
+    "triggerTokenLength" : 3,
+    "triggerType" : "POSSESSIVE"
+  }, {
+    "headStartToken" : 28,
+    "headTokenLength" : 1,
+    "id" : "672f7239b9173a85555fe4e9d0c1827b",
+    "normalizedHead" : "message",
+    "normalizedTrigger" : "message",
+    "roles" : [ ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via [[message]] or e- mail.",
+    "triggerStartToken" : 28,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 16,
+    "headTokenLength" : 1,
+    "id" : "01e11004bea91153afffed2d0c7741d1",
+    "normalizedHead" : "generate",
+    "normalizedTrigger" : "generate",
+    "roles" : [ {
+      "normalizedRole" : "Ship ’s Force",
+      "normalizedRoleHead" : "Force",
+      "normalizedTrigger" : "generate",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9c32db49b0df03aeb5be12d59babd27e",
+      "roleInContext" : "Following the completion of the VR Availability, [[Ship’s Force]] must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 12,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "01e11004bea91153afffed2d0c7741d1"
+    }, {
+      "normalizedRole" : "a Post - VR Assessment Report",
+      "normalizedRoleHead" : "Report",
+      "normalizedTrigger" : "generate",
+      "roleHeadStartToken" : 24,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2da253fe2fb3db1ac5d97d4644092f40",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit [[a Post-VR Assessment Report]] for transmission via message or e- mail.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 6,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "01e11004bea91153afffed2d0c7741d1"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must [[generate]] and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 16,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 29,
+    "headTokenLength" : 1,
+    "id" : "a1885f102dee10d751b2a8e9204df928",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "message",
+      "normalizedRoleHead" : "message",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 28,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "31d9c7305f9dd0d61e6bfd9dc9138e72",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via [[message]] or e- mail.",
+      "roleStartToken" : 28,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "a1885f102dee10d751b2a8e9204df928"
+    }, {
+      "normalizedRole" : "e - mail",
+      "normalizedRoleHead" : "mail",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 32,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5c1b91b2e16e78521fda62ca030541fc",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or [[e- mail]].",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 3,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "a1885f102dee10d751b2a8e9204df928"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message [[or]] e- mail.",
+    "triggerStartToken" : 29,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 4,
+    "headTokenLength" : 1,
+    "id" : "0ec5e052e40ef4de402782ebe9149300",
+    "normalizedHead" : "Following",
+    "normalizedTrigger" : "Following",
+    "roles" : [ {
+      "normalizedRole" : "completion",
+      "normalizedRoleHead" : "completion",
+      "normalizedTrigger" : "Following",
+      "roleHeadStartToken" : 6,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "31c080f7c2cd4d81b4124bb38154f645",
+      "roleInContext" : "Following the [[completion]] of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 6,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "0ec5e052e40ef4de402782ebe9149300"
+    }, {
+      "normalizedRole" : "generate",
+      "normalizedRoleHead" : "generate",
+      "normalizedTrigger" : "Following",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4da394502b32c8eb19bb5d679eb0809a",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must [[generate]] and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 16,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "0ec5e052e40ef4de402782ebe9149300"
+    } ],
+    "triggerInContext" : "[[Following]] the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 4,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 2,
+    "headTokenLength" : 1,
+    "id" : "af1c326e94d5baf48271018455fedaed",
+    "normalizedHead" : "Report",
+    "normalizedTrigger" : "Report",
+    "roles" : [ {
+      "normalizedRole" : "Assessment",
+      "normalizedRoleHead" : "Assessment",
+      "normalizedTrigger" : "Report",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "edced13822059d52e4e0f7d7714cc665",
+      "roleInContext" : "3.4.2.1.12 [[Assessment]] Report.",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "af1c326e94d5baf48271018455fedaed"
+    } ],
+    "triggerInContext" : "3.4.2.1.12 Assessment [[Report]].",
+    "triggerStartToken" : 2,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 23,
+    "headTokenLength" : 1,
+    "id" : "da45a4d4dde850f794930ddfb75a4b06",
+    "normalizedHead" : "Assessment",
+    "normalizedTrigger" : "Assessment",
+    "roles" : [ {
+      "normalizedRole" : "Post - VR",
+      "normalizedRoleHead" : "Post - VR",
+      "normalizedTrigger" : "Assessment",
+      "roleHeadStartToken" : 20,
+      "roleHeadTokenLength" : 3,
+      "roleID" : "2c35a095f0e65a9a6e3ee1c919c0d8d9",
+      "roleInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a [[Post-VR]] Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 20,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#TMP",
+      "triggerID" : "da45a4d4dde850f794930ddfb75a4b06"
+    } ],
+    "triggerInContext" : "Following the completion of the VR Availability, Ship’s Force must generate and transmit a Post-VR [[Assessment]] Report for transmission via message or e- mail.",
+    "triggerStartToken" : 23,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 10,
+    "headTokenLength" : 1,
+    "id" : "73fc372eaa92fa9d9f2e5e1717fce74b",
+    "normalizedHead" : "Availability",
+    "normalizedTrigger" : "Availability",
+    "roles" : [ {
+      "normalizedRole" : "VR",
+      "normalizedRoleHead" : "VR",
+      "normalizedTrigger" : "Availability",
+      "roleHeadStartToken" : 9,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "16c6ff1ced19470f352b42e37be37e30",
+      "roleInContext" : "Following the completion of the [[VR]] Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 9,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "73fc372eaa92fa9d9f2e5e1717fce74b"
+    } ],
+    "triggerInContext" : "Following the completion of the VR [[Availability]], Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 10,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 6,
+    "headTokenLength" : 1,
+    "id" : "33977d0bcc38f3b1d9d5b1f08a4abe31",
+    "normalizedHead" : "completion",
+    "normalizedTrigger" : "completion",
+    "roles" : [ {
+      "normalizedRole" : "the VR Availability",
+      "normalizedRoleHead" : "Availability",
+      "normalizedTrigger" : "completion",
+      "roleHeadStartToken" : 10,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0abef9199ed5d4eda41179e4d12b9342",
+      "roleInContext" : "Following the completion of [[the VR Availability]], Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+      "roleStartToken" : 8,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "33977d0bcc38f3b1d9d5b1f08a4abe31"
+    } ],
+    "triggerInContext" : "Following the [[completion]] of the VR Availability, Ship’s Force must generate and transmit a Post-VR Assessment Report for transmission via message or e- mail.",
+    "triggerStartToken" : 6,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  } ],
+  "label" : "3.4.2.1.12 Assessment Report.",
+  "raw" : "3.4.2.1.12  Assessment Report.  Following the completion of the VR Availability, Ship’s Force\nmust generate and transmit a Post-VR Assessment Report for transmission via message or e-\nmail.",
+  "sentences" : [ {
+    "normalized" : "3.4.2.1.12 Assessment Report .",
+    "offset" : 0,
+    "startToken" : 0,
+    "tokenLength" : 4
+  }, {
+    "normalized" : "Following the completion of the VR Availability , Ship ’s Force must generate and transmit a Post - VR Assessment Report for transmission via message or e - mail .",
+    "offset" : 1,
+    "startToken" : 4,
+    "tokenLength" : 30
+  } ],
+  "tokens" : [ {
+    "charLength" : 10,
+    "normalized" : "3.4.2.1.12",
+    "offset" : 0,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 0,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 10,
+    "normalized" : "Assessment",
+    "offset" : 1,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 12,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 6,
+    "normalized" : "Report",
+    "offset" : 2,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 23,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 3,
+    "secondaryTokenTag" : ".",
+    "startChar" : 29,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 9,
+    "normalized" : "Following",
+    "offset" : 4,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 32,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 5,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 42,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 10,
+    "normalized" : "completion",
+    "offset" : 6,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 46,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 7,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 57,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 8,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 60,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 2,
+    "normalized" : "VR",
+    "offset" : 9,
+    "secondaryTokenTag" : "NNP",
+    "startChar" : 64,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 12,
+    "normalized" : "Availability",
+    "offset" : 10,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 67,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 11,
+    "secondaryTokenTag" : ",",
+    "startChar" : 79,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 4,
+    "normalized" : "Ship",
+    "offset" : 12,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 81,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "’s",
+    "offset" : 13,
+    "secondaryTokenTag" : "POS",
+    "startChar" : 85,
+    "tokenTag" : "POS"
+  }, {
+    "charLength" : 5,
+    "normalized" : "Force",
+    "offset" : 14,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 88,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 4,
+    "normalized" : "must",
+    "offset" : 15,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 94,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 8,
+    "normalized" : "generate",
+    "offset" : 16,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 99,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 17,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 108,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 8,
+    "normalized" : "transmit",
+    "offset" : 18,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 112,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 1,
+    "normalized" : "a",
+    "offset" : 19,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 121,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Post",
+    "offset" : 20,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 123,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 21,
+    "secondaryTokenTag" : "-",
+    "startChar" : 127,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 2,
+    "normalized" : "VR",
+    "offset" : 22,
+    "secondaryTokenTag" : "NNP",
+    "startChar" : 128,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 10,
+    "normalized" : "Assessment",
+    "offset" : 23,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 131,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 6,
+    "normalized" : "Report",
+    "offset" : 24,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 142,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "for",
+    "offset" : 25,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 149,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 12,
+    "normalized" : "transmission",
+    "offset" : 26,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 153,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "via",
+    "offset" : 27,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 166,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "message",
+    "offset" : 28,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 170,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 29,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 178,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 1,
+    "normalized" : "e",
+    "offset" : 30,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 181,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 31,
+    "secondaryTokenTag" : "-",
+    "startChar" : 182,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 4,
+    "normalized" : "mail",
+    "offset" : 32,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 184,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 33,
+    "secondaryTokenTag" : ".",
+    "startChar" : 188,
+    "tokenTag" : "."
+  } ],
+  "zones" : [ {
+    "lastSentence" : 0,
+    "normalized" : "3.4.2.1.12 Assessment Report .",
+    "startSentence" : 0,
+    "type" : "Heading"
+  }, {
+    "lastSentence" : 1,
+    "normalized" : "3.4.2.1.12 Assessment Report . Following...or e - mail .",
+    "startSentence" : 0,
+    "type" : "HeadingWithContent"
+  } ]
+}

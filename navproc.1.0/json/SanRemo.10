@@ -1,0 +1,3719 @@
+{
+  "frames" : [ {
+    "headStartToken" : 126,
+    "headTokenLength" : 1,
+    "id" : "2d179679e42347d970ee0483357b77d8",
+    "normalizedHead" : "provided",
+    "normalizedTrigger" : "provided",
+    "roles" : [ {
+      "normalizedRole" : "Model announcements",
+      "normalizedRoleHead" : "announcements",
+      "normalizedTrigger" : "provided",
+      "roleHeadStartToken" : 124,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "71f4b1cca1645943039dfca5c4f37ced",
+      "roleInContext" : "5.3 [[Model announcements]] are provided for two types of zones:",
+      "roleStartToken" : 123,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "2d179679e42347d970ee0483357b77d8"
+    }, {
+      "normalizedRole" : "for two types of zones",
+      "normalizedRoleHead" : "types",
+      "normalizedTrigger" : "provided",
+      "roleHeadStartToken" : 129,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "304136cc38f4a8ff2cb5443cbb0df0d3",
+      "roleInContext" : "5.3 Model announcements are provided [[for two types of zones]]:",
+      "roleStartToken" : 127,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "2d179679e42347d970ee0483357b77d8"
+    } ],
+    "triggerInContext" : "5.3 Model announcements are [[provided]] for two types of zones:",
+    "triggerStartToken" : 126,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 152,
+    "headTokenLength" : 1,
+    "id" : "c87c1ac837931aaa2ad9f20413a8907c",
+    "normalizedHead" : "Where",
+    "normalizedTrigger" : "Where",
+    "roles" : [ {
+      "normalizedRole" : "included",
+      "normalizedRoleHead" : "included",
+      "normalizedTrigger" : "Where",
+      "roleHeadStartToken" : 159,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "33913e6f9a5c9ff0a6db3afad1614893",
+      "roleInContext" : "5.4 Where the term (SPECIFY) is [[included]], detail must be inserted to clarify the meaning of the provision.",
+      "roleStartToken" : 159,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "c87c1ac837931aaa2ad9f20413a8907c"
+    }, {
+      "normalizedRole" : "inserted",
+      "normalizedRoleHead" : "inserted",
+      "normalizedTrigger" : "Where",
+      "roleHeadStartToken" : 164,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2d621d40f3bbf758cdca89bdb34b1823",
+      "roleInContext" : "5.4 Where the term (SPECIFY) is included, detail must be [[inserted]] to clarify the meaning of the provision.",
+      "roleStartToken" : 164,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "c87c1ac837931aaa2ad9f20413a8907c"
+    } ],
+    "triggerInContext" : "5.4 [[Where]] the term (SPECIFY) is included, detail must be inserted to clarify the meaning of the provision.",
+    "triggerStartToken" : 152,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 118,
+    "headTokenLength" : 1,
+    "id" : "abefd837ce257cb0810e8ca8b8b2ab6d",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "a Notice to Mariners ( NOTMAR ) , Notice to Airmen ( NOTAM ) , or similar announcement",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 104,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a90d286f1aa7f7b179534715f306d653",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through [[a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement]].",
+      "roleStartToken" : 103,
+      "roleTokenLength" : 18,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "abefd837ce257cb0810e8ca8b8b2ab6d"
+    }, {
+      "normalizedRole" : "a Notice to Mariners ( NOTMAR )",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 104,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "47673593eaae589dc887e431ae0cfbb0",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through [[a Notice to Mariners (NOTMAR)]], Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 103,
+      "roleTokenLength" : 7,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "abefd837ce257cb0810e8ca8b8b2ab6d"
+    }, {
+      "normalizedRole" : "Notice to Airmen ( NOTAM )",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 111,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5b6468e0ffd6a8b4a3cf538927f9ce27",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), [[Notice to Airmen (NOTAM)]], or similar announcement.",
+      "roleStartToken" : 111,
+      "roleTokenLength" : 6,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "abefd837ce257cb0810e8ca8b8b2ab6d"
+    }, {
+      "normalizedRole" : "similar announcement",
+      "normalizedRoleHead" : "announcement",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 120,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "fed2f72fb4b2a79718107d367d979cc9",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or [[similar announcement]].",
+      "roleStartToken" : 119,
+      "roleTokenLength" : 2,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "abefd837ce257cb0810e8ca8b8b2ab6d"
+    } ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), [[or]] similar announcement.",
+    "triggerStartToken" : 118,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 98,
+    "headTokenLength" : 1,
+    "id" : "61a452aa532e14767849225195dcc35c",
+    "normalizedHead" : "Zones",
+    "normalizedTrigger" : "Warning Zones",
+    "roles" : [ {
+      "normalizedRole" : "Warning",
+      "normalizedRoleHead" : "Warning",
+      "normalizedTrigger" : "Warning Zones",
+      "roleHeadStartToken" : 97,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "de49427483398c546277e66261b8b4bb",
+      "roleInContext" : "5.2 Maritime [[Warning]] Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 97,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "61a452aa532e14767849225195dcc35c"
+    }, {
+      "normalizedRole" : "Zones",
+      "normalizedRoleHead" : "Zones",
+      "normalizedTrigger" : "Warning Zones",
+      "roleHeadStartToken" : 98,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "28d6dcd86fde39feff3233654fcc72e2",
+      "roleInContext" : "5.2 Maritime Warning [[Zones]] are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 98,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "61a452aa532e14767849225195dcc35c"
+    } ],
+    "triggerInContext" : "5.2 Maritime [[Warning Zones]] are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+    "triggerStartToken" : 97,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 132,
+    "headTokenLength" : 1,
+    "id" : "ae680123a9aee004e6da9bf07d9d8c16",
+    "normalizedHead" : ":",
+    "normalizedTrigger" : ":",
+    "roles" : [ {
+      "normalizedRole" : "two types of zones :",
+      "normalizedRoleHead" : "types",
+      "normalizedTrigger" : "two types of zones :",
+      "roleHeadStartToken" : 129,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "49b4e98814320893837990463c66bce4",
+      "roleInContext" : "5.3 Model announcements are provided for [[two types of zones:]] a. Warning Area in International Waters. b. Warning Area and Exclusion Zone in the Territorial Sea.",
+      "roleStartToken" : 128,
+      "roleTokenLength" : 5,
+      "roleType" : "LIST_CONTAINMENT#GROUP",
+      "triggerID" : "ae680123a9aee004e6da9bf07d9d8c16"
+    }, {
+      "normalizedRole" : "Warning Area in International Waters",
+      "normalizedRoleHead" : "Area",
+      "normalizedTrigger" : "two types of zones :",
+      "roleHeadStartToken" : 135,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0a45967319dbbab325be44a710838036",
+      "roleInContext" : "5.3 Model announcements are provided for two types of zones: a. [[Warning Area in International Waters]]. b. Warning Area and Exclusion Zone in the Territorial Sea.",
+      "roleStartToken" : 134,
+      "roleTokenLength" : 5,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "ae680123a9aee004e6da9bf07d9d8c16"
+    }, {
+      "normalizedRole" : "Warning Area and Exclusion Zone in the Territorial Sea",
+      "normalizedRoleHead" : "Zone",
+      "normalizedTrigger" : "two types of zones :",
+      "roleHeadStartToken" : 145,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e72666746231f13870e6e39494bb3ec5",
+      "roleInContext" : "5.3 Model announcements are provided for two types of zones: a. Warning Area in International Waters. b. [[Warning Area and Exclusion Zone in the Territorial Sea]].",
+      "roleStartToken" : 141,
+      "roleTokenLength" : 9,
+      "roleType" : "LIST_CONTAINMENT#MEMBER",
+      "triggerID" : "ae680123a9aee004e6da9bf07d9d8c16"
+    } ],
+    "triggerInContext" : "5.3 Model announcements are provided for two types of zones[[:]] a. Warning Area in International Waters. b. Warning Area and Exclusion Zone in the Territorial Sea.",
+    "triggerStartToken" : 132,
+    "triggerTokenLength" : 1,
+    "triggerType" : "LIST_CONTAINMENT"
+  }, {
+    "headStartToken" : 41,
+    "headTokenLength" : 1,
+    "id" : "dcc9f15957d3d29b68b6d17c3b1123a8",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "with the means to enhance the self - defence and force protection posture of their assets",
+      "normalizedRoleHead" : "means",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 26,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9273bd128599442fba194609af443f48",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders [[with the means to enhance the self-defence and force protection posture of their assets]], and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 24,
+      "roleTokenLength" : 16,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "dcc9f15957d3d29b68b6d17c3b1123a8"
+    }, {
+      "normalizedRole" : "with the means to announce potential hazards to other users of the water space",
+      "normalizedRoleHead" : "means",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "788c789e8fb4c2ee11c5382dee749455",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and [[with the means to announce potential hazards to other users of the water space]].",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 14,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "dcc9f15957d3d29b68b6d17c3b1123a8"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, [[and]] with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 41,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 119,
+    "headTokenLength" : 1,
+    "id" : "4d0e2ff432ad133219411df4fa4805ff",
+    "normalizedHead" : "similar",
+    "normalizedTrigger" : "similar",
+    "roles" : [ {
+      "normalizedRole" : "Notice to Mariners ( NOTMAR )",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "similar",
+      "roleHeadStartToken" : 104,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "60c788f4e3b376b4fbad1e2e0a2bca22",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a [[Notice to Mariners (NOTMAR)]], Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 104,
+      "roleTokenLength" : 6,
+      "roleType" : "COMPARISON#FIRST_PART",
+      "triggerID" : "4d0e2ff432ad133219411df4fa4805ff"
+    }, {
+      "normalizedRole" : "Notice to Airmen ( NOTAM )",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "similar",
+      "roleHeadStartToken" : 111,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5ed38a227ded133657ea3e370416bafb",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), [[Notice to Airmen (NOTAM)]], or similar announcement.",
+      "roleStartToken" : 111,
+      "roleTokenLength" : 6,
+      "roleType" : "COMPARISON#FIRST_PART",
+      "triggerID" : "4d0e2ff432ad133219411df4fa4805ff"
+    }, {
+      "normalizedRole" : "announcement",
+      "normalizedRoleHead" : "announcement",
+      "normalizedTrigger" : "similar",
+      "roleHeadStartToken" : 120,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ced08435787df7400d3da224003a763a",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar [[announcement]].",
+      "roleStartToken" : 120,
+      "roleTokenLength" : 1,
+      "roleType" : "COMPARISON#SECOND_PART",
+      "triggerID" : "4d0e2ff432ad133219411df4fa4805ff"
+    } ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or [[similar]] announcement.",
+    "triggerStartToken" : 119,
+    "triggerTokenLength" : 1,
+    "triggerType" : "COMPARISON"
+  }, {
+    "headStartToken" : 168,
+    "headTokenLength" : 1,
+    "id" : "892fb4f68f8d9fa128eede7e171f293e",
+    "normalizedHead" : "meaning",
+    "normalizedTrigger" : "meaning",
+    "roles" : [ {
+      "normalizedRole" : "the provision",
+      "normalizedRoleHead" : "provision",
+      "normalizedTrigger" : "meaning",
+      "roleHeadStartToken" : 171,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6de5dcf0409aca65a86388d28abdf623",
+      "roleInContext" : "5.4 Where the term (SPECIFY) is included, detail must be inserted to clarify the meaning of [[the provision]].",
+      "roleStartToken" : 170,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "892fb4f68f8d9fa128eede7e171f293e"
+    } ],
+    "triggerInContext" : "5.4 Where the term (SPECIFY) is included, detail must be inserted to clarify the [[meaning]] of the provision.",
+    "triggerStartToken" : 168,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 20,
+    "headTokenLength" : 1,
+    "id" : "39bb136a8e78d3f68cfb7af906a18482",
+    "normalizedHead" : "zones",
+    "normalizedTrigger" : "warning zones",
+    "roles" : [ {
+      "normalizedRole" : "warning",
+      "normalizedRoleHead" : "warning",
+      "normalizedTrigger" : "warning zones",
+      "roleHeadStartToken" : 19,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6f7d12d2d8287056cb29fd9ff1e6002d",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime [[warning]] zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 19,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "39bb136a8e78d3f68cfb7af906a18482"
+    }, {
+      "normalizedRole" : "zones",
+      "normalizedRoleHead" : "zones",
+      "normalizedTrigger" : "warning zones",
+      "roleHeadStartToken" : 20,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "24b6eb039f0c862f6a9f87eb409b1f30",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning [[zones]] provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 20,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "39bb136a8e78d3f68cfb7af906a18482"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime [[warning zones]] provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 19,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 166,
+    "headTokenLength" : 1,
+    "id" : "a587241a1806a3f259083e0bf663d364",
+    "normalizedHead" : "clarify",
+    "normalizedTrigger" : "to",
+    "roles" : [ {
+      "normalizedRole" : "inserted",
+      "normalizedRoleHead" : "inserted",
+      "normalizedTrigger" : "to",
+      "roleHeadStartToken" : 164,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2bc1d0afa27df8b6c7d371b517d25771",
+      "roleInContext" : "5.4 Where the term (SPECIFY) is included, detail must be [[inserted]] to clarify the meaning of the provision.",
+      "roleStartToken" : 164,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "a587241a1806a3f259083e0bf663d364"
+    }, {
+      "normalizedRole" : "clarify",
+      "normalizedRoleHead" : "clarify",
+      "normalizedTrigger" : "to",
+      "roleHeadStartToken" : 166,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "860617fabe3acce5996d52184851993d",
+      "roleInContext" : "5.4 Where the term (SPECIFY) is included, detail must be inserted to [[clarify]] the meaning of the provision.",
+      "roleStartToken" : 166,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "a587241a1806a3f259083e0bf663d364"
+    } ],
+    "triggerInContext" : "5.4 Where the term (SPECIFY) is included, detail must be inserted [[to]] clarify the meaning of the provision.",
+    "triggerStartToken" : 165,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 129,
+    "headTokenLength" : 1,
+    "id" : "71a6b72057e7481101c8d9613749a6d6",
+    "normalizedHead" : "types",
+    "normalizedTrigger" : "two types of zones",
+    "roles" : [ {
+      "normalizedRole" : "two",
+      "normalizedRoleHead" : "two",
+      "normalizedTrigger" : "two types of zones",
+      "roleHeadStartToken" : 128,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "87868599b432ada385f7b220dea28bda",
+      "roleInContext" : "5.3 Model announcements are provided for [[two]] types of zones:",
+      "roleStartToken" : 128,
+      "roleTokenLength" : 1,
+      "roleType" : "COUNT_MARKER#NUMBER",
+      "triggerID" : "71a6b72057e7481101c8d9613749a6d6"
+    }, {
+      "normalizedRole" : "types of zones",
+      "normalizedRoleHead" : "types",
+      "normalizedTrigger" : "two types of zones",
+      "roleHeadStartToken" : 129,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7fb92dbe9afd9f593c33cb0fc7063a0c",
+      "roleInContext" : "5.3 Model announcements are provided for two [[types of zones]]:",
+      "roleStartToken" : 129,
+      "roleTokenLength" : 3,
+      "roleType" : "COUNT_MARKER#BASE_WORD",
+      "triggerID" : "71a6b72057e7481101c8d9613749a6d6"
+    } ],
+    "triggerInContext" : "5.3 Model announcements are provided for [[two types of zones]]:",
+    "triggerStartToken" : 128,
+    "triggerTokenLength" : 4,
+    "triggerType" : "COUNT_MARKER"
+  }, {
+    "headStartToken" : 145,
+    "headTokenLength" : 1,
+    "id" : "a20f2f4bd8219e1e66e9c994d23de069",
+    "normalizedHead" : "Zone",
+    "normalizedTrigger" : "Exclusion Zone",
+    "roles" : [ {
+      "normalizedRole" : "Exclusion",
+      "normalizedRoleHead" : "Exclusion",
+      "normalizedTrigger" : "Exclusion Zone",
+      "roleHeadStartToken" : 144,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0b36bd0c36c9bf0fefd7d273f0ca3ec9",
+      "roleInContext" : "b. Warning Area and [[Exclusion]] Zone in the Territorial Sea.",
+      "roleStartToken" : 144,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "a20f2f4bd8219e1e66e9c994d23de069"
+    }, {
+      "normalizedRole" : "Zone",
+      "normalizedRoleHead" : "Zone",
+      "normalizedTrigger" : "Exclusion Zone",
+      "roleHeadStartToken" : 145,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7030a7407513304de4a53c28aad98573",
+      "roleInContext" : "b. Warning Area and Exclusion [[Zone]] in the Territorial Sea.",
+      "roleStartToken" : 145,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "a20f2f4bd8219e1e66e9c994d23de069"
+    } ],
+    "triggerInContext" : "b. Warning Area and [[Exclusion Zone]] in the Territorial Sea.",
+    "triggerStartToken" : 144,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 21,
+    "headTokenLength" : 1,
+    "id" : "498821608c0cbf11a9099a534527e70c",
+    "normalizedHead" : "provide",
+    "normalizedTrigger" : "provide",
+    "roles" : [ {
+      "normalizedRole" : "Properly established and Appropriately Implemented maritime warning zones",
+      "normalizedRoleHead" : "zones",
+      "normalizedTrigger" : "provide",
+      "roleHeadStartToken" : 20,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6ff0542b23070459acd46dabdd70a377",
+      "roleInContext" : "[[Properly established and Appropriately Implemented maritime warning zones]] provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 13,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "498821608c0cbf11a9099a534527e70c"
+    }, {
+      "normalizedRole" : "operational commanders",
+      "normalizedRoleHead" : "commanders",
+      "normalizedTrigger" : "provide",
+      "roleHeadStartToken" : 23,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5c26f51e72dd766a502799dcf5414dab",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide [[operational commanders]] with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 22,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "498821608c0cbf11a9099a534527e70c"
+    }, {
+      "normalizedRole" : "with the means to enhance the self - defence and force protection posture of their assets",
+      "normalizedRoleHead" : "means",
+      "normalizedTrigger" : "provide",
+      "roleHeadStartToken" : 26,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "320d2e916b43e51358b17508a52b009d",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders [[with the means to enhance the self-defence and force protection posture of their assets]], and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 24,
+      "roleTokenLength" : 16,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "498821608c0cbf11a9099a534527e70c"
+    }, {
+      "normalizedRole" : "with the means to announce potential hazards to other users of the water space",
+      "normalizedRoleHead" : "means",
+      "normalizedTrigger" : "provide",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "04fbc05128b2802945a6e2359ca55d27",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and [[with the means to announce potential hazards to other users of the water space]].",
+      "roleStartToken" : 42,
+      "roleTokenLength" : 14,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "498821608c0cbf11a9099a534527e70c"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones [[provide]] operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 21,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 62,
+    "headTokenLength" : 1,
+    "id" : "f1874fd4a422a09a3af85973e4fbc875",
+    "normalizedHead" : "zones",
+    "normalizedTrigger" : "Maritime warning zones",
+    "roles" : [ {
+      "normalizedRole" : "Maritime",
+      "normalizedRoleHead" : "Maritime",
+      "normalizedTrigger" : "Maritime warning zones",
+      "roleHeadStartToken" : 60,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "30d32596abcd35caff1a45c00063e2a3",
+      "roleInContext" : "However used, [[Maritime]] warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 60,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "f1874fd4a422a09a3af85973e4fbc875"
+    }, {
+      "normalizedRole" : "warning zones",
+      "normalizedRoleHead" : "zones",
+      "normalizedTrigger" : "Maritime warning zones",
+      "roleHeadStartToken" : 62,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6d739c3c7e87de18d5357444d7364f26",
+      "roleInContext" : "However used, Maritime [[warning zones]] cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 61,
+      "roleTokenLength" : 2,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "f1874fd4a422a09a3af85973e4fbc875"
+    } ],
+    "triggerInContext" : "However used, [[Maritime warning zones]] cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 60,
+    "triggerTokenLength" : 3,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 36,
+    "headTokenLength" : 1,
+    "id" : "ca2e69f817311f0b1defe21a024b9d82",
+    "normalizedHead" : "posture",
+    "normalizedTrigger" : "posture",
+    "roles" : [ {
+      "normalizedRole" : "force protection",
+      "normalizedRoleHead" : "protection",
+      "normalizedTrigger" : "posture",
+      "roleHeadStartToken" : 35,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2e35e47ce835d523b35971a7e8cc661c",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and [[force protection]] posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "ca2e69f817311f0b1defe21a024b9d82"
+    }, {
+      "normalizedRole" : "their assets",
+      "normalizedRoleHead" : "assets",
+      "normalizedTrigger" : "posture",
+      "roleHeadStartToken" : 39,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9da254dd113be27f78eae5143ee91ca3",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of [[their assets]], and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 38,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "ca2e69f817311f0b1defe21a024b9d82"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection [[posture]] of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 36,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 17,
+    "headTokenLength" : 1,
+    "id" : "953b20a7341709ce1e02b40686752a31",
+    "normalizedHead" : "Implemented",
+    "normalizedTrigger" : "Implemented",
+    "roles" : [ {
+      "normalizedRole" : "Appropriately",
+      "normalizedRoleHead" : "Appropriately",
+      "normalizedTrigger" : "Implemented",
+      "roleHeadStartToken" : 16,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "2c15434096f87522aaec11c07ef6d274",
+      "roleInContext" : "Properly established and [[Appropriately]] Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 16,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "953b20a7341709ce1e02b40686752a31"
+    }, {
+      "normalizedRole" : "maritime warning zones",
+      "normalizedRoleHead" : "zones",
+      "normalizedTrigger" : "Implemented",
+      "roleHeadStartToken" : 20,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e621628237c8a37c53057bd389bafee5",
+      "roleInContext" : "Properly established and Appropriately Implemented [[maritime warning zones]] provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 18,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "953b20a7341709ce1e02b40686752a31"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately [[Implemented]] maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 17,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 33,
+    "headTokenLength" : 1,
+    "id" : "3802bc15e265f181d35d62482f266484",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "defence",
+      "normalizedRoleHead" : "defence",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 32,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d8004d0c390e5c0caae81ca26be6944a",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-[[defence]] and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 32,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "3802bc15e265f181d35d62482f266484"
+    }, {
+      "normalizedRole" : "posture",
+      "normalizedRoleHead" : "posture",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 36,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ca929a76fc66a705aee06f9bb73466fe",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection [[posture]] of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 36,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "3802bc15e265f181d35d62482f266484"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence [[and]] force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 33,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 55,
+    "headTokenLength" : 1,
+    "id" : "23b8438cd0eba9571c5a845c9541201a",
+    "normalizedHead" : "space",
+    "normalizedTrigger" : "water space",
+    "roles" : [ {
+      "normalizedRole" : "water",
+      "normalizedRoleHead" : "water",
+      "normalizedTrigger" : "water space",
+      "roleHeadStartToken" : 54,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "38e6953b1801085e2454c755c6dc7529",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the [[water]] space.",
+      "roleStartToken" : 54,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "23b8438cd0eba9571c5a845c9541201a"
+    }, {
+      "normalizedRole" : "space",
+      "normalizedRoleHead" : "space",
+      "normalizedTrigger" : "water space",
+      "roleHeadStartToken" : 55,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4a8275e204a8a4edafe61a534d1dcdee",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water [[space]].",
+      "roleStartToken" : 55,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "23b8438cd0eba9571c5a845c9541201a"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the [[water space]].",
+    "triggerStartToken" : 54,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 51,
+    "headTokenLength" : 1,
+    "id" : "e6703f9b5160247b25f05c692c7df923",
+    "normalizedHead" : "users",
+    "normalizedTrigger" : "users",
+    "roles" : [ {
+      "normalizedRole" : "the water space",
+      "normalizedRoleHead" : "space",
+      "normalizedTrigger" : "users",
+      "roleHeadStartToken" : 55,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e2275845e8c8e78bca76838b8e8a1772",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of [[the water space]].",
+      "roleStartToken" : 53,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "e6703f9b5160247b25f05c692c7df923"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other [[users]] of the water space.",
+    "triggerStartToken" : 51,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 11,
+    "headTokenLength" : 1,
+    "id" : "f6a47071222326b2d626ab81dcb0999d",
+    "normalizedHead" : "issue",
+    "normalizedTrigger" : "operational issue",
+    "roles" : [ {
+      "normalizedRole" : "operational",
+      "normalizedRoleHead" : "operational",
+      "normalizedTrigger" : "operational issue",
+      "roleHeadStartToken" : 10,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "01747807fef4605a37d73c2258054e64",
+      "roleInContext" : "5.1 Maritime Warning Zones are an [[operational]] issue.",
+      "roleStartToken" : 10,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "f6a47071222326b2d626ab81dcb0999d"
+    }, {
+      "normalizedRole" : "issue",
+      "normalizedRoleHead" : "issue",
+      "normalizedTrigger" : "operational issue",
+      "roleHeadStartToken" : 11,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "919cc64fac308d2862b4cb32b8dd944a",
+      "roleInContext" : "5.1 Maritime Warning Zones are an operational [[issue]].",
+      "roleStartToken" : 11,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "f6a47071222326b2d626ab81dcb0999d"
+    } ],
+    "triggerInContext" : "5.1 Maritime Warning Zones are an [[operational issue]].",
+    "triggerStartToken" : 10,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 58,
+    "headTokenLength" : 1,
+    "id" : "d7dc5c8e162196927ff0c1e030085341",
+    "normalizedHead" : "used",
+    "normalizedTrigger" : "used",
+    "roles" : [ ],
+    "triggerInContext" : "However [[used]], Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 58,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 64,
+    "headTokenLength" : 1,
+    "id" : "ab48d1463109b7264825cb01e1f25e0a",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "cannot",
+      "normalizedRoleHead" : "cannot",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 63,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4b0f64bc36a8a571b0526cffc3337b56",
+      "roleInContext" : "However used, Maritime warning zones [[cannot]] and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 63,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "ab48d1463109b7264825cb01e1f25e0a"
+    }, {
+      "normalizedRole" : "do not",
+      "normalizedRoleHead" : "not",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 66,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0bf3d5029180d212cd7dc5bbe6abf0c0",
+      "roleInContext" : "However used, Maritime warning zones cannot and [[do not]] absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 65,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "ab48d1463109b7264825cb01e1f25e0a"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot [[and]] do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 64,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 35,
+    "headTokenLength" : 1,
+    "id" : "49a177e3c6440dbf38aa1819a9c1b7cf",
+    "normalizedHead" : "protection",
+    "normalizedTrigger" : "protection",
+    "roles" : [ {
+      "normalizedRole" : "force",
+      "normalizedRoleHead" : "force",
+      "normalizedTrigger" : "protection",
+      "roleHeadStartToken" : 34,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c94347c9ad8a2daa82c35c702b8decf6",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and [[force]] protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 34,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "49a177e3c6440dbf38aa1819a9c1b7cf"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force [[protection]] posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 35,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 2,
+    "headTokenLength" : 1,
+    "id" : "340914ada73e5c6087930db6e870c138",
+    "normalizedHead" : "zone",
+    "normalizedTrigger" : "Maritime warning zone",
+    "roles" : [ {
+      "normalizedRole" : "Maritime",
+      "normalizedRoleHead" : "Maritime",
+      "normalizedTrigger" : "Maritime warning zone",
+      "roleHeadStartToken" : 0,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0cfc57a45467429b422728b1d0c336de",
+      "roleInContext" : "[[Maritime]] warning zone announcements",
+      "roleStartToken" : 0,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "340914ada73e5c6087930db6e870c138"
+    }, {
+      "normalizedRole" : "zone",
+      "normalizedRoleHead" : "zone",
+      "normalizedTrigger" : "Maritime warning zone",
+      "roleHeadStartToken" : 2,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e6cc73c714736c569039558096e5fa31",
+      "roleInContext" : "Maritime warning [[zone]] announcements",
+      "roleStartToken" : 2,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "340914ada73e5c6087930db6e870c138"
+    } ],
+    "triggerInContext" : "[[Maritime warning zone]] announcements",
+    "triggerStartToken" : 0,
+    "triggerTokenLength" : 3,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 46,
+    "headTokenLength" : 1,
+    "id" : "a515272d989d7de7965b22e68b42f82c",
+    "normalizedHead" : "announce",
+    "normalizedTrigger" : "announce",
+    "roles" : [ {
+      "normalizedRole" : "the means",
+      "normalizedRoleHead" : "means",
+      "normalizedTrigger" : "announce",
+      "roleHeadStartToken" : 44,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cc73717c9844199fc475e0cc97cf781b",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with [[the means]] to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 43,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "a515272d989d7de7965b22e68b42f82c"
+    }, {
+      "normalizedRole" : "potential hazards",
+      "normalizedRoleHead" : "hazards",
+      "normalizedTrigger" : "announce",
+      "roleHeadStartToken" : 48,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f528825f272dfa5dc5086fca72b9d66f",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce [[potential hazards]] to other users of the water space.",
+      "roleStartToken" : 47,
+      "roleTokenLength" : 2,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "a515272d989d7de7965b22e68b42f82c"
+    }, {
+      "normalizedRole" : "to other users of the water space",
+      "normalizedRoleHead" : "users",
+      "normalizedTrigger" : "announce",
+      "roleHeadStartToken" : 51,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e95ac84a9cf57698051cac82cbb3c4ca",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards [[to other users of the water space]].",
+      "roleStartToken" : 49,
+      "roleTokenLength" : 7,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "a515272d989d7de7965b22e68b42f82c"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to [[announce]] potential hazards to other users of the water space.",
+    "triggerStartToken" : 46,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 143,
+    "headTokenLength" : 1,
+    "id" : "645b3763c9ff6ea429d0767e2e0d687b",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "Warning Area",
+      "normalizedRoleHead" : "Area",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 142,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a6a1cf2667fc86a84b6d928f9a2a44b9",
+      "roleInContext" : "b. [[Warning Area]] and Exclusion Zone in the Territorial Sea.",
+      "roleStartToken" : 141,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "645b3763c9ff6ea429d0767e2e0d687b"
+    }, {
+      "normalizedRole" : "Exclusion Zone",
+      "normalizedRoleHead" : "Zone",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 145,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9471a9e0f50797fbc2a0f2323b4b3507",
+      "roleInContext" : "b. Warning Area and [[Exclusion Zone]] in the Territorial Sea.",
+      "roleStartToken" : 144,
+      "roleTokenLength" : 2,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "645b3763c9ff6ea429d0767e2e0d687b"
+    } ],
+    "triggerInContext" : "b. Warning Area [[and]] Exclusion Zone in the Territorial Sea.",
+    "triggerStartToken" : 143,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 98,
+    "headTokenLength" : 1,
+    "id" : "a0357a519c96aabd956c7e99f0024722",
+    "normalizedHead" : "Zones",
+    "normalizedTrigger" : "Maritime Warning Zones",
+    "roles" : [ {
+      "normalizedRole" : "Maritime",
+      "normalizedRoleHead" : "Maritime",
+      "normalizedTrigger" : "Maritime Warning Zones",
+      "roleHeadStartToken" : 96,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "52bcbabff7fdf5e690e2891544e8882e",
+      "roleInContext" : "5.2 [[Maritime]] Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 96,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "a0357a519c96aabd956c7e99f0024722"
+    }, {
+      "normalizedRole" : "Warning Zones",
+      "normalizedRoleHead" : "Zones",
+      "normalizedTrigger" : "Maritime Warning Zones",
+      "roleHeadStartToken" : 98,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4f18aec613af51762533e63d7e028bd1",
+      "roleInContext" : "5.2 Maritime [[Warning Zones]] are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 97,
+      "roleTokenLength" : 2,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "a0357a519c96aabd956c7e99f0024722"
+    } ],
+    "triggerInContext" : "5.2 [[Maritime Warning Zones]] are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+    "triggerStartToken" : 96,
+    "triggerTokenLength" : 3,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 62,
+    "headTokenLength" : 1,
+    "id" : "e6d81f52f178fe06d3b3c1a0e321a256",
+    "normalizedHead" : "zones",
+    "normalizedTrigger" : "warning zones",
+    "roles" : [ {
+      "normalizedRole" : "warning",
+      "normalizedRoleHead" : "warning",
+      "normalizedTrigger" : "warning zones",
+      "roleHeadStartToken" : 61,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e16df3da5f15808a341607c8007367db",
+      "roleInContext" : "However used, Maritime [[warning]] zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 61,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "e6d81f52f178fe06d3b3c1a0e321a256"
+    }, {
+      "normalizedRole" : "zones",
+      "normalizedRoleHead" : "zones",
+      "normalizedTrigger" : "warning zones",
+      "roleHeadStartToken" : 62,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f3acfb6843190b99fefe210dfaa96bc9",
+      "roleInContext" : "However used, Maritime warning [[zones]] cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 62,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "e6d81f52f178fe06d3b3c1a0e321a256"
+    } ],
+    "triggerInContext" : "However used, Maritime [[warning zones]] cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 61,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 15,
+    "headTokenLength" : 1,
+    "id" : "29bcdd51bc2fedaab5747052b642d9a4",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "established",
+      "normalizedRoleHead" : "established",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 14,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6e4bb4ca34e39f5e22c8f8dd1dd9f6fa",
+      "roleInContext" : "Properly [[established]] and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 14,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "29bcdd51bc2fedaab5747052b642d9a4"
+    }, {
+      "normalizedRole" : "Implemented",
+      "normalizedRoleHead" : "Implemented",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 17,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "cd8a12499b12150c4db7daf61063f50b",
+      "roleInContext" : "Properly established and Appropriately [[Implemented]] maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 17,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "29bcdd51bc2fedaab5747052b642d9a4"
+    } ],
+    "triggerInContext" : "Properly established [[and]] Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 15,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 80,
+    "headTokenLength" : 1,
+    "id" : "631c897eb9b52406143aad15d1aefd3e",
+    "normalizedHead" : "or",
+    "normalizedTrigger" : "or",
+    "roles" : [ {
+      "normalizedRole" : "for the safety of the forces they command",
+      "normalizedRoleHead" : "command",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 79,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a6ef7e115b8c9265655b155e352a237f",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility [[for the safety of the forces they command]] or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 72,
+      "roleTokenLength" : 8,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "631c897eb9b52406143aad15d1aefd3e"
+    }, {
+      "normalizedRole" : "for their duty to comply with LOAC and other rules of international law",
+      "normalizedRoleHead" : "duty",
+      "normalizedTrigger" : "or",
+      "roleHeadStartToken" : 83,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "ee4305d9ec2607444cf4a83de8f0f607",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or [[for their duty to comply with LOAC and other rules of international law]].",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 13,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "631c897eb9b52406143aad15d1aefd3e"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command [[or]] for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 80,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 120,
+    "headTokenLength" : 1,
+    "id" : "2d9ced01b06b3e69f119a0f202743de6",
+    "normalizedHead" : "announcement",
+    "normalizedTrigger" : "announcement",
+    "roles" : [ ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar [[announcement]].",
+    "triggerStartToken" : 120,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 145,
+    "headTokenLength" : 1,
+    "id" : "cefaf49737d4e5356ac82b96a0e2a1c8",
+    "normalizedHead" : "Zone",
+    "normalizedTrigger" : "Warning Area and Exclusion Zone in the Territorial Sea",
+    "roles" : [ {
+      "normalizedRole" : "Warning Area and Exclusion Zone",
+      "normalizedRoleHead" : "Zone",
+      "normalizedTrigger" : "Warning Area and Exclusion Zone in the Territorial Sea",
+      "roleHeadStartToken" : 145,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c4764f03bdfca35b506ad3eea9f7ff1a",
+      "roleInContext" : "b. [[Warning Area and Exclusion Zone]] in the Territorial Sea.",
+      "roleStartToken" : 141,
+      "roleTokenLength" : 5,
+      "roleType" : "PREP_MODIFIER#ENTITY",
+      "triggerID" : "cefaf49737d4e5356ac82b96a0e2a1c8"
+    }, {
+      "normalizedRole" : "in the Territorial Sea",
+      "normalizedRoleHead" : "Sea",
+      "normalizedTrigger" : "Warning Area and Exclusion Zone in the Territorial Sea",
+      "roleHeadStartToken" : 149,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d20073dd0e0410e8323b51a909755f6b",
+      "roleInContext" : "b. Warning Area and Exclusion Zone [[in the Territorial Sea]].",
+      "roleStartToken" : 146,
+      "roleTokenLength" : 4,
+      "roleType" : "PREP_MODIFIER#PHRASE",
+      "triggerID" : "cefaf49737d4e5356ac82b96a0e2a1c8"
+    } ],
+    "triggerInContext" : "b. [[Warning Area and Exclusion Zone in the Territorial Sea]].",
+    "triggerStartToken" : 141,
+    "triggerTokenLength" : 9,
+    "triggerType" : "PREP_MODIFIER"
+  }, {
+    "headStartToken" : 171,
+    "headTokenLength" : 1,
+    "id" : "e47aed2a9911f7b45576fcdd874505be",
+    "normalizedHead" : "provision",
+    "normalizedTrigger" : "provision",
+    "roles" : [ ],
+    "triggerInContext" : "5.4 Where the term (SPECIFY) is included, detail must be inserted to clarify the meaning of the [[provision]].",
+    "triggerStartToken" : 171,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 48,
+    "headTokenLength" : 1,
+    "id" : "bf11620bb85bd944ed0ac14b544c9ad4",
+    "normalizedHead" : "hazards",
+    "normalizedTrigger" : "hazards",
+    "roles" : [ {
+      "normalizedRole" : "potential",
+      "normalizedRoleHead" : "potential",
+      "normalizedTrigger" : "hazards",
+      "roleHeadStartToken" : 47,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "48e69a522080a469ecb6ebb408abfec3",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce [[potential]] hazards to other users of the water space.",
+      "roleStartToken" : 47,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "bf11620bb85bd944ed0ac14b544c9ad4"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential [[hazards]] to other users of the water space.",
+    "triggerStartToken" : 48,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 14,
+    "headTokenLength" : 1,
+    "id" : "1ee6f1033c865c38eb281a9a059422f9",
+    "normalizedHead" : "established",
+    "normalizedTrigger" : "established",
+    "roles" : [ {
+      "normalizedRole" : "Properly",
+      "normalizedRoleHead" : "Properly",
+      "normalizedTrigger" : "established",
+      "roleHeadStartToken" : 13,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "321d0d360178ae029a24f0015dc60c12",
+      "roleInContext" : "[[Properly]] established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 13,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "1ee6f1033c865c38eb281a9a059422f9"
+    }, {
+      "normalizedRole" : "maritime warning zones",
+      "normalizedRoleHead" : "zones",
+      "normalizedTrigger" : "established",
+      "roleHeadStartToken" : 20,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0977cd3ec8c0243e89b4e47ee2a2ba80",
+      "roleInContext" : "Properly established and Appropriately Implemented [[maritime warning zones]] provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 18,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "1ee6f1033c865c38eb281a9a059422f9"
+    } ],
+    "triggerInContext" : "Properly [[established]] and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 14,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 166,
+    "headTokenLength" : 1,
+    "id" : "57a53474688f56969a04b6124a308f74",
+    "normalizedHead" : "clarify",
+    "normalizedTrigger" : "clarify",
+    "roles" : [ {
+      "normalizedRole" : "the meaning of the provision",
+      "normalizedRoleHead" : "meaning",
+      "normalizedTrigger" : "clarify",
+      "roleHeadStartToken" : 168,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "790691cb8a2b978dbfad8934014849cc",
+      "roleInContext" : "5.4 Where the term (SPECIFY) is included, detail must be inserted to clarify [[the meaning of the provision]].",
+      "roleStartToken" : 167,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "57a53474688f56969a04b6124a308f74"
+    } ],
+    "triggerInContext" : "5.4 Where the term (SPECIFY) is included, detail must be inserted to [[clarify]] the meaning of the provision.",
+    "triggerStartToken" : 166,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 1,
+    "headTokenLength" : 1,
+    "id" : "86c2ca26e3a3550932f99a738539612e",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "warning",
+    "roles" : [ ],
+    "triggerInContext" : "Maritime [[warning]] zone announcements",
+    "triggerStartToken" : 1,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 7,
+    "headTokenLength" : 1,
+    "id" : "14cd585aea99764f8f3557235ab889ca",
+    "normalizedHead" : "Zones",
+    "normalizedTrigger" : "Warning Zones",
+    "roles" : [ {
+      "normalizedRole" : "Warning",
+      "normalizedRoleHead" : "Warning",
+      "normalizedTrigger" : "Warning Zones",
+      "roleHeadStartToken" : 6,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a63aa3093023af3ce8f119147dca4fb0",
+      "roleInContext" : "5.1 Maritime [[Warning]] Zones are an operational issue.",
+      "roleStartToken" : 6,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "14cd585aea99764f8f3557235ab889ca"
+    }, {
+      "normalizedRole" : "Zones",
+      "normalizedRoleHead" : "Zones",
+      "normalizedTrigger" : "Warning Zones",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "253bcf6db9fea4c6c57682bdab0f7836",
+      "roleInContext" : "5.1 Maritime Warning [[Zones]] are an operational issue.",
+      "roleStartToken" : 7,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "14cd585aea99764f8f3557235ab889ca"
+    } ],
+    "triggerInContext" : "5.1 Maritime [[Warning Zones]] are an operational issue.",
+    "triggerStartToken" : 6,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 68,
+    "headTokenLength" : 1,
+    "id" : "b7ef26ed51399b9dac8650bb62f4ded8",
+    "normalizedHead" : "commanders",
+    "normalizedTrigger" : "commanders",
+    "roles" : [ {
+      "normalizedRole" : "commanders",
+      "normalizedRoleHead" : "commanders",
+      "normalizedTrigger" : "commanders",
+      "roleHeadStartToken" : 68,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "82723d0768483cf2f7f61cb39ab48686",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve [[commanders]] of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 68,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "b7ef26ed51399b9dac8650bb62f4ded8"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve [[commanders]] of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 68,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 32,
+    "headTokenLength" : 1,
+    "id" : "63e07663e33656c4e3a10d4aa68c836a",
+    "normalizedHead" : "defence",
+    "normalizedTrigger" : "defence",
+    "roles" : [ {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "defence",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "240751bac170ec2f0a8825f861d7de8a",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the [[self]]-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "63e07663e33656c4e3a10d4aa68c836a"
+    }, {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "defence",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f020283b9fb50d71d52a675f7882a3bb",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the [[self]]-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "63e07663e33656c4e3a10d4aa68c836a"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-[[defence]] and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 32,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 90,
+    "headTokenLength" : 1,
+    "id" : "307d30138a066be959aa966c26450f2c",
+    "normalizedHead" : "rules",
+    "normalizedTrigger" : "other rules of international law",
+    "roles" : [ {
+      "normalizedRole" : "other",
+      "normalizedRoleHead" : "other",
+      "normalizedTrigger" : "other rules of international law",
+      "roleHeadStartToken" : 89,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "864a88d4c356fec060e214a9a45d2f08",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and [[other]] rules of international law.",
+      "roleStartToken" : 89,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "307d30138a066be959aa966c26450f2c"
+    }, {
+      "normalizedRole" : "rules of international law",
+      "normalizedRoleHead" : "rules",
+      "normalizedTrigger" : "other rules of international law",
+      "roleHeadStartToken" : 90,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c38b917118b859d33c4082bff6a9194c",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other [[rules of international law]].",
+      "roleStartToken" : 90,
+      "roleTokenLength" : 4,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "307d30138a066be959aa966c26450f2c"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and [[other rules of international law]].",
+    "triggerStartToken" : 89,
+    "triggerTokenLength" : 5,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 28,
+    "headTokenLength" : 1,
+    "id" : "f6cf0e8e2338e3bd8395594e17826b57",
+    "normalizedHead" : "enhance",
+    "normalizedTrigger" : "enhance",
+    "roles" : [ {
+      "normalizedRole" : "means",
+      "normalizedRoleHead" : "means",
+      "normalizedTrigger" : "enhance",
+      "roleHeadStartToken" : 26,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "130bbb96dc7668f8eaa2102611009cfa",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the [[means]] to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 26,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "f6cf0e8e2338e3bd8395594e17826b57"
+    }, {
+      "normalizedRole" : "the self - defence and force protection posture of their assets",
+      "normalizedRoleHead" : "posture",
+      "normalizedTrigger" : "enhance",
+      "roleHeadStartToken" : 36,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "23c797772283ee7b832164523f820111",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance [[the self-defence and force protection posture of their assets]], and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 29,
+      "roleTokenLength" : 11,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "f6cf0e8e2338e3bd8395594e17826b57"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to [[enhance]] the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 28,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 8,
+    "headTokenLength" : 1,
+    "id" : "378614f4952d643aace57b61114d8671",
+    "normalizedHead" : "are",
+    "normalizedTrigger" : "are",
+    "roles" : [ {
+      "normalizedRole" : "Maritime Warning Zones",
+      "normalizedRoleHead" : "Zones",
+      "normalizedTrigger" : "are",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0b9cc87488327a835bdc5cfadc182330",
+      "roleInContext" : "5.1 [[Maritime Warning Zones]] are an operational issue.",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "378614f4952d643aace57b61114d8671"
+    }, {
+      "normalizedRole" : "an operational issue",
+      "normalizedRoleHead" : "issue",
+      "normalizedTrigger" : "are",
+      "roleHeadStartToken" : 11,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "45c58515842881f7e7f5fbb49c160f06",
+      "roleInContext" : "5.1 Maritime Warning Zones are [[an operational issue]].",
+      "roleStartToken" : 9,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "378614f4952d643aace57b61114d8671"
+    } ],
+    "triggerInContext" : "5.1 Maritime Warning Zones [[are]] an operational issue.",
+    "triggerStartToken" : 8,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 44,
+    "headTokenLength" : 1,
+    "id" : "0f139691d02a277c021bf2d789111f13",
+    "normalizedHead" : "means",
+    "normalizedTrigger" : "means",
+    "roles" : [ {
+      "normalizedRole" : "to announce potential hazards to other users of the water space",
+      "normalizedRoleHead" : "announce",
+      "normalizedTrigger" : "means",
+      "roleHeadStartToken" : 46,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "01924bc7b2add77fb78a109dfa23df78",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means [[to announce potential hazards to other users of the water space]].",
+      "roleStartToken" : 45,
+      "roleTokenLength" : 11,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "0f139691d02a277c021bf2d789111f13"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the [[means]] to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 44,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 79,
+    "headTokenLength" : 1,
+    "id" : "d3777c1360eb702fd8618e4617037ab8",
+    "normalizedHead" : "command",
+    "normalizedTrigger" : "command",
+    "roles" : [ {
+      "normalizedRole" : "forces",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "command",
+      "roleHeadStartToken" : 77,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e99ed75bbe4434234f8e7bafa9639465",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the [[forces]] they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 77,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "d3777c1360eb702fd8618e4617037ab8"
+    }, {
+      "normalizedRole" : "they",
+      "normalizedRoleHead" : "they",
+      "normalizedTrigger" : "command",
+      "roleHeadStartToken" : 78,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a80cf9376f597303a5e57fd49ad4f62e",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces [[they]] command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 78,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "d3777c1360eb702fd8618e4617037ab8"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they [[command]] or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 79,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 85,
+    "headTokenLength" : 1,
+    "id" : "a4ee6362eaf7fc7a80009284202317e5",
+    "normalizedHead" : "comply",
+    "normalizedTrigger" : "comply",
+    "roles" : [ {
+      "normalizedRole" : "with LOAC and other rules of international law",
+      "normalizedRoleHead" : "rules",
+      "normalizedTrigger" : "comply",
+      "roleHeadStartToken" : 90,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e1c33755e0559091bb297e91d0662bc5",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply [[with LOAC and other rules of international law]].",
+      "roleStartToken" : 86,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "a4ee6362eaf7fc7a80009284202317e5"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to [[comply]] with LOAC and other rules of international law.",
+    "triggerStartToken" : 85,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 23,
+    "headTokenLength" : 1,
+    "id" : "fb9f3a3c42288714457209fceaeb0d05",
+    "normalizedHead" : "commanders",
+    "normalizedTrigger" : "commanders",
+    "roles" : [ {
+      "normalizedRole" : "operational",
+      "normalizedRoleHead" : "operational",
+      "normalizedTrigger" : "commanders",
+      "roleHeadStartToken" : 22,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "5434056c623ed190b6e6c510db971a63",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide [[operational]] commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 22,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "fb9f3a3c42288714457209fceaeb0d05"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational [[commanders]] with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 23,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 134,
+    "headTokenLength" : 1,
+    "id" : "f3f08f74e76dfab9eb9d24f7e3fda95e",
+    "normalizedHead" : "Warning",
+    "normalizedTrigger" : "Warning",
+    "roles" : [ ],
+    "triggerInContext" : "a. [[Warning]] Area in International Waters.",
+    "triggerStartToken" : 134,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 97,
+    "headTokenLength" : 1,
+    "id" : "d47a12c77ba6564471dc8979fc304c86",
+    "normalizedHead" : "Warning",
+    "normalizedTrigger" : "Warning",
+    "roles" : [ ],
+    "triggerInContext" : "5.2 Maritime [[Warning]] Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+    "triggerStartToken" : 97,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 159,
+    "headTokenLength" : 1,
+    "id" : "bc04b7f49ab659cd7e2e4f68f85aff5b",
+    "normalizedHead" : "included",
+    "normalizedTrigger" : "included",
+    "roles" : [ {
+      "normalizedRole" : "the term ( SPECIFY )",
+      "normalizedRoleHead" : "SPECIFY",
+      "normalizedTrigger" : "included",
+      "roleHeadStartToken" : 156,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "54c99d768bcb7444a18d65bbe57ef9bc",
+      "roleInContext" : "5.4 Where [[the term (SPECIFY)]] is included, detail must be inserted to clarify the meaning of the provision.",
+      "roleStartToken" : 153,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "bc04b7f49ab659cd7e2e4f68f85aff5b"
+    } ],
+    "triggerInContext" : "5.4 Where the term (SPECIFY) is [[included]], detail must be inserted to clarify the meaning of the provision.",
+    "triggerStartToken" : 159,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 57,
+    "headTokenLength" : 1,
+    "id" : "db559afc0d1e163dc1ffdc25fc904fc1",
+    "normalizedHead" : "However",
+    "normalizedTrigger" : "However",
+    "roles" : [ {
+      "normalizedRole" : "used",
+      "normalizedRoleHead" : "used",
+      "normalizedTrigger" : "However",
+      "roleHeadStartToken" : 58,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "399545ed6e3ce66c7224290a7297b469",
+      "roleInContext" : "However [[used]], Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 58,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#SECOND_PART",
+      "triggerID" : "db559afc0d1e163dc1ffdc25fc904fc1"
+    }, {
+      "normalizedRole" : "absolve",
+      "normalizedRoleHead" : "absolve",
+      "normalizedTrigger" : "However",
+      "roleHeadStartToken" : 67,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "bc47ad2af98e22b69dbce82ccb76772b",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not [[absolve]] commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 67,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME_LINK#FIRST_PART",
+      "triggerID" : "db559afc0d1e163dc1ffdc25fc904fc1"
+    } ],
+    "triggerInContext" : "[[However]] used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 57,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME_LINK"
+  }, {
+    "headStartToken" : 101,
+    "headTokenLength" : 1,
+    "id" : "30ee94d98c88c90860c65b28b8896f3a",
+    "normalizedHead" : "announced",
+    "normalizedTrigger" : "announced",
+    "roles" : [ {
+      "normalizedRole" : "Maritime Warning Zones",
+      "normalizedRoleHead" : "Zones",
+      "normalizedTrigger" : "announced",
+      "roleHeadStartToken" : 98,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "651ae88703d26d3d9a98d717b3137944",
+      "roleInContext" : "5.2 [[Maritime Warning Zones]] are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 96,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "30ee94d98c88c90860c65b28b8896f3a"
+    }, {
+      "normalizedRole" : "typically",
+      "normalizedRoleHead" : "typically",
+      "normalizedTrigger" : "announced",
+      "roleHeadStartToken" : 100,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "03f1f84c2fcae743bb9ee9a5c17f3b04",
+      "roleInContext" : "5.2 Maritime Warning Zones are [[typically]] announced through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 100,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "30ee94d98c88c90860c65b28b8896f3a"
+    }, {
+      "normalizedRole" : "through a Notice to Mariners ( NOTMAR ) , Notice to Airmen ( NOTAM ) , or similar announcement",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "announced",
+      "roleHeadStartToken" : 104,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6269725fed692fa3f6244b0f883bf387",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced [[through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement]].",
+      "roleStartToken" : 102,
+      "roleTokenLength" : 19,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "30ee94d98c88c90860c65b28b8896f3a"
+    } ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically [[announced]] through a Notice to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+    "triggerStartToken" : 101,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 88,
+    "headTokenLength" : 1,
+    "id" : "aa9a295a044a7d3240085e7f0d9d263b",
+    "normalizedHead" : "and",
+    "normalizedTrigger" : "and",
+    "roles" : [ {
+      "normalizedRole" : "LOAC",
+      "normalizedRoleHead" : "LOAC",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 87,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "e854064accab550841e155dd2a1cbfb2",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with [[LOAC]] and other rules of international law.",
+      "roleStartToken" : 87,
+      "roleTokenLength" : 1,
+      "roleType" : "CONJUNCT_LINK#FIRST_PART",
+      "triggerID" : "aa9a295a044a7d3240085e7f0d9d263b"
+    }, {
+      "normalizedRole" : "other rules of international law",
+      "normalizedRoleHead" : "rules",
+      "normalizedTrigger" : "and",
+      "roleHeadStartToken" : 90,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b8db0c3f8d156e23ac5f433156acbf4a",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and [[other rules of international law]].",
+      "roleStartToken" : 89,
+      "roleTokenLength" : 5,
+      "roleType" : "CONJUNCT_LINK#SECOND_PART",
+      "triggerID" : "aa9a295a044a7d3240085e7f0d9d263b"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC [[and]] other rules of international law.",
+    "triggerStartToken" : 88,
+    "triggerTokenLength" : 1,
+    "triggerType" : "CONJUNCT_LINK"
+  }, {
+    "headStartToken" : 164,
+    "headTokenLength" : 1,
+    "id" : "b4db0dcf1b2139c7ee70537d61870ed2",
+    "normalizedHead" : "inserted",
+    "normalizedTrigger" : "inserted",
+    "roles" : [ {
+      "normalizedRole" : "detail",
+      "normalizedRoleHead" : "detail",
+      "normalizedTrigger" : "inserted",
+      "roleHeadStartToken" : 161,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "262a2dc4b028a22f67db053d1283a3c3",
+      "roleInContext" : "5.4 Where the term (SPECIFY) is included, [[detail]] must be inserted to clarify the meaning of the provision.",
+      "roleStartToken" : 161,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A1",
+      "triggerID" : "b4db0dcf1b2139c7ee70537d61870ed2"
+    } ],
+    "triggerInContext" : "5.4 Where the term (SPECIFY) is included, detail must be [[inserted]] to clarify the meaning of the provision.",
+    "triggerStartToken" : 164,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 111,
+    "headTokenLength" : 1,
+    "id" : "4308d722a209f93a76e8b5a57ab23eaa",
+    "normalizedHead" : "Notice",
+    "normalizedTrigger" : "Notice",
+    "roles" : [ {
+      "normalizedRole" : "to Airmen ( NOTAM )",
+      "normalizedRoleHead" : "NOTAM",
+      "normalizedTrigger" : "Notice",
+      "roleHeadStartToken" : 115,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c4945f3ba2ab3cfa05285d5bc807b9d4",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice [[to Airmen (NOTAM)]], or similar announcement.",
+      "roleStartToken" : 112,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "4308d722a209f93a76e8b5a57ab23eaa"
+    } ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), [[Notice]] to Airmen (NOTAM), or similar announcement.",
+    "triggerStartToken" : 111,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 3,
+    "headTokenLength" : 1,
+    "id" : "9f470af2addc0477633f32b59fc51192",
+    "normalizedHead" : "announcements",
+    "normalizedTrigger" : "announcements",
+    "roles" : [ {
+      "normalizedRole" : "Maritime warning zone",
+      "normalizedRoleHead" : "zone",
+      "normalizedTrigger" : "announcements",
+      "roleHeadStartToken" : 2,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "925557778005db6cb35079b44a87f97b",
+      "roleInContext" : "[[Maritime warning zone]] announcements",
+      "roleStartToken" : 0,
+      "roleTokenLength" : 3,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "9f470af2addc0477633f32b59fc51192"
+    } ],
+    "triggerInContext" : "Maritime warning zone [[announcements]]",
+    "triggerStartToken" : 3,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 30,
+    "headTokenLength" : 3,
+    "id" : "3b85f3838b342997d1f5831fdd3a83cf",
+    "normalizedHead" : "self - defence",
+    "normalizedTrigger" : "self - defence",
+    "roles" : [ {
+      "normalizedRole" : "self",
+      "normalizedRoleHead" : "self",
+      "normalizedTrigger" : "self - defence",
+      "roleHeadStartToken" : 30,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1e963eb0f511c55903a1752f173eb1fe",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the [[self]]-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 30,
+      "roleTokenLength" : 1,
+      "roleType" : "HYPHEN_VERB#NONVERB",
+      "triggerID" : "3b85f3838b342997d1f5831fdd3a83cf"
+    }, {
+      "normalizedRole" : "defence",
+      "normalizedRoleHead" : "defence",
+      "normalizedTrigger" : "self - defence",
+      "roleHeadStartToken" : 32,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "90731b983ebd03ea2afa90a40ead2019",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-[[defence]] and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 32,
+      "roleTokenLength" : 1,
+      "roleType" : "HYPHEN_VERB#VERB",
+      "triggerID" : "3b85f3838b342997d1f5831fdd3a83cf"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the [[self-defence]] and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 30,
+    "triggerTokenLength" : 3,
+    "triggerType" : "HYPHEN_VERB"
+  }, {
+    "headStartToken" : 83,
+    "headTokenLength" : 1,
+    "id" : "342d58e025713750429aeb56663a9f5c",
+    "normalizedHead" : "duty",
+    "normalizedTrigger" : "duty",
+    "roles" : [ {
+      "normalizedRole" : "their",
+      "normalizedRoleHead" : "their",
+      "normalizedTrigger" : "duty",
+      "roleHeadStartToken" : 82,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "048f90698cc4ab0ad0a71a54c234da48",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for [[their]] duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 82,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "342d58e025713750429aeb56663a9f5c"
+    }, {
+      "normalizedRole" : "to comply with LOAC and other rules of international law",
+      "normalizedRoleHead" : "comply",
+      "normalizedTrigger" : "duty",
+      "roleHeadStartToken" : 85,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c32b86c94ae3f738db9a190e0d1965c7",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty [[to comply with LOAC and other rules of international law]].",
+      "roleStartToken" : 84,
+      "roleTokenLength" : 10,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "342d58e025713750429aeb56663a9f5c"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their [[duty]] to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 83,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 124,
+    "headTokenLength" : 1,
+    "id" : "e32d4aa789b74d9e382d91fa999963b2",
+    "normalizedHead" : "announcements",
+    "normalizedTrigger" : "announcements",
+    "roles" : [ {
+      "normalizedRole" : "Model",
+      "normalizedRoleHead" : "Model",
+      "normalizedTrigger" : "announcements",
+      "roleHeadStartToken" : 123,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7b539c672ebb16eb406795dcb65d2f68",
+      "roleInContext" : "5.3 [[Model]] announcements are provided for two types of zones:",
+      "roleStartToken" : 123,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#JJPRED",
+      "triggerID" : "e32d4aa789b74d9e382d91fa999963b2"
+    } ],
+    "triggerInContext" : "5.3 Model [[announcements]] are provided for two types of zones:",
+    "triggerStartToken" : 124,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 71,
+    "headTokenLength" : 1,
+    "id" : "02670a0b2981679fd75d8c10c30901ba",
+    "normalizedHead" : "responsibility",
+    "normalizedTrigger" : "responsibility",
+    "roles" : [ {
+      "normalizedRole" : "their",
+      "normalizedRoleHead" : "their",
+      "normalizedTrigger" : "responsibility",
+      "roleHeadStartToken" : 70,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "36a24baa857bc9cced86a4d310fa3bc3",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of [[their]] responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 70,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#A0",
+      "triggerID" : "02670a0b2981679fd75d8c10c30901ba"
+    }, {
+      "normalizedRole" : "for the safety of the forces they command",
+      "normalizedRoleHead" : "command",
+      "normalizedTrigger" : "responsibility",
+      "roleHeadStartToken" : 79,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "121cdc7441bc93f9c6b3f8657ef85843",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility [[for the safety of the forces they command]] or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 72,
+      "roleTokenLength" : 8,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "02670a0b2981679fd75d8c10c30901ba"
+    }, {
+      "normalizedRole" : "for their duty to comply with LOAC and other rules of international law",
+      "normalizedRoleHead" : "duty",
+      "normalizedTrigger" : "responsibility",
+      "roleHeadStartToken" : 83,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f9374c80582c790375774ae9cbed001f",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or [[for their duty to comply with LOAC and other rules of international law]].",
+      "roleStartToken" : 81,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "02670a0b2981679fd75d8c10c30901ba"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their [[responsibility]] for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 71,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 74,
+    "headTokenLength" : 1,
+    "id" : "3970aa4aed24739c9ceb59423749d8b2",
+    "normalizedHead" : "safety",
+    "normalizedTrigger" : "safety",
+    "roles" : [ {
+      "normalizedRole" : "the forces they command",
+      "normalizedRoleHead" : "forces",
+      "normalizedTrigger" : "safety",
+      "roleHeadStartToken" : 77,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "8c2ca914b0414050ac5c6e4ca27b4c69",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of [[the forces they command]] or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 76,
+      "roleTokenLength" : 4,
+      "roleType" : "FRAME#UNK",
+      "triggerID" : "3970aa4aed24739c9ceb59423749d8b2"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the [[safety]] of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 74,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 6,
+    "headTokenLength" : 1,
+    "id" : "02df13e720ebc8b9e12a8e3e58c58876",
+    "normalizedHead" : "Warning",
+    "normalizedTrigger" : "Warning",
+    "roles" : [ ],
+    "triggerInContext" : "5.1 Maritime [[Warning]] Zones are an operational issue.",
+    "triggerStartToken" : 6,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 111,
+    "headTokenLength" : 1,
+    "id" : "6bb7976fb4bd7b8cc0e556bb99c91f21",
+    "normalizedHead" : "Notice",
+    "normalizedTrigger" : "Notice to Airmen ( NOTAM )",
+    "roles" : [ {
+      "normalizedRole" : "Notice to Airmen",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "Notice to Airmen ( NOTAM )",
+      "roleHeadStartToken" : 111,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "d6a32a363a6528691a8042ea83cee2ff",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), [[Notice to Airmen]] (NOTAM), or similar announcement.",
+      "roleStartToken" : 111,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#ENTITY",
+      "triggerID" : "6bb7976fb4bd7b8cc0e556bb99c91f21"
+    }, {
+      "normalizedRole" : "NOTAM",
+      "normalizedRoleHead" : "NOTAM",
+      "normalizedTrigger" : "Notice to Airmen ( NOTAM )",
+      "roleHeadStartToken" : 115,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f80122a14e71f1c8046cff8c560dacf6",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), Notice to Airmen ([[NOTAM]]), or similar announcement.",
+      "roleStartToken" : 115,
+      "roleTokenLength" : 1,
+      "roleType" : "APPOS#OTHER_ENTITY",
+      "triggerID" : "6bb7976fb4bd7b8cc0e556bb99c91f21"
+    } ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners (NOTMAR), [[Notice to Airmen (NOTAM)]], or similar announcement.",
+    "triggerStartToken" : 111,
+    "triggerTokenLength" : 6,
+    "triggerType" : "APPOS"
+  }, {
+    "headStartToken" : 51,
+    "headTokenLength" : 1,
+    "id" : "692b374285e04e84c015d15320b07b39",
+    "normalizedHead" : "users",
+    "normalizedTrigger" : "other users of the water space",
+    "roles" : [ {
+      "normalizedRole" : "other",
+      "normalizedRoleHead" : "other",
+      "normalizedTrigger" : "other users of the water space",
+      "roleHeadStartToken" : 50,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9345e4073edbc0e5e2fb7e24b9562b27",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to [[other]] users of the water space.",
+      "roleStartToken" : 50,
+      "roleTokenLength" : 1,
+      "roleType" : "DISTINCT_MARKER#MARKER",
+      "triggerID" : "692b374285e04e84c015d15320b07b39"
+    }, {
+      "normalizedRole" : "users of the water space",
+      "normalizedRoleHead" : "users",
+      "normalizedTrigger" : "other users of the water space",
+      "roleHeadStartToken" : 51,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "75e197f571da8a57621eadf766190d3f",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other [[users of the water space]].",
+      "roleStartToken" : 51,
+      "roleTokenLength" : 5,
+      "roleType" : "DISTINCT_MARKER#BASE_WORD",
+      "triggerID" : "692b374285e04e84c015d15320b07b39"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to [[other users of the water space]].",
+    "triggerStartToken" : 50,
+    "triggerTokenLength" : 6,
+    "triggerType" : "DISTINCT_MARKER"
+  }, {
+    "headStartToken" : 144,
+    "headTokenLength" : 1,
+    "id" : "2ef845c024b7dcba24483692283c8ea9",
+    "normalizedHead" : "Exclusion",
+    "normalizedTrigger" : "Exclusion",
+    "roles" : [ ],
+    "triggerInContext" : "b. Warning Area and [[Exclusion]] Zone in the Territorial Sea.",
+    "triggerStartToken" : 144,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 67,
+    "headTokenLength" : 1,
+    "id" : "e20c053c7de0b5d4bbce87e3566964ab",
+    "normalizedHead" : "absolve",
+    "normalizedTrigger" : "absolve",
+    "roles" : [ {
+      "normalizedRole" : "cannot",
+      "normalizedRoleHead" : "cannot",
+      "normalizedTrigger" : "absolve",
+      "roleHeadStartToken" : 63,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "46ffe2263d30b6433fc271762ea39d62",
+      "roleInContext" : "However used, Maritime warning zones [[cannot]] and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 63,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "e20c053c7de0b5d4bbce87e3566964ab"
+    }, {
+      "normalizedRole" : "not",
+      "normalizedRoleHead" : "not",
+      "normalizedTrigger" : "absolve",
+      "roleHeadStartToken" : 66,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "aa657284bc7bc377fdf11bfe947e1929",
+      "roleInContext" : "However used, Maritime warning zones cannot and do [[not]] absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+      "roleStartToken" : 66,
+      "roleTokenLength" : 1,
+      "roleType" : "FRAME#MNR",
+      "triggerID" : "e20c053c7de0b5d4bbce87e3566964ab"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not [[absolve]] commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 67,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 19,
+    "headTokenLength" : 1,
+    "id" : "2804a24794e3e965c31eb70f1df78580",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "warning",
+    "roles" : [ ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime [[warning]] zones provide operational commanders with the means to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 19,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 93,
+    "headTokenLength" : 1,
+    "id" : "7adbfcfea5cd49630b2e2267e3089658",
+    "normalizedHead" : "law",
+    "normalizedTrigger" : "international law",
+    "roles" : [ {
+      "normalizedRole" : "international",
+      "normalizedRoleHead" : "international",
+      "normalizedTrigger" : "international law",
+      "roleHeadStartToken" : 92,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "fcec39dc3bef9dd83eaebefac59ae310",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of [[international]] law.",
+      "roleStartToken" : 92,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "7adbfcfea5cd49630b2e2267e3089658"
+    }, {
+      "normalizedRole" : "law",
+      "normalizedRoleHead" : "law",
+      "normalizedTrigger" : "international law",
+      "roleHeadStartToken" : 93,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f8ec592fcd82e292503c501b8fe01218",
+      "roleInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international [[law]].",
+      "roleStartToken" : 93,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "7adbfcfea5cd49630b2e2267e3089658"
+    } ],
+    "triggerInContext" : "However used, Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of [[international law]].",
+    "triggerStartToken" : 92,
+    "triggerTokenLength" : 2,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 104,
+    "headTokenLength" : 1,
+    "id" : "14cfad8e5c0101fbaf3672f9efdd3ddd",
+    "normalizedHead" : "Notice",
+    "normalizedTrigger" : "Notice to Mariners ( NOTMAR )",
+    "roles" : [ {
+      "normalizedRole" : "Notice to Mariners",
+      "normalizedRoleHead" : "Notice",
+      "normalizedTrigger" : "Notice to Mariners ( NOTMAR )",
+      "roleHeadStartToken" : 104,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "0c380d44aca3ad8a115fa64de10209b6",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a [[Notice to Mariners]] (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 104,
+      "roleTokenLength" : 3,
+      "roleType" : "APPOS#ENTITY",
+      "triggerID" : "14cfad8e5c0101fbaf3672f9efdd3ddd"
+    }, {
+      "normalizedRole" : "NOTMAR",
+      "normalizedRoleHead" : "NOTMAR",
+      "normalizedTrigger" : "Notice to Mariners ( NOTMAR )",
+      "roleHeadStartToken" : 108,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6d35b972846d6b2b6053f4a2fad8262e",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners ([[NOTMAR]]), Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 108,
+      "roleTokenLength" : 1,
+      "roleType" : "APPOS#OTHER_ENTITY",
+      "triggerID" : "14cfad8e5c0101fbaf3672f9efdd3ddd"
+    } ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically announced through a [[Notice to Mariners (NOTMAR)]], Notice to Airmen (NOTAM), or similar announcement.",
+    "triggerStartToken" : 104,
+    "triggerTokenLength" : 6,
+    "triggerType" : "APPOS"
+  }, {
+    "headStartToken" : 26,
+    "headTokenLength" : 1,
+    "id" : "cb93fd2c41148e73f6ff26a88058386d",
+    "normalizedHead" : "means",
+    "normalizedTrigger" : "means",
+    "roles" : [ {
+      "normalizedRole" : "to enhance the self - defence and force protection posture of their assets",
+      "normalizedRoleHead" : "enhance",
+      "normalizedTrigger" : "means",
+      "roleHeadStartToken" : 28,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "c2e46eb73129272973257c7fde854bf1",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means [[to enhance the self-defence and force protection posture of their assets]], and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 27,
+      "roleTokenLength" : 13,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "cb93fd2c41148e73f6ff26a88058386d"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the [[means]] to enhance the self-defence and force protection posture of their assets, and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 26,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 135,
+    "headTokenLength" : 1,
+    "id" : "883572aabae8feb622389b47f40c5c2b",
+    "normalizedHead" : "Area",
+    "normalizedTrigger" : "Warning Area in International Waters",
+    "roles" : [ {
+      "normalizedRole" : "Warning Area",
+      "normalizedRoleHead" : "Area",
+      "normalizedTrigger" : "Warning Area in International Waters",
+      "roleHeadStartToken" : 135,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a0165a14d460459232f35eb2c5711a38",
+      "roleInContext" : "a. [[Warning Area]] in International Waters.",
+      "roleStartToken" : 134,
+      "roleTokenLength" : 2,
+      "roleType" : "PREP_MODIFIER#ENTITY",
+      "triggerID" : "883572aabae8feb622389b47f40c5c2b"
+    }, {
+      "normalizedRole" : "in International Waters",
+      "normalizedRoleHead" : "Waters",
+      "normalizedTrigger" : "Warning Area in International Waters",
+      "roleHeadStartToken" : 138,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "89e0389fe1d8c39b58d5bf286c374978",
+      "roleInContext" : "a. Warning Area [[in International Waters]].",
+      "roleStartToken" : 136,
+      "roleTokenLength" : 3,
+      "roleType" : "PREP_MODIFIER#PHRASE",
+      "triggerID" : "883572aabae8feb622389b47f40c5c2b"
+    } ],
+    "triggerInContext" : "a. [[Warning Area in International Waters]].",
+    "triggerStartToken" : 134,
+    "triggerTokenLength" : 5,
+    "triggerType" : "PREP_MODIFIER"
+  }, {
+    "headStartToken" : 39,
+    "headTokenLength" : 1,
+    "id" : "93e16ea86f0be9abb34cf49a24a8b5f4",
+    "normalizedHead" : "assets",
+    "normalizedTrigger" : "their assets",
+    "roles" : [ {
+      "normalizedRole" : "their",
+      "normalizedRoleHead" : "their",
+      "normalizedTrigger" : "their assets",
+      "roleHeadStartToken" : 38,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "1cdbf412b00f1ce956c6b76a246cd932",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of [[their]] assets, and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 38,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSOR",
+      "triggerID" : "93e16ea86f0be9abb34cf49a24a8b5f4"
+    }, {
+      "normalizedRole" : "assets",
+      "normalizedRoleHead" : "assets",
+      "normalizedTrigger" : "their assets",
+      "roleHeadStartToken" : 39,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "6c5a644e4773cfcbb0a8e4212d58538d",
+      "roleInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of their [[assets]], and with the means to announce potential hazards to other users of the water space.",
+      "roleStartToken" : 39,
+      "roleTokenLength" : 1,
+      "roleType" : "POSSESSIVE#POSSESSION",
+      "triggerID" : "93e16ea86f0be9abb34cf49a24a8b5f4"
+    } ],
+    "triggerInContext" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self-defence and force protection posture of [[their assets]], and with the means to announce potential hazards to other users of the water space.",
+    "triggerStartToken" : 38,
+    "triggerTokenLength" : 2,
+    "triggerType" : "POSSESSIVE"
+  }, {
+    "headStartToken" : 104,
+    "headTokenLength" : 1,
+    "id" : "852944a4ac271ece1a3ab88de87f8b99",
+    "normalizedHead" : "Notice",
+    "normalizedTrigger" : "Notice",
+    "roles" : [ {
+      "normalizedRole" : "to Mariners ( NOTMAR )",
+      "normalizedRoleHead" : "NOTMAR",
+      "normalizedTrigger" : "Notice",
+      "roleHeadStartToken" : 108,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "4427f4eed9aabaae10105dfb9248fdeb",
+      "roleInContext" : "5.2 Maritime Warning Zones are typically announced through a Notice [[to Mariners (NOTMAR)]], Notice to Airmen (NOTAM), or similar announcement.",
+      "roleStartToken" : 105,
+      "roleTokenLength" : 5,
+      "roleType" : "FRAME#PP",
+      "triggerID" : "852944a4ac271ece1a3ab88de87f8b99"
+    } ],
+    "triggerInContext" : "5.2 Maritime Warning Zones are typically announced through a [[Notice]] to Mariners (NOTMAR), Notice to Airmen (NOTAM), or similar announcement.",
+    "triggerStartToken" : 104,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 142,
+    "headTokenLength" : 1,
+    "id" : "735a9a8e9dc7c2486e18b1d876bb8546",
+    "normalizedHead" : "Area",
+    "normalizedTrigger" : "Warning Area",
+    "roles" : [ {
+      "normalizedRole" : "Warning",
+      "normalizedRoleHead" : "Warning",
+      "normalizedTrigger" : "Warning Area",
+      "roleHeadStartToken" : 141,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "b011c9226f9e10c466d73d84fde39319",
+      "roleInContext" : "b. [[Warning]] Area and Exclusion Zone in the Territorial Sea.",
+      "roleStartToken" : 141,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "735a9a8e9dc7c2486e18b1d876bb8546"
+    }, {
+      "normalizedRole" : "Area",
+      "normalizedRoleHead" : "Area",
+      "normalizedTrigger" : "Warning Area",
+      "roleHeadStartToken" : 142,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "7d6d90c6c043e949b124cba9cb6419d9",
+      "roleInContext" : "b. Warning [[Area]] and Exclusion Zone in the Territorial Sea.",
+      "roleStartToken" : 142,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "735a9a8e9dc7c2486e18b1d876bb8546"
+    } ],
+    "triggerInContext" : "b. [[Warning Area]] and Exclusion Zone in the Territorial Sea.",
+    "triggerStartToken" : 141,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 7,
+    "headTokenLength" : 1,
+    "id" : "7e026149e7f0a7210e49849d9550c359",
+    "normalizedHead" : "Zones",
+    "normalizedTrigger" : "Maritime Warning Zones",
+    "roles" : [ {
+      "normalizedRole" : "Maritime",
+      "normalizedRoleHead" : "Maritime",
+      "normalizedTrigger" : "Maritime Warning Zones",
+      "roleHeadStartToken" : 5,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "abbf067ded7ba8ee683771ce3bb1836a",
+      "roleInContext" : "5.1 [[Maritime]] Warning Zones are an operational issue.",
+      "roleStartToken" : 5,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#ADJECTIVE",
+      "triggerID" : "7e026149e7f0a7210e49849d9550c359"
+    }, {
+      "normalizedRole" : "Zones",
+      "normalizedRoleHead" : "Zones",
+      "normalizedTrigger" : "Maritime Warning Zones",
+      "roleHeadStartToken" : 7,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "9b30d50210ef1f14126c2fcc276e2c16",
+      "roleInContext" : "5.1 Maritime Warning [[Zones]] are an operational issue.",
+      "roleStartToken" : 7,
+      "roleTokenLength" : 1,
+      "roleType" : "ADJECTIVE_NOUN#NOUN",
+      "triggerID" : "7e026149e7f0a7210e49849d9550c359"
+    } ],
+    "triggerInContext" : "5.1 [[Maritime Warning Zones]] are an operational issue.",
+    "triggerStartToken" : 5,
+    "triggerTokenLength" : 3,
+    "triggerType" : "ADJECTIVE_NOUN"
+  }, {
+    "headStartToken" : 61,
+    "headTokenLength" : 1,
+    "id" : "11ab35eb6bbcb3077df15c9c1691804e",
+    "normalizedHead" : "warning",
+    "normalizedTrigger" : "warning",
+    "roles" : [ ],
+    "triggerInContext" : "However used, Maritime [[warning]] zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law.",
+    "triggerStartToken" : 61,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  }, {
+    "headStartToken" : 2,
+    "headTokenLength" : 1,
+    "id" : "f16a3233158fbc5fe462ef1917a5cbe5",
+    "normalizedHead" : "zone",
+    "normalizedTrigger" : "warning zone",
+    "roles" : [ {
+      "normalizedRole" : "warning",
+      "normalizedRoleHead" : "warning",
+      "normalizedTrigger" : "warning zone",
+      "roleHeadStartToken" : 1,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f6d8d55ac0d4e877d90e792276ffa138",
+      "roleInContext" : "Maritime [[warning]] zone announcements",
+      "roleStartToken" : 1,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "f16a3233158fbc5fe462ef1917a5cbe5"
+    }, {
+      "normalizedRole" : "zone",
+      "normalizedRoleHead" : "zone",
+      "normalizedTrigger" : "warning zone",
+      "roleHeadStartToken" : 2,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "f3908f6ece345f1d737c90c814cef788",
+      "roleInContext" : "Maritime warning [[zone]] announcements",
+      "roleStartToken" : 2,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "f16a3233158fbc5fe462ef1917a5cbe5"
+    } ],
+    "triggerInContext" : "Maritime [[warning zone]] announcements",
+    "triggerStartToken" : 1,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 135,
+    "headTokenLength" : 1,
+    "id" : "09343663d83201797f8a7dfbd79c2050",
+    "normalizedHead" : "Area",
+    "normalizedTrigger" : "Warning Area",
+    "roles" : [ {
+      "normalizedRole" : "Warning",
+      "normalizedRoleHead" : "Warning",
+      "normalizedTrigger" : "Warning Area",
+      "roleHeadStartToken" : 134,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a9d3a573bb4345bf7e57452cf0489918",
+      "roleInContext" : "a. [[Warning]] Area in International Waters.",
+      "roleStartToken" : 134,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#FIRST_PART",
+      "triggerID" : "09343663d83201797f8a7dfbd79c2050"
+    }, {
+      "normalizedRole" : "Area",
+      "normalizedRoleHead" : "Area",
+      "normalizedTrigger" : "Warning Area",
+      "roleHeadStartToken" : 135,
+      "roleHeadTokenLength" : 1,
+      "roleID" : "a938bbac3f2bf42d46819b39406b5efa",
+      "roleInContext" : "a. Warning [[Area]] in International Waters.",
+      "roleStartToken" : 135,
+      "roleTokenLength" : 1,
+      "roleType" : "NOUN_ADJUNCT#SECOND_PART",
+      "triggerID" : "09343663d83201797f8a7dfbd79c2050"
+    } ],
+    "triggerInContext" : "a. [[Warning Area]] in International Waters.",
+    "triggerStartToken" : 134,
+    "triggerTokenLength" : 2,
+    "triggerType" : "NOUN_ADJUNCT"
+  }, {
+    "headStartToken" : 141,
+    "headTokenLength" : 1,
+    "id" : "7bae43a6fc407528bc92eb21339e0caa",
+    "normalizedHead" : "Warning",
+    "normalizedTrigger" : "Warning",
+    "roles" : [ ],
+    "triggerInContext" : "b. [[Warning]] Area and Exclusion Zone in the Territorial Sea.",
+    "triggerStartToken" : 141,
+    "triggerTokenLength" : 1,
+    "triggerType" : "FRAME"
+  } ],
+  "label" : "Maritime warning zone announcements",
+  "raw" : "Maritime warning zone announcements\n\n5.1   Maritime Warning Zones are an operational issue. Properly established and\nAppropriately Implemented maritime warning zones provide operational commanders with\nthe means to enhance the self-defence and force protection posture of their assets, and with\nthe means to announce potential hazards to other users of the water space. However used,\nMaritime warning zones cannot and do not absolve commanders of their responsibility for\nthe safety of the forces they command or for their duty to comply with LOAC and other rules\nof international law.\n\n5.2   Maritime Warning Zones are typically announced through a Notice to Mariners\n(NOTMAR), Notice to Airmen (NOTAM), or similar announcement.\n\n5.3   Model announcements are provided for two types of zones:\n\n\na.   Warning Area in International Waters.\n\nb.   Warning Area and Exclusion Zone in the Territorial Sea.\n\n\n5.4   Where the term  (SPECIFY)  is included, detail must be inserted to clarify the\nmeaning of the provision.",
+  "sentences" : [ {
+    "normalized" : "Maritime warning zone announcements",
+    "offset" : 0,
+    "startToken" : 0,
+    "tokenLength" : 4
+  }, {
+    "normalized" : "5.1 Maritime Warning Zones are an operational issue .",
+    "offset" : 1,
+    "startToken" : 4,
+    "tokenLength" : 9
+  }, {
+    "normalized" : "Properly established and Appropriately Implemented maritime warning zones provide operational commanders with the means to enhance the self - defence and force protection posture of their assets , and with the means to announce potential hazards to other users of the water space .",
+    "offset" : 2,
+    "startToken" : 13,
+    "tokenLength" : 44
+  }, {
+    "normalized" : "However used , Maritime warning zones cannot and do not absolve commanders of their responsibility for the safety of the forces they command or for their duty to comply with LOAC and other rules of international law .",
+    "offset" : 3,
+    "startToken" : 57,
+    "tokenLength" : 38
+  }, {
+    "normalized" : "5.2 Maritime Warning Zones are typically announced through a Notice to Mariners ( NOTMAR ) , Notice to Airmen ( NOTAM ) , or similar announcement .",
+    "offset" : 4,
+    "startToken" : 95,
+    "tokenLength" : 27
+  }, {
+    "normalized" : "5.3 Model announcements are provided for two types of zones :",
+    "offset" : 5,
+    "startToken" : 122,
+    "tokenLength" : 11
+  }, {
+    "normalized" : "a. Warning Area in International Waters .",
+    "offset" : 6,
+    "startToken" : 133,
+    "tokenLength" : 7
+  }, {
+    "normalized" : "b. Warning Area and Exclusion Zone in the Territorial Sea .",
+    "offset" : 7,
+    "startToken" : 140,
+    "tokenLength" : 11
+  }, {
+    "normalized" : "5.4 Where the term ( SPECIFY ) is included , detail must be inserted to clarify the meaning of the provision .",
+    "offset" : 8,
+    "startToken" : 151,
+    "tokenLength" : 22
+  } ],
+  "tokens" : [ {
+    "charLength" : 8,
+    "normalized" : "Maritime",
+    "offset" : 0,
+    "secondaryTokenTag" : "FW",
+    "startChar" : 0,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "warning",
+    "offset" : 1,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 9,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "zone",
+    "offset" : 2,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 17,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 13,
+    "normalized" : "announcements",
+    "offset" : 3,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 22,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "5.1",
+    "offset" : 4,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 37,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 8,
+    "normalized" : "Maritime",
+    "offset" : 5,
+    "secondaryTokenTag" : "FW",
+    "startChar" : 43,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Warning",
+    "offset" : 6,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 52,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "Zones",
+    "offset" : 7,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 60,
+    "tokenTag" : "NNPS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "are",
+    "offset" : 8,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 66,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "an",
+    "offset" : 9,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 70,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "operational",
+    "offset" : 10,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 73,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 5,
+    "normalized" : "issue",
+    "offset" : 11,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 85,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 12,
+    "secondaryTokenTag" : ".",
+    "startChar" : 90,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 8,
+    "normalized" : "Properly",
+    "offset" : 13,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 92,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 11,
+    "normalized" : "established",
+    "offset" : 14,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 101,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 15,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 113,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 13,
+    "normalized" : "Appropriately",
+    "offset" : 16,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 117,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 11,
+    "normalized" : "Implemented",
+    "offset" : 17,
+    "secondaryTokenTag" : "VBD",
+    "startChar" : 131,
+    "tokenTag" : "VBD"
+  }, {
+    "charLength" : 8,
+    "normalized" : "maritime",
+    "offset" : 18,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 143,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "warning",
+    "offset" : 19,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 152,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "zones",
+    "offset" : 20,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 160,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 7,
+    "normalized" : "provide",
+    "offset" : 21,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 166,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 11,
+    "normalized" : "operational",
+    "offset" : 22,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 174,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 10,
+    "normalized" : "commanders",
+    "offset" : 23,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 186,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 24,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 197,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 25,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 202,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "means",
+    "offset" : 26,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 206,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 27,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 212,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 7,
+    "normalized" : "enhance",
+    "offset" : 28,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 215,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 29,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 223,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 4,
+    "normalized" : "self",
+    "offset" : 30,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 227,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "-",
+    "offset" : 31,
+    "secondaryTokenTag" : "-",
+    "startChar" : 231,
+    "tokenTag" : "-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "defence",
+    "offset" : 32,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 232,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 33,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 240,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 5,
+    "normalized" : "force",
+    "offset" : 34,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 244,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 10,
+    "normalized" : "protection",
+    "offset" : 35,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 250,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "posture",
+    "offset" : 36,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 261,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 37,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 269,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "their",
+    "offset" : 38,
+    "secondaryTokenTag" : "PRP$",
+    "startChar" : 272,
+    "tokenTag" : "PRP$"
+  }, {
+    "charLength" : 6,
+    "normalized" : "assets",
+    "offset" : 39,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 278,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 40,
+    "secondaryTokenTag" : ",",
+    "startChar" : 284,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 41,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 286,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 42,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 290,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 43,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 295,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "means",
+    "offset" : 44,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 299,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 45,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 305,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 8,
+    "normalized" : "announce",
+    "offset" : 46,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 308,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 9,
+    "normalized" : "potential",
+    "offset" : 47,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 317,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 7,
+    "normalized" : "hazards",
+    "offset" : 48,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 327,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 49,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 335,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 5,
+    "normalized" : "other",
+    "offset" : 50,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 338,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 5,
+    "normalized" : "users",
+    "offset" : 51,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 344,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 52,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 350,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 53,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 353,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 5,
+    "normalized" : "water",
+    "offset" : 54,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 357,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "space",
+    "offset" : 55,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 363,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 56,
+    "secondaryTokenTag" : ".",
+    "startChar" : 368,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 7,
+    "normalized" : "However",
+    "offset" : 57,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 370,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 4,
+    "normalized" : "used",
+    "offset" : 58,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 378,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 59,
+    "secondaryTokenTag" : ",",
+    "startChar" : 382,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 8,
+    "normalized" : "Maritime",
+    "offset" : 60,
+    "secondaryTokenTag" : "FW",
+    "startChar" : 384,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "warning",
+    "offset" : 61,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 393,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "zones",
+    "offset" : 62,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 401,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 6,
+    "normalized" : "cannot",
+    "offset" : 63,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 407,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 64,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 414,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 2,
+    "normalized" : "do",
+    "offset" : 65,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 418,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "not",
+    "offset" : 66,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 421,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 7,
+    "normalized" : "absolve",
+    "offset" : 67,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 425,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 10,
+    "normalized" : "commanders",
+    "offset" : 68,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 433,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 69,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 444,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "their",
+    "offset" : 70,
+    "secondaryTokenTag" : "PRP$",
+    "startChar" : 447,
+    "tokenTag" : "PRP$"
+  }, {
+    "charLength" : 14,
+    "normalized" : "responsibility",
+    "offset" : 71,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 453,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "for",
+    "offset" : 72,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 468,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 73,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 472,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "safety",
+    "offset" : 74,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 476,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 75,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 483,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 76,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 486,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "forces",
+    "offset" : 77,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 490,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 4,
+    "normalized" : "they",
+    "offset" : 78,
+    "secondaryTokenTag" : "PRP",
+    "startChar" : 497,
+    "tokenTag" : "PRP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "command",
+    "offset" : 79,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 502,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 80,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 510,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 3,
+    "normalized" : "for",
+    "offset" : 81,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 513,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "their",
+    "offset" : 82,
+    "secondaryTokenTag" : "PRP$",
+    "startChar" : 517,
+    "tokenTag" : "PRP$"
+  }, {
+    "charLength" : 4,
+    "normalized" : "duty",
+    "offset" : 83,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 523,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 84,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 528,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "comply",
+    "offset" : 85,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 531,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 4,
+    "normalized" : "with",
+    "offset" : 86,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 538,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "LOAC",
+    "offset" : 87,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 543,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 88,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 548,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 5,
+    "normalized" : "other",
+    "offset" : 89,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 552,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 5,
+    "normalized" : "rules",
+    "offset" : 90,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 558,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 91,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 564,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 13,
+    "normalized" : "international",
+    "offset" : 92,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 567,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 3,
+    "normalized" : "law",
+    "offset" : 93,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 581,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 94,
+    "secondaryTokenTag" : ".",
+    "startChar" : 584,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "5.2",
+    "offset" : 95,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 587,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 8,
+    "normalized" : "Maritime",
+    "offset" : 96,
+    "secondaryTokenTag" : "FW",
+    "startChar" : 593,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Warning",
+    "offset" : 97,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 602,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 5,
+    "normalized" : "Zones",
+    "offset" : 98,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 610,
+    "tokenTag" : "NNPS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "are",
+    "offset" : 99,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 616,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 9,
+    "normalized" : "typically",
+    "offset" : 100,
+    "secondaryTokenTag" : "RB",
+    "startChar" : 620,
+    "tokenTag" : "RB"
+  }, {
+    "charLength" : 9,
+    "normalized" : "announced",
+    "offset" : 101,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 630,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 7,
+    "normalized" : "through",
+    "offset" : 102,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 640,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "a",
+    "offset" : 103,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 648,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 6,
+    "normalized" : "Notice",
+    "offset" : 104,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 650,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 105,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 657,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 8,
+    "normalized" : "Mariners",
+    "offset" : 106,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 660,
+    "tokenTag" : "NNPS"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 107,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 669,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 6,
+    "normalized" : "NOTMAR",
+    "offset" : 108,
+    "secondaryTokenTag" : "UH",
+    "startChar" : 670,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 109,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 676,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 110,
+    "secondaryTokenTag" : ",",
+    "startChar" : 677,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 6,
+    "normalized" : "Notice",
+    "offset" : 111,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 679,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 112,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 686,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 6,
+    "normalized" : "Airmen",
+    "offset" : 113,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 689,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 114,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 696,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 5,
+    "normalized" : "NOTAM",
+    "offset" : 115,
+    "secondaryTokenTag" : "UH",
+    "startChar" : 697,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 116,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 702,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 117,
+    "secondaryTokenTag" : ",",
+    "startChar" : 703,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 2,
+    "normalized" : "or",
+    "offset" : 118,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 705,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 7,
+    "normalized" : "similar",
+    "offset" : 119,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 708,
+    "tokenTag" : "JJ"
+  }, {
+    "charLength" : 12,
+    "normalized" : "announcement",
+    "offset" : 120,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 716,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 121,
+    "secondaryTokenTag" : ".",
+    "startChar" : 728,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "5.3",
+    "offset" : 122,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 731,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 5,
+    "normalized" : "Model",
+    "offset" : 123,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 737,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 13,
+    "normalized" : "announcements",
+    "offset" : 124,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 743,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 3,
+    "normalized" : "are",
+    "offset" : 125,
+    "secondaryTokenTag" : "VBP",
+    "startChar" : 757,
+    "tokenTag" : "VBP"
+  }, {
+    "charLength" : 8,
+    "normalized" : "provided",
+    "offset" : 126,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 761,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "for",
+    "offset" : 127,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 770,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "two",
+    "offset" : 128,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 774,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 5,
+    "normalized" : "types",
+    "offset" : 129,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 778,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 130,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 784,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 5,
+    "normalized" : "zones",
+    "offset" : 131,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 787,
+    "tokenTag" : "NNS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ":",
+    "offset" : 132,
+    "secondaryTokenTag" : ":",
+    "startChar" : 792,
+    "tokenTag" : ":"
+  }, {
+    "charLength" : 2,
+    "normalized" : "a.",
+    "offset" : 133,
+    "secondaryTokenTag" : "SYM",
+    "startChar" : 796,
+    "tokenTag" : "SYM"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Warning",
+    "offset" : 134,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 801,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Area",
+    "offset" : 135,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 809,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 136,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 814,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 13,
+    "normalized" : "International",
+    "offset" : 137,
+    "secondaryTokenTag" : "JJ",
+    "startChar" : 817,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 6,
+    "normalized" : "Waters",
+    "offset" : 138,
+    "secondaryTokenTag" : "NNS",
+    "startChar" : 831,
+    "tokenTag" : "NNPS"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 139,
+    "secondaryTokenTag" : ".",
+    "startChar" : 837,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 2,
+    "normalized" : "b.",
+    "offset" : 140,
+    "secondaryTokenTag" : "SYM",
+    "startChar" : 840,
+    "tokenTag" : "SYM"
+  }, {
+    "charLength" : 7,
+    "normalized" : "Warning",
+    "offset" : 141,
+    "secondaryTokenTag" : "VBG",
+    "startChar" : 845,
+    "tokenTag" : "VBG"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Area",
+    "offset" : 142,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 853,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "and",
+    "offset" : 143,
+    "secondaryTokenTag" : "CC",
+    "startChar" : 858,
+    "tokenTag" : "CC"
+  }, {
+    "charLength" : 9,
+    "normalized" : "Exclusion",
+    "offset" : 144,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 862,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "Zone",
+    "offset" : 145,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 872,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "in",
+    "offset" : 146,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 877,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 147,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 880,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 11,
+    "normalized" : "Territorial",
+    "offset" : 148,
+    "secondaryTokenTag" : "NNP",
+    "startChar" : 884,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 3,
+    "normalized" : "Sea",
+    "offset" : 149,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 896,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 150,
+    "secondaryTokenTag" : ".",
+    "startChar" : 899,
+    "tokenTag" : "."
+  }, {
+    "charLength" : 3,
+    "normalized" : "5.4",
+    "offset" : 151,
+    "secondaryTokenTag" : "CD",
+    "startChar" : 903,
+    "tokenTag" : "CD"
+  }, {
+    "charLength" : 5,
+    "normalized" : "Where",
+    "offset" : 152,
+    "secondaryTokenTag" : "WRB",
+    "startChar" : 909,
+    "tokenTag" : "WRB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 153,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 915,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 4,
+    "normalized" : "term",
+    "offset" : 154,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 919,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : "(",
+    "offset" : 155,
+    "secondaryTokenTag" : "-LRB-",
+    "startChar" : 925,
+    "tokenTag" : "-LRB-"
+  }, {
+    "charLength" : 7,
+    "normalized" : "SPECIFY",
+    "offset" : 156,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 926,
+    "tokenTag" : "NNP"
+  }, {
+    "charLength" : 1,
+    "normalized" : ")",
+    "offset" : 157,
+    "secondaryTokenTag" : "-RRB-",
+    "startChar" : 933,
+    "tokenTag" : "-RRB-"
+  }, {
+    "charLength" : 2,
+    "normalized" : "is",
+    "offset" : 158,
+    "secondaryTokenTag" : "VBZ",
+    "startChar" : 936,
+    "tokenTag" : "VBZ"
+  }, {
+    "charLength" : 8,
+    "normalized" : "included",
+    "offset" : 159,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 939,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ",",
+    "offset" : 160,
+    "secondaryTokenTag" : ",",
+    "startChar" : 947,
+    "tokenTag" : ","
+  }, {
+    "charLength" : 6,
+    "normalized" : "detail",
+    "offset" : 161,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 949,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 4,
+    "normalized" : "must",
+    "offset" : 162,
+    "secondaryTokenTag" : "MD",
+    "startChar" : 956,
+    "tokenTag" : "MD"
+  }, {
+    "charLength" : 2,
+    "normalized" : "be",
+    "offset" : 163,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 961,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 8,
+    "normalized" : "inserted",
+    "offset" : 164,
+    "secondaryTokenTag" : "VBN",
+    "startChar" : 964,
+    "tokenTag" : "VBN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "to",
+    "offset" : 165,
+    "secondaryTokenTag" : "TO",
+    "startChar" : 973,
+    "tokenTag" : "TO"
+  }, {
+    "charLength" : 7,
+    "normalized" : "clarify",
+    "offset" : 166,
+    "secondaryTokenTag" : "VB",
+    "startChar" : 976,
+    "tokenTag" : "VB"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 167,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 984,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 7,
+    "normalized" : "meaning",
+    "offset" : 168,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 988,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 2,
+    "normalized" : "of",
+    "offset" : 169,
+    "secondaryTokenTag" : "IN",
+    "startChar" : 996,
+    "tokenTag" : "IN"
+  }, {
+    "charLength" : 3,
+    "normalized" : "the",
+    "offset" : 170,
+    "secondaryTokenTag" : "DT",
+    "startChar" : 999,
+    "tokenTag" : "DT"
+  }, {
+    "charLength" : 9,
+    "normalized" : "provision",
+    "offset" : 171,
+    "secondaryTokenTag" : "NN",
+    "startChar" : 1003,
+    "tokenTag" : "NN"
+  }, {
+    "charLength" : 1,
+    "normalized" : ".",
+    "offset" : 172,
+    "secondaryTokenTag" : ".",
+    "startChar" : 1012,
+    "tokenTag" : "."
+  } ],
+  "zones" : [ {
+    "lastSentence" : 0,
+    "normalized" : "Maritime warning zone announcements",
+    "startSentence" : 0,
+    "type" : "Heading"
+  }, {
+    "lastSentence" : 8,
+    "normalized" : "Maritime warning zone announcements 5.1...meaning of the provision .",
+    "startSentence" : 0,
+    "type" : "HeadingWithContent"
+  }, {
+    "lastSentence" : 3,
+    "normalized" : "5.1 Maritime Warning Zones are...rules of international law .",
+    "startSentence" : 1,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 8,
+    "normalized" : "5.1 Maritime Warning Zones are...meaning of the provision .",
+    "startSentence" : 1,
+    "type" : "ListInDocument"
+  }, {
+    "lastSentence" : 4,
+    "normalized" : "5.2 Maritime Warning Zones are..., or similar announcement .",
+    "startSentence" : 4,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 5,
+    "normalized" : "5.3 Model announcements are provided...two types of zones :",
+    "startSentence" : 5,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 6,
+    "normalized" : "a. Warning Area in International Waters .",
+    "startSentence" : 6,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 7,
+    "normalized" : "a. Warning Area in International...in the Territorial Sea .",
+    "startSentence" : 6,
+    "type" : "ListInDocument"
+  }, {
+    "lastSentence" : 7,
+    "normalized" : "b. Warning Area and Exclusion...in the Territorial Sea .",
+    "startSentence" : 7,
+    "type" : "ListItemInDocument"
+  }, {
+    "lastSentence" : 8,
+    "normalized" : "5.4 Where the term (...meaning of the provision .",
+    "startSentence" : 8,
+    "type" : "ListItemInDocument"
+  } ]
+}

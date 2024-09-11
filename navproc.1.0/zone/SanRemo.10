@@ -1,0 +1,11 @@
+#START_SENT	LAST_SENT	TYPE	TEXT
+0	0	Heading	Maritime warning zone announcements
+0	8	HeadingWithContent	Maritime warning zone announcements 5.1...meaning of the provision .
+1	3	ListItemInDocument	5.1 Maritime Warning Zones are...rules of international law .
+1	8	ListInDocument	5.1 Maritime Warning Zones are...meaning of the provision .
+4	4	ListItemInDocument	5.2 Maritime Warning Zones are..., or similar announcement .
+5	5	ListItemInDocument	5.3 Model announcements are provided...two types of zones :
+6	6	ListItemInDocument	a. Warning Area in International Waters .
+6	7	ListInDocument	a. Warning Area in International...in the Territorial Sea .
+7	7	ListItemInDocument	b. Warning Area and Exclusion...in the Territorial Sea .
+8	8	ListItemInDocument	5.4 Where the term (...meaning of the provision .

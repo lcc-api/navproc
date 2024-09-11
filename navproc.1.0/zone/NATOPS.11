@@ -1,0 +1,16 @@
+#START_SENT	LAST_SENT	TYPE	TEXT
+0	0	Heading	Level A — Required Annual Training
+0	36	HeadingWithContent	Level A — Required Annual...include a practical application .
+1	10	ListItemInDocument	a. Ejection Seat Training (...3760 / 32 ) .
+1	36	ListInDocument	a. Ejection Seat Training (...include a practical application .
+2	4	ListItemInDocument	( 1 ) The training...operations and malfunctions ) .
+2	10	ListInDocument	( 1 ) The training...3760 / 32 ) .
+5	10	ListItemInDocument	( 2 ) EST −...3760 / 32 ) .
+11	14	ListItemInDocument	b. EET Egress Emergency Egress...non - essential aircrew .
+15	15	ListItemInDocument	c. SDO / IGS Sensory...) and disorientation countermeasures .
+19	20	ListItemInDocument	d. LEP Laser / Laser...which it is flown .
+21	25	ListItemInDocument	e. DHT Hypoxia Awareness Training...Training using a ROBD .
+26	27	ListItemInDocument	f. GTIP G - Tolerance...increase in G tolerance .
+28	28	ListItemInDocument	g. ALSS ALSS items –...or aircraft mounted kits .
+32	34	ListItemInDocument	h. All aircrew shall receive...radio training brief annually .
+35	36	ListItemInDocument	i. Within 90 days of...include a practical application .
